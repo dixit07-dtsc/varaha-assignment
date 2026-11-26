@@ -1,0 +1,379 @@
+﻿paper_name,site,treatment,depth_cm,variable,value,unit,source,confidence,category,note
+Sarkar_2011,IIT Kharagpur experimental farm,all,,site_name,"Experimental farm, Agri & Food Engg Dept, IIT Kharagpur, West Bengal",,p4 Experimental Site,text,a_site,
+Sarkar_2011,IIT Kharagpur experimental farm,all,,latitude,22.3167,deg N,p4 Experimental Site,text,a_site,printed 22deg19'N; converted
+Sarkar_2011,IIT Kharagpur experimental farm,all,,longitude,87.3167,deg E,p4 Experimental Site,text,a_site,printed 87deg19'E; converted
+Sarkar_2011,IIT Kharagpur experimental farm,all,,elevation,48,m asl,p4 Experimental Site,text,a_site,
+Sarkar_2011,IIT Kharagpur experimental farm,all,,climate,sub-humid subtropical,,p4 Experimental Site,text,a_site,
+Sarkar_2011,IIT Kharagpur experimental farm,all,,annual_rainfall,1200,mm,p4 Experimental Site,text,a_site,70-75% in Jun-Oct
+Sarkar_2011,IIT Kharagpur experimental farm,all,,temp_range_mean,21-32,C,p4 Experimental Site,text,a_site,
+Sarkar_2011,IIT Kharagpur experimental farm,all,,temp_max_extreme,47,C,p4 Experimental Site,text,a_site,Apr-May
+Sarkar_2011,IIT Kharagpur experimental farm,all,,soil_class,Haplustalf (acid lateritic sandy loam),,p4 Experimental Site,text,a_site,
+Sarkar_2011,IIT Kharagpur experimental farm,all,,experiment_period,2001-2003 (Jun 2001 - Oct 2003),,p4 Details of Field Experiment,text,a_site,
+Sarkar_2011,IIT Kharagpur experimental farm,all,,basic_infiltration_rate,6.0,mm/hr,p4 Experimental Site,text,a_site,
+Sarkar_2011,IIT Kharagpur experimental farm,initial,0-15,pH,5.5,-,p5 Table 1,table,b_initial_soil,
+Sarkar_2011,IIT Kharagpur experimental farm,initial,15-30,pH,5.6,-,p5 Table 1,table,b_initial_soil,
+Sarkar_2011,IIT Kharagpur experimental farm,initial,30-45,pH,5.8,-,p5 Table 1,table,b_initial_soil,
+Sarkar_2011,IIT Kharagpur experimental farm,initial,0-15,SOC,0.36,%,p5 Table 1,table,b_initial_soil,
+Sarkar_2011,IIT Kharagpur experimental farm,initial,15-30,SOC,0.32,%,p5 Table 1,table,b_initial_soil,
+Sarkar_2011,IIT Kharagpur experimental farm,initial,30-45,SOC,0.22,%,p5 Table 1,table,b_initial_soil,
+Sarkar_2011,IIT Kharagpur experimental farm,initial,0-15,clay,14.3,%,p5 Table 1,table,b_initial_soil,
+Sarkar_2011,IIT Kharagpur experimental farm,initial,15-30,clay,21.0,%,p5 Table 1,table,b_initial_soil,
+Sarkar_2011,IIT Kharagpur experimental farm,initial,30-45,clay,27.3,%,p5 Table 1,table,b_initial_soil,
+Sarkar_2011,IIT Kharagpur experimental farm,initial,0-15,silt,26.2,%,p5 Table 1,table,b_initial_soil,
+Sarkar_2011,IIT Kharagpur experimental farm,initial,15-30,silt,19.3,%,p5 Table 1,table,b_initial_soil,
+Sarkar_2011,IIT Kharagpur experimental farm,initial,30-45,silt,20.2,%,p5 Table 1,table,b_initial_soil,
+Sarkar_2011,IIT Kharagpur experimental farm,initial,0-15,sand,59.5,%,p5 Table 1,table,b_initial_soil,
+Sarkar_2011,IIT Kharagpur experimental farm,initial,15-30,sand,59.7,%,p5 Table 1,table,b_initial_soil,
+Sarkar_2011,IIT Kharagpur experimental farm,initial,30-45,sand,52.5,%,p5 Table 1,table,b_initial_soil,
+Sarkar_2011,IIT Kharagpur experimental farm,initial,0-15,bulk_density,1.62,Mg/m3,p5 Table 1,table,b_initial_soil,unit printed 'Mg/m'; assumed Mg/m3
+Sarkar_2011,IIT Kharagpur experimental farm,initial,15-30,bulk_density,1.56,Mg/m3,p5 Table 1,table,b_initial_soil,unit printed 'Mg/m'; assumed Mg/m3
+Sarkar_2011,IIT Kharagpur experimental farm,initial,30-45,bulk_density,1.59,Mg/m3,p5 Table 1,table,b_initial_soil,unit printed 'Mg/m'; assumed Mg/m3
+Sarkar_2011,IIT Kharagpur experimental farm,initial,0-15,sat_hydraulic_conductivity,9.82,cm/day,p5 Table 1,table,b_initial_soil,
+Sarkar_2011,IIT Kharagpur experimental farm,initial,15-30,sat_hydraulic_conductivity,6.74,cm/day,p5 Table 1,table,b_initial_soil,
+Sarkar_2011,IIT Kharagpur experimental farm,initial,30-45,sat_hydraulic_conductivity,0.91,cm/day,p5 Table 1,table,b_initial_soil,
+Sarkar_2011,IIT Kharagpur experimental farm,initial,0-15,CEC,8.1,cmol/kg,p5 Table 1,table,b_initial_soil,
+Sarkar_2011,IIT Kharagpur experimental farm,initial,15-30,CEC,9.2,cmol/kg,p5 Table 1,table,b_initial_soil,
+Sarkar_2011,IIT Kharagpur experimental farm,initial,30-45,CEC,9.6,cmol/kg,p5 Table 1,table,b_initial_soil,
+Sarkar_2011,IIT Kharagpur experimental farm,initial,0-15,total_N,0.04,g/kg,p5 Table 1,table,b_initial_soil,
+Sarkar_2011,IIT Kharagpur experimental farm,initial,15-30,total_N,0.05,g/kg,p5 Table 1,table,b_initial_soil,
+Sarkar_2011,IIT Kharagpur experimental farm,initial,30-45,total_N,0.06,g/kg,p5 Table 1,table,b_initial_soil,
+Sarkar_2011,IIT Kharagpur experimental farm,initial,0-15,soil_strength,9.8,kg/cm2,p5 Table 1,table,b_initial_soil,measured at 2.54 cm depth
+Sarkar_2011,IIT Kharagpur experimental farm,initial,15-30,soil_strength,12.9,kg/cm2,p5 Table 1,table,b_initial_soil,measured at 7.62 cm depth
+Sarkar_2011,IIT Kharagpur experimental farm,initial,30-45,soil_strength,14.0,kg/cm2,p5 Table 1,table,b_initial_soil,measured at 12.7 cm depth
+Sarkar_2011,IIT Kharagpur experimental farm,initial,,field_capacity,NA (not reported),-,-,missing,b_initial_soil,estimate with Saxton-Rawls (assumption)
+Sarkar_2011,IIT Kharagpur experimental farm,initial,,wilting_point,NA (not reported),-,-,missing,b_initial_soil,estimate with Saxton-Rawls (assumption)
+Sarkar_2011,IIT Kharagpur experimental farm,all,,crop_sequence,TR-W-F and DR-W-F (rice-wheat-fallow),,p5-p6,text,c_crops,
+Sarkar_2011,IIT Kharagpur experimental farm,all,,rice_cultivar,IR36,,p4 Details of Field Experiment,text,c_crops,
+Sarkar_2011,IIT Kharagpur experimental farm,all,,wheat_cultivar,Sonalika,,p4 Details of Field Experiment,text,c_crops,
+Sarkar_2011,IIT Kharagpur experimental farm,all,,rice_season,Jun-Oct 2001 (monsoon),,p4 Details of Field Experiment,text,c_crops,exact sowing/harvest dates not given
+Sarkar_2011,IIT Kharagpur experimental farm,all,,rice_season,Jun-Oct 2002 (monsoon),,p4 Details of Field Experiment,text,c_crops,exact sowing/harvest dates not given
+Sarkar_2011,IIT Kharagpur experimental farm,all,,rice_season,Jun-Oct 2003 (monsoon),,p4 Details of Field Experiment,text,c_crops,exact sowing/harvest dates not given
+Sarkar_2011,IIT Kharagpur experimental farm,all,,wheat_season,Nov-Apr 2001-02,,p4 Details of Field Experiment,text,c_crops,exact sowing/harvest dates not given
+Sarkar_2011,IIT Kharagpur experimental farm,all,,wheat_season,Nov-Apr 2002-03,,p4 Details of Field Experiment,text,c_crops,exact sowing/harvest dates not given
+Sarkar_2011,IIT Kharagpur experimental farm,TR,,seedling_age,21,days,p5,text,c_crops,nursery seedlings transplanted in hills
+Sarkar_2011,IIT Kharagpur experimental farm,DR,,row_spacing,20,cm,p5,text,c_crops,
+Sarkar_2011,IIT Kharagpur experimental farm,all,,straw_yield,NA (not reported),-,-,missing,c_crops,
+Sarkar_2011,IIT Kharagpur experimental farm,T1 (TR),,grain_yield_rice,3983,kg/ha,p22 Table 6a,table,c_crops,"year 2001; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,T1 (TR),,grain_yield_rice,4069,kg/ha,p22 Table 6a,table,c_crops,"year 2002; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,T1 (TR),,grain_yield_rice,4422,kg/ha,p22 Table 6a,table,c_crops,"year 2003; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,T2 (TR),,grain_yield_rice,3914,kg/ha,p22 Table 6a,table,c_crops,"year 2001; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,T2 (TR),,grain_yield_rice,3871,kg/ha,p22 Table 6a,table,c_crops,"year 2002; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,T2 (TR),,grain_yield_rice,4261,kg/ha,p22 Table 6a,table,c_crops,"year 2003; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,r0w0 (TR),,grain_yield_rice,3778,kg/ha,p22 Table 6a,table,c_crops,"year 2002; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,r0w0 (TR),,grain_yield_rice,4162,kg/ha,p22 Table 6a,table,c_crops,"year 2003; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,r0w1 (TR),,grain_yield_rice,4038,kg/ha,p22 Table 6a,table,c_crops,"year 2002; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,r0w1 (TR),,grain_yield_rice,4401,kg/ha,p22 Table 6a,table,c_crops,"year 2003; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,r1w0 (TR),,grain_yield_rice,3919,kg/ha,p22 Table 6a,table,c_crops,"year 2002; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,r1w0 (TR),,grain_yield_rice,4253,kg/ha,p22 Table 6a,table,c_crops,"year 2003; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,r1w1 (TR),,grain_yield_rice,4146,kg/ha,p22 Table 6a,table,c_crops,"year 2002; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,r1w1 (TR),,grain_yield_rice,4549,kg/ha,p22 Table 6a,table,c_crops,"year 2003; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,T3 (DR),,grain_yield_rice,2022,kg/ha,p22 Table 6b,table,c_crops,"year 2001; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,T3 (DR),,grain_yield_rice,2128,kg/ha,p22 Table 6b,table,c_crops,"year 2002; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,T3 (DR),,grain_yield_rice,2273,kg/ha,p22 Table 6b,table,c_crops,"year 2003; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,T4 (DR),,grain_yield_rice,1688,kg/ha,p22 Table 6b,table,c_crops,"year 2001; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,T4 (DR),,grain_yield_rice,1455,kg/ha,p22 Table 6b,table,c_crops,"year 2002; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,T4 (DR),,grain_yield_rice,1443,kg/ha,p22 Table 6b,table,c_crops,"year 2003; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,r0w0 (DR),,grain_yield_rice,1496,kg/ha,p22 Table 6b,table,c_crops,"year 2002; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,r0w0 (DR),,grain_yield_rice,1676,kg/ha,p22 Table 6b,table,c_crops,"year 2003; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,r0w1 (DR),,grain_yield_rice,1839,kg/ha,p22 Table 6b,table,c_crops,"year 2002; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,r0w1 (DR),,grain_yield_rice,1882,kg/ha,p22 Table 6b,table,c_crops,"year 2003; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,r1w0 (DR),,grain_yield_rice,1770,kg/ha,p22 Table 6b,table,c_crops,"year 2002; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,r1w0 (DR),,grain_yield_rice,1799,kg/ha,p22 Table 6b,table,c_crops,"year 2003; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,r1w1 (DR),,grain_yield_rice,2061,kg/ha,p22 Table 6b,table,c_crops,"year 2002; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,r1w1 (DR),,grain_yield_rice,2075,kg/ha,p22 Table 6b,table,c_crops,"year 2003; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,T1_t0 (wheat after TR),,grain_yield_wheat,1450,kg/ha,p23 Table 7,table,c_crops,"year 2001-02; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,T1_t0 (wheat after TR),,grain_yield_wheat,1383,kg/ha,p23 Table 7,table,c_crops,"year 2002-03; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,T1_t1 (wheat after TR),,grain_yield_wheat,1698,kg/ha,p23 Table 7,table,c_crops,"year 2001-02; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,T1_t1 (wheat after TR),,grain_yield_wheat,1592,kg/ha,p23 Table 7,table,c_crops,"year 2002-03; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,T2_t0 (wheat after TR),,grain_yield_wheat,1353,kg/ha,p23 Table 7,table,c_crops,"year 2001-02; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,T2_t0 (wheat after TR),,grain_yield_wheat,1366,kg/ha,p23 Table 7,table,c_crops,"year 2002-03; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,T2_t1 (wheat after TR),,grain_yield_wheat,1554,kg/ha,p23 Table 7,table,c_crops,"year 2001-02; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,T2_t1 (wheat after TR),,grain_yield_wheat,1543,kg/ha,p23 Table 7,table,c_crops,"year 2002-03; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,T3_t0 (wheat after DR),,grain_yield_wheat,1705,kg/ha,p24 Table 8,table,c_crops,"year 2001-02; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,T3_t0 (wheat after DR),,grain_yield_wheat,1680,kg/ha,p24 Table 8,table,c_crops,"year 2002-03; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,T3_t1 (wheat after DR),,grain_yield_wheat,1885,kg/ha,p24 Table 8,table,c_crops,"year 2001-02; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,T3_t1 (wheat after DR),,grain_yield_wheat,1932,kg/ha,p24 Table 8,table,c_crops,"year 2002-03; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,T4_t0 (wheat after DR),,grain_yield_wheat,1556,kg/ha,p24 Table 8,table,c_crops,"year 2001-02; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,T4_t0 (wheat after DR),,grain_yield_wheat,1589,kg/ha,p24 Table 8,table,c_crops,"year 2002-03; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,T4_t1 (wheat after DR),,grain_yield_wheat,1779,kg/ha,p24 Table 8,table,c_crops,"year 2001-02; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,T4_t1 (wheat after DR),,grain_yield_wheat,1696,kg/ha,p24 Table 8,table,c_crops,"year 2002-03; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,r0 (wheat after TR),,grain_yield_wheat,1398,kg/ha,p23 Table 7,table,c_crops,"year 2001-02; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,r1 (wheat after TR),,grain_yield_wheat,1629,kg/ha,p23 Table 7,table,c_crops,"year 2001-02; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,r0w0 (wheat after TR),,grain_yield_wheat,1419,kg/ha,p23 Table 7,table,c_crops,"year 2002-03; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,r0w1 (wheat after TR),,grain_yield_wheat,1456,kg/ha,p23 Table 7,table,c_crops,"year 2002-03; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,r1w0 (wheat after TR),,grain_yield_wheat,1481,kg/ha,p23 Table 7,table,c_crops,"year 2002-03; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,r1w1 (wheat after TR),,grain_yield_wheat,1527,kg/ha,p23 Table 7,table,c_crops,"year 2002-03; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,r0 (wheat after DR),,grain_yield_wheat,1670,kg/ha,p24 Table 8,table,c_crops,"year 2001-02; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,r1 (wheat after DR),,grain_yield_wheat,1793,kg/ha,p24 Table 8,table,c_crops,"year 2001-02; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,r0w0 (wheat after DR),,grain_yield_wheat,1679,kg/ha,p24 Table 8,table,c_crops,"year 2002-03; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,r0w1 (wheat after DR),,grain_yield_wheat,1709,kg/ha,p24 Table 8,table,c_crops,"year 2002-03; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,r1w0 (wheat after DR),,grain_yield_wheat,1721,kg/ha,p24 Table 8,table,c_crops,"year 2002-03; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,r1w1 (wheat after DR),,grain_yield_wheat,1788,kg/ha,p24 Table 8,table,c_crops,"year 2002-03; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,T1 (TR),,tillage_machine,rotavator puddling (intensive wet),,p5-p6 Details of Field Experiment,text,d_tillage,
+Sarkar_2011,IIT Kharagpur experimental farm,T1 (TR),,tillage_timing,June (onset of monsoon),,p5-p6 Details of Field Experiment,text,d_tillage,
+Sarkar_2011,IIT Kharagpur experimental farm,T1 (TR),,tillage_depth,NA,cm,p5-p6 Details of Field Experiment,missing,d_tillage,puddling depth not stated
+Sarkar_2011,IIT Kharagpur experimental farm,T2 (TR),,tillage_machine,power tiller puddling (less intensive wet),,p5-p6 Details of Field Experiment,text,d_tillage,
+Sarkar_2011,IIT Kharagpur experimental farm,T2 (TR),,tillage_timing,June (onset of monsoon),,p5-p6 Details of Field Experiment,text,d_tillage,
+Sarkar_2011,IIT Kharagpur experimental farm,T2 (TR),,tillage_depth,NA,cm,p5-p6 Details of Field Experiment,missing,d_tillage,puddling depth not stated
+Sarkar_2011,IIT Kharagpur experimental farm,T3 (DR),,tillage_machine,tractor cultivator + disc harrow (intensive dry),,p5-p6 Details of Field Experiment,text,d_tillage,
+Sarkar_2011,IIT Kharagpur experimental farm,T3 (DR),,tillage_timing,June (onset of monsoon),,p5-p6 Details of Field Experiment,text,d_tillage,
+Sarkar_2011,IIT Kharagpur experimental farm,T3 (DR),,tillage_depth,15,cm,p5-p6 Details of Field Experiment,text,d_tillage,
+Sarkar_2011,IIT Kharagpur experimental farm,T4 (DR),,tillage_machine,tractor cultivator (less intensive dry),,p5-p6 Details of Field Experiment,text,d_tillage,
+Sarkar_2011,IIT Kharagpur experimental farm,T4 (DR),,tillage_timing,June (onset of monsoon),,p5-p6 Details of Field Experiment,text,d_tillage,
+Sarkar_2011,IIT Kharagpur experimental farm,T4 (DR),,tillage_depth,7.5,cm,p5-p6 Details of Field Experiment,text,d_tillage,
+Sarkar_2011,IIT Kharagpur experimental farm,t1 (wheat),,tillage_machine,cultivator + disc harrow,,p5-p6 Details of Field Experiment,text,d_tillage,
+Sarkar_2011,IIT Kharagpur experimental farm,t1 (wheat),,tillage_timing,November,,p5-p6 Details of Field Experiment,text,d_tillage,
+Sarkar_2011,IIT Kharagpur experimental farm,t1 (wheat),,tillage_depth,15,cm,p5-p6 Details of Field Experiment,text,d_tillage,
+Sarkar_2011,IIT Kharagpur experimental farm,t0 (wheat),,tillage_machine,cultivator,,p5-p6 Details of Field Experiment,text,d_tillage,
+Sarkar_2011,IIT Kharagpur experimental farm,t0 (wheat),,tillage_timing,November,,p5-p6 Details of Field Experiment,text,d_tillage,
+Sarkar_2011,IIT Kharagpur experimental farm,t0 (wheat),,tillage_depth,7.5,cm,p5-p6 Details of Field Experiment,text,d_tillage,
+Sarkar_2011,IIT Kharagpur experimental farm,all (rice),,P2O5,50,kg/ha,p6,text,e_fertiliser_organic,"single super phosphate, after tillage, each crop"
+Sarkar_2011,IIT Kharagpur experimental farm,all (rice),,K2O,50,kg/ha,p6,text,e_fertiliser_organic,"muriate of potash, after tillage, each crop"
+Sarkar_2011,IIT Kharagpur experimental farm,all (wheat),,P2O5,50,kg/ha,p6,text,e_fertiliser_organic,"single super phosphate, after tillage, each crop"
+Sarkar_2011,IIT Kharagpur experimental farm,all (wheat),,K2O,50,kg/ha,p6,text,e_fertiliser_organic,"muriate of potash, after tillage, each crop"
+Sarkar_2011,IIT Kharagpur experimental farm,N0,,N_rate,0,kg/ha,p6,text,e_fertiliser_organic,"urea, two equal splits; rice: active tillering+booting; wheat: CRI+panicle initiation"
+Sarkar_2011,IIT Kharagpur experimental farm,N40,,N_rate,40,kg/ha,p6,text,e_fertiliser_organic,"urea, two equal splits; rice: active tillering+booting; wheat: CRI+panicle initiation"
+Sarkar_2011,IIT Kharagpur experimental farm,N60,,N_rate,60,kg/ha,p6,text,e_fertiliser_organic,"urea, two equal splits; rice: active tillering+booting; wheat: CRI+panicle initiation"
+Sarkar_2011,IIT Kharagpur experimental farm,N80,,N_rate,80,kg/ha,p6,text,e_fertiliser_organic,"urea, two equal splits; rice: active tillering+booting; wheat: CRI+panicle initiation"
+Sarkar_2011,IIT Kharagpur experimental farm,N100,,N_rate,100,kg/ha,p6,text,e_fertiliser_organic,"urea, two equal splits; rice: active tillering+booting; wheat: CRI+panicle initiation"
+Sarkar_2011,IIT Kharagpur experimental farm,N120,,N_rate,120,kg/ha,p6,text,e_fertiliser_organic,"urea, two equal splits; rice: active tillering+booting; wheat: CRI+panicle initiation"
+Sarkar_2011,IIT Kharagpur experimental farm,r0w0,,rice_straw_to_wheat,0,t/ha,p6,text,e_fertiliser_organic,"chopped, incorporated at land prep (from Nov 2002); retained"
+Sarkar_2011,IIT Kharagpur experimental farm,r0w0,,wheat_straw_to_rice,0,t/ha,p6,text,e_fertiliser_organic,"chopped, incorporated at land prep (from 2002); retained"
+Sarkar_2011,IIT Kharagpur experimental farm,r0w1,,rice_straw_to_wheat,0,t/ha,p6,text,e_fertiliser_organic,"chopped, incorporated at land prep (from Nov 2002); retained"
+Sarkar_2011,IIT Kharagpur experimental farm,r0w1,,wheat_straw_to_rice,4,t/ha,p6,text,e_fertiliser_organic,"chopped, incorporated at land prep (from 2002); retained"
+Sarkar_2011,IIT Kharagpur experimental farm,r1w0,,rice_straw_to_wheat,4,t/ha,p6,text,e_fertiliser_organic,"chopped, incorporated at land prep (from Nov 2002); retained"
+Sarkar_2011,IIT Kharagpur experimental farm,r1w0,,wheat_straw_to_rice,0,t/ha,p6,text,e_fertiliser_organic,"chopped, incorporated at land prep (from 2002); retained"
+Sarkar_2011,IIT Kharagpur experimental farm,r1w1,,rice_straw_to_wheat,4,t/ha,p6,text,e_fertiliser_organic,"chopped, incorporated at land prep (from Nov 2002); retained"
+Sarkar_2011,IIT Kharagpur experimental farm,r1w1,,wheat_straw_to_rice,4,t/ha,p6,text,e_fertiliser_organic,"chopped, incorporated at land prep (from 2002); retained"
+Sarkar_2011,IIT Kharagpur experimental farm,all,,manure,NA (not reported),-,-,missing,e_fertiliser_organic,
+Sarkar_2011,IIT Kharagpur experimental farm,all,,fertiliser_dates,NA (only stage given),-,-,missing,e_fertiliser_organic,month/day not stated
+Sarkar_2011,IIT Kharagpur experimental farm,wheat,,irrigation_amount,6,cm per irrigation,p6,text,f_irrigation,scheduled at IW/CPE = 1.0
+Sarkar_2011,IIT Kharagpur experimental farm,wheat,,irrigation_dates,NA (not reported),-,-,missing,f_irrigation,
+Sarkar_2011,IIT Kharagpur experimental farm,rice,,irrigation,rainfed / not reported,-,"p5, p23 ('rainfed')",text,f_irrigation,no irrigation amounts reported
+Sarkar_2011,IIT Kharagpur experimental farm,wheat,,irrigation_method,NA (not reported),-,-,missing,f_irrigation,
+Sarkar_2011,IIT Kharagpur experimental farm,T1 (TR),depth not stated,SOC_end,3.41,g/kg,p10 Table 2,table,g_end_soil,"Oct 2003; modified Walkley-Black; marginal mean; depth not stated (methods list 0-15,15-30,30-45)"
+Sarkar_2011,IIT Kharagpur experimental farm,T2 (TR),depth not stated,SOC_end,3.57,g/kg,p10 Table 2,table,g_end_soil,"Oct 2003; modified Walkley-Black; marginal mean; depth not stated (methods list 0-15,15-30,30-45)"
+Sarkar_2011,IIT Kharagpur experimental farm,r0w0 (TR),depth not stated,SOC_end,3.14,g/kg,p10 Table 2,table,g_end_soil,"Oct 2003; modified Walkley-Black; marginal mean; depth not stated (methods list 0-15,15-30,30-45)"
+Sarkar_2011,IIT Kharagpur experimental farm,r0w1 (TR),depth not stated,SOC_end,3.63,g/kg,p10 Table 2,table,g_end_soil,"Oct 2003; modified Walkley-Black; marginal mean; depth not stated (methods list 0-15,15-30,30-45)"
+Sarkar_2011,IIT Kharagpur experimental farm,r1w0 (TR),depth not stated,SOC_end,3.51,g/kg,p10 Table 2,table,g_end_soil,"Oct 2003; modified Walkley-Black; marginal mean; depth not stated (methods list 0-15,15-30,30-45)"
+Sarkar_2011,IIT Kharagpur experimental farm,r1w1 (TR),depth not stated,SOC_end,3.67,g/kg,p10 Table 2,table,g_end_soil,"Oct 2003; modified Walkley-Black; marginal mean; depth not stated (methods list 0-15,15-30,30-45)"
+Sarkar_2011,IIT Kharagpur experimental farm,N0 (TR),depth not stated,SOC_end,3.16,g/kg,p10 Table 2,table,g_end_soil,"Oct 2003; modified Walkley-Black; marginal mean; depth not stated (methods list 0-15,15-30,30-45)"
+Sarkar_2011,IIT Kharagpur experimental farm,N40 (TR),depth not stated,SOC_end,3.2,g/kg,p10 Table 2,table,g_end_soil,"Oct 2003; modified Walkley-Black; marginal mean; depth not stated (methods list 0-15,15-30,30-45)"
+Sarkar_2011,IIT Kharagpur experimental farm,N60 (TR),depth not stated,SOC_end,3.4,g/kg,p10 Table 2,table,g_end_soil,"Oct 2003; modified Walkley-Black; marginal mean; depth not stated (methods list 0-15,15-30,30-45)"
+Sarkar_2011,IIT Kharagpur experimental farm,N80 (TR),depth not stated,SOC_end,3.48,g/kg,p10 Table 2,table,g_end_soil,"Oct 2003; modified Walkley-Black; marginal mean; depth not stated (methods list 0-15,15-30,30-45)"
+Sarkar_2011,IIT Kharagpur experimental farm,N100 (TR),depth not stated,SOC_end,3.78,g/kg,p10 Table 2,table,g_end_soil,"Oct 2003; modified Walkley-Black; marginal mean; depth not stated (methods list 0-15,15-30,30-45)"
+Sarkar_2011,IIT Kharagpur experimental farm,N120 (TR),depth not stated,SOC_end,3.92,g/kg,p10 Table 2,table,g_end_soil,"Oct 2003; modified Walkley-Black; marginal mean; depth not stated (methods list 0-15,15-30,30-45)"
+Sarkar_2011,IIT Kharagpur experimental farm,T3 (DR),depth not stated,SOC_end,3.9,g/kg,p10 Table 2,table,g_end_soil,"Oct 2003; modified Walkley-Black; marginal mean; depth not stated (methods list 0-15,15-30,30-45)"
+Sarkar_2011,IIT Kharagpur experimental farm,T4 (DR),depth not stated,SOC_end,3.96,g/kg,p10 Table 2,table,g_end_soil,"Oct 2003; modified Walkley-Black; marginal mean; depth not stated (methods list 0-15,15-30,30-45)"
+Sarkar_2011,IIT Kharagpur experimental farm,r0w0 (DR),depth not stated,SOC_end,3.28,g/kg,p10 Table 2,table,g_end_soil,"Oct 2003; modified Walkley-Black; marginal mean; depth not stated (methods list 0-15,15-30,30-45)"
+Sarkar_2011,IIT Kharagpur experimental farm,r0w1 (DR),depth not stated,SOC_end,4.17,g/kg,p10 Table 2,table,g_end_soil,"Oct 2003; modified Walkley-Black; marginal mean; depth not stated (methods list 0-15,15-30,30-45)"
+Sarkar_2011,IIT Kharagpur experimental farm,r1w0 (DR),depth not stated,SOC_end,4.0,g/kg,p10 Table 2,table,g_end_soil,"Oct 2003; modified Walkley-Black; marginal mean; depth not stated (methods list 0-15,15-30,30-45)"
+Sarkar_2011,IIT Kharagpur experimental farm,r1w1 (DR),depth not stated,SOC_end,4.27,g/kg,p10 Table 2,table,g_end_soil,"Oct 2003; modified Walkley-Black; marginal mean; depth not stated (methods list 0-15,15-30,30-45)"
+Sarkar_2011,IIT Kharagpur experimental farm,N0 (DR),depth not stated,SOC_end,3.7,g/kg,p10 Table 2,table,g_end_soil,"Oct 2003; modified Walkley-Black; marginal mean; depth not stated (methods list 0-15,15-30,30-45)"
+Sarkar_2011,IIT Kharagpur experimental farm,N40 (DR),depth not stated,SOC_end,3.79,g/kg,p10 Table 2,table,g_end_soil,"Oct 2003; modified Walkley-Black; marginal mean; depth not stated (methods list 0-15,15-30,30-45)"
+Sarkar_2011,IIT Kharagpur experimental farm,N60 (DR),depth not stated,SOC_end,3.87,g/kg,p10 Table 2,table,g_end_soil,"Oct 2003; modified Walkley-Black; marginal mean; depth not stated (methods list 0-15,15-30,30-45)"
+Sarkar_2011,IIT Kharagpur experimental farm,N80 (DR),depth not stated,SOC_end,3.98,g/kg,p10 Table 2,table,g_end_soil,"Oct 2003; modified Walkley-Black; marginal mean; depth not stated (methods list 0-15,15-30,30-45)"
+Sarkar_2011,IIT Kharagpur experimental farm,N100 (DR),depth not stated,SOC_end,4.08,g/kg,p10 Table 2,table,g_end_soil,"Oct 2003; modified Walkley-Black; marginal mean; depth not stated (methods list 0-15,15-30,30-45)"
+Sarkar_2011,IIT Kharagpur experimental farm,N120 (DR),depth not stated,SOC_end,4.16,g/kg,p10 Table 2,table,g_end_soil,"Oct 2003; modified Walkley-Black; marginal mean; depth not stated (methods list 0-15,15-30,30-45)"
+Sarkar_2011,IIT Kharagpur experimental farm,T1_r0w0 (TR),0-15,bulk_density_end,1.69,Mg/m3,p14 Table 3,table,g_end_soil,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T1_r0w0 (TR),0-15,sat_hydraulic_conductivity_end,7.81,cm/day,p14 Table 3,table,g_end_soil,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T1_r0w0 (TR),15-30,bulk_density_end,1.73,Mg/m3,p14 Table 3,table,g_end_soil,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T1_r0w0 (TR),15-30,sat_hydraulic_conductivity_end,6.68,cm/day,p14 Table 3,table,g_end_soil,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T1_r0w0 (TR),30-45,bulk_density_end,1.75,Mg/m3,p14 Table 3,table,g_end_soil,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T1_r0w0 (TR),30-45,sat_hydraulic_conductivity_end,1.28,cm/day,p14 Table 3,table,g_end_soil,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T1_r0w1 (TR),0-15,bulk_density_end,1.66,Mg/m3,p14 Table 3,table,g_end_soil,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T1_r0w1 (TR),0-15,sat_hydraulic_conductivity_end,7.85,cm/day,p14 Table 3,table,g_end_soil,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T1_r0w1 (TR),15-30,bulk_density_end,1.72,Mg/m3,p14 Table 3,table,g_end_soil,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T1_r0w1 (TR),15-30,sat_hydraulic_conductivity_end,6.7,cm/day,p14 Table 3,table,g_end_soil,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T1_r0w1 (TR),30-45,bulk_density_end,1.72,Mg/m3,p14 Table 3,table,g_end_soil,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T1_r0w1 (TR),30-45,sat_hydraulic_conductivity_end,1.26,cm/day,p14 Table 3,table,g_end_soil,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T1_r1w0 (TR),0-15,bulk_density_end,1.65,Mg/m3,p14 Table 3,table,g_end_soil,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T1_r1w0 (TR),0-15,sat_hydraulic_conductivity_end,7.82,cm/day,p14 Table 3,table,g_end_soil,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T1_r1w0 (TR),15-30,bulk_density_end,1.71,Mg/m3,p14 Table 3,table,g_end_soil,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T1_r1w0 (TR),15-30,sat_hydraulic_conductivity_end,6.72,cm/day,p14 Table 3,table,g_end_soil,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T1_r1w0 (TR),30-45,bulk_density_end,1.73,Mg/m3,p14 Table 3,table,g_end_soil,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T1_r1w0 (TR),30-45,sat_hydraulic_conductivity_end,1.32,cm/day,p14 Table 3,table,g_end_soil,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T1_r1w1 (TR),0-15,bulk_density_end,1.63,Mg/m3,p14 Table 3,table,g_end_soil,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T1_r1w1 (TR),0-15,sat_hydraulic_conductivity_end,6.48,cm/day,p14 Table 3,table,g_end_soil,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T1_r1w1 (TR),15-30,bulk_density_end,1.72,Mg/m3,p14 Table 3,table,g_end_soil,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T1_r1w1 (TR),15-30,sat_hydraulic_conductivity_end,6.65,cm/day,p14 Table 3,table,g_end_soil,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T1_r1w1 (TR),30-45,bulk_density_end,1.73,Mg/m3,p14 Table 3,table,g_end_soil,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T1_r1w1 (TR),30-45,sat_hydraulic_conductivity_end,1.12,cm/day,p14 Table 3,table,g_end_soil,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T2_r0w0 (TR),0-15,bulk_density_end,1.68,Mg/m3,p14 Table 3,table,g_end_soil,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T2_r0w0 (TR),0-15,sat_hydraulic_conductivity_end,8.24,cm/day,p14 Table 3,table,g_end_soil,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T2_r0w0 (TR),15-30,bulk_density_end,1.7,Mg/m3,p14 Table 3,table,g_end_soil,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T2_r0w0 (TR),15-30,sat_hydraulic_conductivity_end,6.89,cm/day,p14 Table 3,table,g_end_soil,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T2_r0w0 (TR),30-45,bulk_density_end,1.71,Mg/m3,p14 Table 3,table,g_end_soil,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T2_r0w0 (TR),30-45,sat_hydraulic_conductivity_end,1.4,cm/day,p14 Table 3,table,g_end_soil,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T2_r0w1 (TR),0-15,bulk_density_end,1.66,Mg/m3,p14 Table 3,table,g_end_soil,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T2_r0w1 (TR),0-15,sat_hydraulic_conductivity_end,8.02,cm/day,p14 Table 3,table,g_end_soil,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T2_r0w1 (TR),15-30,bulk_density_end,1.7,Mg/m3,p14 Table 3,table,g_end_soil,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T2_r0w1 (TR),15-30,sat_hydraulic_conductivity_end,6.94,cm/day,p14 Table 3,table,g_end_soil,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T2_r0w1 (TR),30-45,bulk_density_end,1.69,Mg/m3,p14 Table 3,table,g_end_soil,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T2_r0w1 (TR),30-45,sat_hydraulic_conductivity_end,1.3,cm/day,p14 Table 3,table,g_end_soil,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T2_r1w0 (TR),0-15,bulk_density_end,1.67,Mg/m3,p14 Table 3,table,g_end_soil,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T2_r1w0 (TR),0-15,sat_hydraulic_conductivity_end,8.15,cm/day,p14 Table 3,table,g_end_soil,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T2_r1w0 (TR),15-30,bulk_density_end,1.71,Mg/m3,p14 Table 3,table,g_end_soil,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T2_r1w0 (TR),15-30,sat_hydraulic_conductivity_end,6.9,cm/day,p14 Table 3,table,g_end_soil,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T2_r1w0 (TR),30-45,bulk_density_end,1.72,Mg/m3,p14 Table 3,table,g_end_soil,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T2_r1w0 (TR),30-45,sat_hydraulic_conductivity_end,1.42,cm/day,p14 Table 3,table,g_end_soil,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T2_r1w1 (TR),0-15,bulk_density_end,1.66,Mg/m3,p14 Table 3,table,g_end_soil,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T2_r1w1 (TR),0-15,sat_hydraulic_conductivity_end,7.96,cm/day,p14 Table 3,table,g_end_soil,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T2_r1w1 (TR),15-30,bulk_density_end,1.72,Mg/m3,p14 Table 3,table,g_end_soil,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T2_r1w1 (TR),15-30,sat_hydraulic_conductivity_end,6.82,cm/day,p14 Table 3,table,g_end_soil,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T2_r1w1 (TR),30-45,bulk_density_end,1.69,Mg/m3,p14 Table 3,table,g_end_soil,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T2_r1w1 (TR),30-45,sat_hydraulic_conductivity_end,1.25,cm/day,p14 Table 3,table,g_end_soil,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T3_r0w0 (DR),0-15,bulk_density_end,1.79,Mg/m3,p15 Table 4,table,g_end_soil,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T3_r0w0 (DR),0-15,sat_hydraulic_conductivity_end,10.35,cm/day,p15 Table 4,table,g_end_soil,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T3_r0w0 (DR),15-30,bulk_density_end,1.78,Mg/m3,p15 Table 4,table,g_end_soil,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T3_r0w0 (DR),15-30,sat_hydraulic_conductivity_end,6.72,cm/day,p15 Table 4,table,g_end_soil,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T3_r0w0 (DR),30-45,bulk_density_end,1.62,Mg/m3,p15 Table 4,table,g_end_soil,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T3_r0w0 (DR),30-45,sat_hydraulic_conductivity_end,2.85,cm/day,p15 Table 4,table,g_end_soil,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T3_r0w1 (DR),0-15,bulk_density_end,1.75,Mg/m3,p15 Table 4,table,g_end_soil,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T3_r0w1 (DR),0-15,sat_hydraulic_conductivity_end,9.64,cm/day,p15 Table 4,table,g_end_soil,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T3_r0w1 (DR),15-30,bulk_density_end,1.72,Mg/m3,p15 Table 4,table,g_end_soil,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T3_r0w1 (DR),15-30,sat_hydraulic_conductivity_end,6.72,cm/day,p15 Table 4,table,g_end_soil,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T3_r0w1 (DR),30-45,bulk_density_end,1.63,Mg/m3,p15 Table 4,table,g_end_soil,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T3_r0w1 (DR),30-45,sat_hydraulic_conductivity_end,2.26,cm/day,p15 Table 4,table,g_end_soil,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T3_r1w0 (DR),0-15,bulk_density_end,1.79,Mg/m3,p15 Table 4,table,g_end_soil,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T3_r1w0 (DR),0-15,sat_hydraulic_conductivity_end,9.85,cm/day,p15 Table 4,table,g_end_soil,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T3_r1w0 (DR),15-30,bulk_density_end,1.78,Mg/m3,p15 Table 4,table,g_end_soil,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T3_r1w0 (DR),15-30,sat_hydraulic_conductivity_end,6.85,cm/day,p15 Table 4,table,g_end_soil,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T3_r1w0 (DR),30-45,bulk_density_end,1.62,Mg/m3,p15 Table 4,table,g_end_soil,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T3_r1w0 (DR),30-45,sat_hydraulic_conductivity_end,2.3,cm/day,p15 Table 4,table,g_end_soil,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T3_r1w1 (DR),0-15,bulk_density_end,1.75,Mg/m3,p15 Table 4,table,g_end_soil,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T3_r1w1 (DR),0-15,sat_hydraulic_conductivity_end,8.92,cm/day,p15 Table 4,table,g_end_soil,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T3_r1w1 (DR),15-30,bulk_density_end,1.72,Mg/m3,p15 Table 4,table,g_end_soil,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T3_r1w1 (DR),15-30,sat_hydraulic_conductivity_end,6.71,cm/day,p15 Table 4,table,g_end_soil,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T3_r1w1 (DR),30-45,bulk_density_end,1.63,Mg/m3,p15 Table 4,table,g_end_soil,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T3_r1w1 (DR),30-45,sat_hydraulic_conductivity_end,2.36,cm/day,p15 Table 4,table,g_end_soil,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T4_r0w0 (DR),0-15,bulk_density_end,1.79,Mg/m3,p15 Table 4,table,g_end_soil,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T4_r0w0 (DR),0-15,sat_hydraulic_conductivity_end,13.44,cm/day,p15 Table 4,table,g_end_soil,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T4_r0w0 (DR),15-30,bulk_density_end,1.78,Mg/m3,p15 Table 4,table,g_end_soil,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T4_r0w0 (DR),15-30,sat_hydraulic_conductivity_end,7.95,cm/day,p15 Table 4,table,g_end_soil,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T4_r0w0 (DR),30-45,bulk_density_end,1.62,Mg/m3,p15 Table 4,table,g_end_soil,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T4_r0w0 (DR),30-45,sat_hydraulic_conductivity_end,3.42,cm/day,p15 Table 4,table,g_end_soil,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T4_r0w1 (DR),0-15,bulk_density_end,1.75,Mg/m3,p15 Table 4,table,g_end_soil,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T4_r0w1 (DR),0-15,sat_hydraulic_conductivity_end,12.89,cm/day,p15 Table 4,table,g_end_soil,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T4_r0w1 (DR),15-30,bulk_density_end,1.72,Mg/m3,p15 Table 4,table,g_end_soil,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T4_r0w1 (DR),15-30,sat_hydraulic_conductivity_end,8.24,cm/day,p15 Table 4,table,g_end_soil,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T4_r0w1 (DR),30-45,bulk_density_end,1.63,Mg/m3,p15 Table 4,table,g_end_soil,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T4_r0w1 (DR),30-45,sat_hydraulic_conductivity_end,3.55,cm/day,p15 Table 4,table,g_end_soil,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T4_r1w0 (DR),0-15,bulk_density_end,1.79,Mg/m3,p15 Table 4,table,g_end_soil,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T4_r1w0 (DR),0-15,sat_hydraulic_conductivity_end,12.76,cm/day,p15 Table 4,table,g_end_soil,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T4_r1w0 (DR),15-30,bulk_density_end,1.78,Mg/m3,p15 Table 4,table,g_end_soil,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T4_r1w0 (DR),15-30,sat_hydraulic_conductivity_end,8.36,cm/day,p15 Table 4,table,g_end_soil,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T4_r1w0 (DR),30-45,bulk_density_end,1.62,Mg/m3,p15 Table 4,table,g_end_soil,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T4_r1w0 (DR),30-45,sat_hydraulic_conductivity_end,3.21,cm/day,p15 Table 4,table,g_end_soil,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T4_r1w1 (DR),0-15,bulk_density_end,1.75,Mg/m3,p15 Table 4,table,g_end_soil,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T4_r1w1 (DR),0-15,sat_hydraulic_conductivity_end,10.68,cm/day,p15 Table 4,table,g_end_soil,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T4_r1w1 (DR),15-30,bulk_density_end,1.72,Mg/m3,p15 Table 4,table,g_end_soil,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T4_r1w1 (DR),15-30,sat_hydraulic_conductivity_end,6.62,cm/day,p15 Table 4,table,g_end_soil,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T4_r1w1 (DR),30-45,bulk_density_end,1.63,Mg/m3,p15 Table 4,table,g_end_soil,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T4_r1w1 (DR),30-45,sat_hydraulic_conductivity_end,1.57,cm/day,p15 Table 4,table,g_end_soil,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r0w0 (wheat after TR),0-15,bulk_density_end,1.68,Mg/m3,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r0w0 (wheat after TR),0-15,sat_hydraulic_conductivity_end,12.82,cm/day,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r0w0 (wheat after TR),15-30,bulk_density_end,1.69,Mg/m3,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r0w0 (wheat after TR),15-30,sat_hydraulic_conductivity_end,7.52,cm/day,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r0w0 (wheat after TR),30-45,bulk_density_end,1.61,Mg/m3,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r0w0 (wheat after TR),30-45,sat_hydraulic_conductivity_end,2.85,cm/day,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r0w0 (wheat after DR),0-15,bulk_density_end,1.66,Mg/m3,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r0w0 (wheat after DR),0-15,sat_hydraulic_conductivity_end,13.52,cm/day,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r0w0 (wheat after DR),15-30,bulk_density_end,1.69,Mg/m3,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r0w0 (wheat after DR),15-30,sat_hydraulic_conductivity_end,7.64,cm/day,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r0w0 (wheat after DR),30-45,bulk_density_end,1.6,Mg/m3,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r0w0 (wheat after DR),30-45,sat_hydraulic_conductivity_end,2.98,cm/day,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r0w1 (wheat after TR),0-15,bulk_density_end,1.66,Mg/m3,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r0w1 (wheat after TR),0-15,sat_hydraulic_conductivity_end,12.9,cm/day,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r0w1 (wheat after TR),15-30,bulk_density_end,1.7,Mg/m3,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r0w1 (wheat after TR),15-30,sat_hydraulic_conductivity_end,7.57,cm/day,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r0w1 (wheat after TR),30-45,bulk_density_end,1.59,Mg/m3,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r0w1 (wheat after TR),30-45,sat_hydraulic_conductivity_end,3.2,cm/day,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r0w1 (wheat after DR),0-15,bulk_density_end,1.64,Mg/m3,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r0w1 (wheat after DR),0-15,sat_hydraulic_conductivity_end,13.82,cm/day,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r0w1 (wheat after DR),15-30,bulk_density_end,1.69,Mg/m3,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r0w1 (wheat after DR),15-30,sat_hydraulic_conductivity_end,7.84,cm/day,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r0w1 (wheat after DR),30-45,bulk_density_end,1.61,Mg/m3,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r0w1 (wheat after DR),30-45,sat_hydraulic_conductivity_end,3.27,cm/day,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r1w0 (wheat after TR),0-15,bulk_density_end,1.66,Mg/m3,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r1w0 (wheat after TR),0-15,sat_hydraulic_conductivity_end,12.95,cm/day,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r1w0 (wheat after TR),15-30,bulk_density_end,1.7,Mg/m3,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r1w0 (wheat after TR),15-30,sat_hydraulic_conductivity_end,7.96,cm/day,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r1w0 (wheat after TR),30-45,bulk_density_end,1.6,Mg/m3,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r1w0 (wheat after TR),30-45,sat_hydraulic_conductivity_end,3.2,cm/day,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r1w0 (wheat after DR),0-15,bulk_density_end,1.63,Mg/m3,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r1w0 (wheat after DR),0-15,sat_hydraulic_conductivity_end,13.89,cm/day,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r1w0 (wheat after DR),15-30,bulk_density_end,1.69,Mg/m3,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r1w0 (wheat after DR),15-30,sat_hydraulic_conductivity_end,8.12,cm/day,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r1w0 (wheat after DR),30-45,bulk_density_end,1.59,Mg/m3,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r1w0 (wheat after DR),30-45,sat_hydraulic_conductivity_end,3.18,cm/day,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r1w1 (wheat after TR),0-15,bulk_density_end,1.65,Mg/m3,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r1w1 (wheat after TR),0-15,sat_hydraulic_conductivity_end,13.18,cm/day,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r1w1 (wheat after TR),15-30,bulk_density_end,1.69,Mg/m3,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r1w1 (wheat after TR),15-30,sat_hydraulic_conductivity_end,6.44,cm/day,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r1w1 (wheat after TR),30-45,bulk_density_end,1.59,Mg/m3,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r1w1 (wheat after TR),30-45,sat_hydraulic_conductivity_end,1.85,cm/day,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r1w1 (wheat after DR),0-15,bulk_density_end,1.62,Mg/m3,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r1w1 (wheat after DR),0-15,sat_hydraulic_conductivity_end,14.1,cm/day,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r1w1 (wheat after DR),15-30,bulk_density_end,1.67,Mg/m3,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r1w1 (wheat after DR),15-30,sat_hydraulic_conductivity_end,6.32,cm/day,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r1w1 (wheat after DR),30-45,bulk_density_end,1.6,Mg/m3,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r1w1 (wheat after DR),30-45,sat_hydraulic_conductivity_end,1.24,cm/day,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r0w0 (wheat after TR),0-15,bulk_density_end,1.67,Mg/m3,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r0w0 (wheat after TR),0-15,sat_hydraulic_conductivity_end,12.51,cm/day,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r0w0 (wheat after TR),15-30,bulk_density_end,1.69,Mg/m3,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r0w0 (wheat after TR),15-30,sat_hydraulic_conductivity_end,7.44,cm/day,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r0w0 (wheat after TR),30-45,bulk_density_end,1.6,Mg/m3,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r0w0 (wheat after TR),30-45,sat_hydraulic_conductivity_end,1.26,cm/day,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r0w0 (wheat after DR),0-15,bulk_density_end,1.65,Mg/m3,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r0w0 (wheat after DR),0-15,sat_hydraulic_conductivity_end,12.4,cm/day,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r0w0 (wheat after DR),15-30,bulk_density_end,1.61,Mg/m3,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r0w0 (wheat after DR),15-30,sat_hydraulic_conductivity_end,7.31,cm/day,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r0w0 (wheat after DR),30-45,bulk_density_end,1.59,Mg/m3,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r0w0 (wheat after DR),30-45,sat_hydraulic_conductivity_end,1.26,cm/day,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r0w1 (wheat after TR),0-15,bulk_density_end,1.66,Mg/m3,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r0w1 (wheat after TR),0-15,sat_hydraulic_conductivity_end,12.7,cm/day,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r0w1 (wheat after TR),15-30,bulk_density_end,1.69,Mg/m3,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r0w1 (wheat after TR),15-30,sat_hydraulic_conductivity_end,6.62,cm/day,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r0w1 (wheat after TR),30-45,bulk_density_end,1.6,Mg/m3,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r0w1 (wheat after TR),30-45,sat_hydraulic_conductivity_end,2.15,cm/day,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r0w1 (wheat after DR),0-15,bulk_density_end,1.64,Mg/m3,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r0w1 (wheat after DR),0-15,sat_hydraulic_conductivity_end,12.5,cm/day,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r0w1 (wheat after DR),15-30,bulk_density_end,1.68,Mg/m3,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r0w1 (wheat after DR),15-30,sat_hydraulic_conductivity_end,6.85,cm/day,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r0w1 (wheat after DR),30-45,bulk_density_end,1.6,Mg/m3,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r0w1 (wheat after DR),30-45,sat_hydraulic_conductivity_end,1.95,cm/day,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r1w0 (wheat after TR),0-15,bulk_density_end,1.65,Mg/m3,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r1w0 (wheat after TR),0-15,sat_hydraulic_conductivity_end,12.82,cm/day,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r1w0 (wheat after TR),15-30,bulk_density_end,1.7,Mg/m3,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r1w0 (wheat after TR),15-30,sat_hydraulic_conductivity_end,6.65,cm/day,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r1w0 (wheat after TR),30-45,bulk_density_end,1.61,Mg/m3,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r1w0 (wheat after TR),30-45,sat_hydraulic_conductivity_end,2.6,cm/day,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r1w0 (wheat after DR),0-15,bulk_density_end,1.64,Mg/m3,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r1w0 (wheat after DR),0-15,sat_hydraulic_conductivity_end,12.62,cm/day,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r1w0 (wheat after DR),15-30,bulk_density_end,1.69,Mg/m3,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r1w0 (wheat after DR),15-30,sat_hydraulic_conductivity_end,6.92,cm/day,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r1w0 (wheat after DR),30-45,bulk_density_end,1.59,Mg/m3,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r1w0 (wheat after DR),30-45,sat_hydraulic_conductivity_end,2.58,cm/day,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r1w1 (wheat after TR),0-15,bulk_density_end,1.65,Mg/m3,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r1w1 (wheat after TR),0-15,sat_hydraulic_conductivity_end,12.96,cm/day,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r1w1 (wheat after TR),15-30,bulk_density_end,1.7,Mg/m3,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r1w1 (wheat after TR),15-30,sat_hydraulic_conductivity_end,7.14,cm/day,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r1w1 (wheat after TR),30-45,bulk_density_end,1.6,Mg/m3,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r1w1 (wheat after TR),30-45,sat_hydraulic_conductivity_end,2.5,cm/day,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r1w1 (wheat after DR),0-15,bulk_density_end,1.63,Mg/m3,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r1w1 (wheat after DR),0-15,sat_hydraulic_conductivity_end,12.8,cm/day,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r1w1 (wheat after DR),15-30,bulk_density_end,1.68,Mg/m3,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r1w1 (wheat after DR),15-30,sat_hydraulic_conductivity_end,7.24,cm/day,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r1w1 (wheat after DR),30-45,bulk_density_end,1.61,Mg/m3,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r1w1 (wheat after DR),30-45,sat_hydraulic_conductivity_end,2.54,cm/day,p16 Table 5,table,g_end_soil,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,T1 (TR),surface,initial_infiltration_rate,10-16,mm/hr,p18-p19,text,g_end_soil,range over residue trts
+Sarkar_2011,IIT Kharagpur experimental farm,T2 (TR),surface,initial_infiltration_rate,18-22,mm/hr,p18-p19,text,g_end_soil,range over residue trts
+Sarkar_2011,IIT Kharagpur experimental farm,T1r0w0 (TR),surface,final_infiltration_rate_300min,2.0,mm/hr,p19,text,g_end_soil,
+Sarkar_2011,IIT Kharagpur experimental farm,T2r1w1 (TR),surface,final_infiltration_rate_300min,4.0,mm/hr,p19,text,g_end_soil,
+Sarkar_2011,IIT Kharagpur experimental farm,T3r0w0 (DR),surface,initial_infiltration_rate,42,mm/hr,p19,text,g_end_soil,
+Sarkar_2011,IIT Kharagpur experimental farm,T4r1w1 (DR),surface,initial_infiltration_rate,58,mm/hr,p19,text,g_end_soil,
+Sarkar_2011,IIT Kharagpur experimental farm,T3 (DR),surface,final_infiltration_rate_300min,5.0,mm/hr,p20,text,g_end_soil,
+Sarkar_2011,IIT Kharagpur experimental farm,T4 (DR),surface,final_infiltration_rate_300min,6.0,mm/hr,p20,text,g_end_soil,
+Sarkar_2011,IIT Kharagpur experimental farm,t1 (wheat),surface,final_infiltration_rate_300min,5.0,mm/hr,p20,text,g_end_soil,text mm/hr but Fig 10/11 axes cm/hr (~0.5 cm/hr) - unit inconsistency
+Sarkar_2011,IIT Kharagpur experimental farm,t0 (wheat),surface,final_infiltration_rate_300min,4.0,mm/hr,p20,text,g_end_soil,same unit inconsistency
