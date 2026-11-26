@@ -1,0 +1,140 @@
+﻿paper_name,site,treatment,depth_cm,variable,value,unit,source,confidence,category,note
+Pandey_2012,BHU Varanasi,all,,latitude,25.14,deg N,p2 s2.1,text,a_site,
+Pandey_2012,BHU Varanasi,all,,longitude,82.03,deg E,p2 s2.1,text,a_site,
+Pandey_2012,BHU Varanasi,all,,elevation,76.19,m asl,p2 s2.1,text,a_site,
+Pandey_2012,BHU Varanasi,all,,annual_rainfall_2009,462.0,mm,p5 s3.2.1,text,a_site,
+Pandey_2012,BHU Varanasi,all,,annual_rainfall_2010,771.9,mm,p5 s3.2.1,text,a_site,
+Pandey_2012,BHU Varanasi,all,,site_name,"Agricultural research farm, IAS, BHU, Varanasi",,p2 s2.1,text,a_site,
+Pandey_2012,BHU Varanasi,all,,climate,eastern Indo-Gangetic plains (no Koppen/temperature stats in text),,p2 s2.1,text,a_site,daily weather only in Fig 2 (graph)
+Pandey_2012,BHU Varanasi,all,,soil_class,Inceptisol,,p2 s2.1,text,a_site,
+Pandey_2012,BHU Varanasi,all,,texture_class,sandy loam,,p2 s2.1,text,a_site,
+Pandey_2012,BHU Varanasi,initial_2003,0-15,pH,7.3,-,p3 Table 1,table,b_initial_soil,
+Pandey_2012,BHU Varanasi,initial_2003,0-15,bulk_density,1.43,g/cm3,p3 Table 1,table,b_initial_soil,
+Pandey_2012,BHU Varanasi,initial_2003,0-15,SOC,0.33,%,p3 Table 1,table,b_initial_soil,
+Pandey_2012,BHU Varanasi,initial_2003,0-15,total_N,0.32,mg/g,p3 Table 1,table,b_initial_soil,unit as printed (mg/g); magnitude suggests mg/kg - human review
+Pandey_2012,BHU Varanasi,initial_2003,0-15,available_P,1.23,mg/g,p3 Table 1,table,b_initial_soil,unit as printed (mg/g); magnitude suggests mg/kg - human review
+Pandey_2012,BHU Varanasi,initial_2003,0-15,sand,58.49,%,p3 Table 1,table,b_initial_soil,
+Pandey_2012,BHU Varanasi,initial_2003,0-15,silt,15.21,%,p3 Table 1,table,b_initial_soil,
+Pandey_2012,BHU Varanasi,initial_2003,0-15,clay,26.3,%,p3 Table 1,table,b_initial_soil,
+Pandey_2012,BHU Varanasi,RCT-WCT,0-15,pH,7.39,-,p3 Table 1,table,g_end_soil,year=2009
+Pandey_2012,BHU Varanasi,RNT-WCT,0-15,pH,7.42,-,p3 Table 1,table,g_end_soil,year=2009
+Pandey_2012,BHU Varanasi,RCT-WNT,0-15,pH,7.26,-,p3 Table 1,table,g_end_soil,year=2009
+Pandey_2012,BHU Varanasi,RNT-WNT,0-15,pH,7.37,-,p3 Table 1,table,g_end_soil,year=2009
+Pandey_2012,BHU Varanasi,RCT-WCT,0-15,bulk_density,1.51,g/cm3,p3 Table 1,table,g_end_soil,year=2009; SOC method Walkley-Black; BD core 0-15 cm
+Pandey_2012,BHU Varanasi,RNT-WCT,0-15,bulk_density,1.63,g/cm3,p3 Table 1,table,g_end_soil,year=2009; SOC method Walkley-Black; BD core 0-15 cm
+Pandey_2012,BHU Varanasi,RCT-WNT,0-15,bulk_density,1.53,g/cm3,p3 Table 1,table,g_end_soil,year=2009; SOC method Walkley-Black; BD core 0-15 cm
+Pandey_2012,BHU Varanasi,RNT-WNT,0-15,bulk_density,2.53,g/cm3,p3 Table 1,table,g_end_soil,year=2009; 2.53 physically implausible (>2.65 particle density limit unreasonable for soil BD) - FLAG
+Pandey_2012,BHU Varanasi,RCT-WCT,0-15,SOC,0.33,%,p3 Table 1,table,g_end_soil,year=2009; SOC method Walkley-Black; BD core 0-15 cm
+Pandey_2012,BHU Varanasi,RNT-WCT,0-15,SOC,0.62,%,p3 Table 1,table,g_end_soil,year=2009; SOC method Walkley-Black; BD core 0-15 cm
+Pandey_2012,BHU Varanasi,RCT-WNT,0-15,SOC,0.79,%,p3 Table 1,table,g_end_soil,year=2009; SOC method Walkley-Black; BD core 0-15 cm
+Pandey_2012,BHU Varanasi,RNT-WNT,0-15,SOC,0.99,%,p3 Table 1,table,g_end_soil,year=2009; SOC method Walkley-Black; BD core 0-15 cm
+Pandey_2012,BHU Varanasi,RCT-WCT,0-15,total_N,0.38,mg/g,p3 Table 1,table,g_end_soil,year=2009
+Pandey_2012,BHU Varanasi,RNT-WCT,0-15,total_N,0.62,mg/g,p3 Table 1,table,g_end_soil,year=2009
+Pandey_2012,BHU Varanasi,RCT-WNT,0-15,total_N,0.53,mg/g,p3 Table 1,table,g_end_soil,year=2009
+Pandey_2012,BHU Varanasi,RNT-WNT,0-15,total_N,0.58,mg/g,p3 Table 1,table,g_end_soil,year=2009
+Pandey_2012,BHU Varanasi,RCT-WCT,0-15,available_P,1.05,mg/g,p3 Table 1,table,g_end_soil,year=2009
+Pandey_2012,BHU Varanasi,RNT-WCT,0-15,available_P,1.43,mg/g,p3 Table 1,table,g_end_soil,year=2009
+Pandey_2012,BHU Varanasi,RCT-WNT,0-15,available_P,1.46,mg/g,p3 Table 1,table,g_end_soil,year=2009
+Pandey_2012,BHU Varanasi,RNT-WNT,0-15,available_P,1.87,mg/g,p3 Table 1,table,g_end_soil,year=2009
+Pandey_2012,BHU Varanasi,RCT-WCT,0-15,sand,62.62,%,p3 Table 1,table,g_end_soil,year=2009
+Pandey_2012,BHU Varanasi,RNT-WCT,0-15,sand,64.61,%,p3 Table 1,table,g_end_soil,year=2009
+Pandey_2012,BHU Varanasi,RCT-WNT,0-15,sand,67.19,%,p3 Table 1,table,g_end_soil,year=2009
+Pandey_2012,BHU Varanasi,RNT-WNT,0-15,sand,60.47,%,p3 Table 1,table,g_end_soil,year=2009
+Pandey_2012,BHU Varanasi,RCT-WCT,0-15,silt,13.78,%,p3 Table 1,table,g_end_soil,year=2009
+Pandey_2012,BHU Varanasi,RNT-WCT,0-15,silt,12.29,%,p3 Table 1,table,g_end_soil,year=2009
+Pandey_2012,BHU Varanasi,RCT-WNT,0-15,silt,11.81,%,p3 Table 1,table,g_end_soil,year=2009
+Pandey_2012,BHU Varanasi,RNT-WNT,0-15,silt,17.23,%,p3 Table 1,table,g_end_soil,year=2009
+Pandey_2012,BHU Varanasi,RCT-WCT,0-15,clay,23.6,%,p3 Table 1,table,g_end_soil,year=2009
+Pandey_2012,BHU Varanasi,RNT-WCT,0-15,clay,23.1,%,p3 Table 1,table,g_end_soil,year=2009
+Pandey_2012,BHU Varanasi,RCT-WNT,0-15,clay,21.0,%,p3 Table 1,table,g_end_soil,year=2009
+Pandey_2012,BHU Varanasi,RNT-WNT,0-15,clay,22.3,%,p3 Table 1,table,g_end_soil,year=2009
+Pandey_2012,BHU Varanasi,RCT-WCT,,rice_cultivar,PHB-71,,p2 s2.1,text,c_crop,
+Pandey_2012,BHU Varanasi,RCT-WCT,,wheat_cultivar,HD 2824,,p2 s2.1,text,c_crop,
+Pandey_2012,BHU Varanasi,RNT-WCT,,rice_cultivar,PHB-71,,p2 s2.1,text,c_crop,
+Pandey_2012,BHU Varanasi,RNT-WCT,,wheat_cultivar,HD 2824,,p2 s2.1,text,c_crop,
+Pandey_2012,BHU Varanasi,RCT-WNT,,rice_cultivar,PHB-71,,p2 s2.1,text,c_crop,
+Pandey_2012,BHU Varanasi,RCT-WNT,,wheat_cultivar,HD 2824,,p2 s2.1,text,c_crop,
+Pandey_2012,BHU Varanasi,RNT-WNT,,rice_cultivar,PHB-71,,p2 s2.1,text,c_crop,
+Pandey_2012,BHU Varanasi,RNT-WNT,,wheat_cultivar,HD 2824,,p2 s2.1,text,c_crop,
+Pandey_2012,BHU Varanasi,RNT-WCT,,rice_sowing_date_direct_seeded,2009-06-20,date,p3 s2.2,text,c_crop,zero-till drill
+Pandey_2012,BHU Varanasi,RNT-WCT,,rice_sowing_date_direct_seeded,2010-06-20,date,p3 s2.2,text,c_crop,zero-till drill
+Pandey_2012,BHU Varanasi,RNT-WNT,,rice_sowing_date_direct_seeded,2009-06-20,date,p3 s2.2,text,c_crop,zero-till drill
+Pandey_2012,BHU Varanasi,RNT-WNT,,rice_sowing_date_direct_seeded,2010-06-20,date,p3 s2.2,text,c_crop,zero-till drill
+Pandey_2012,BHU Varanasi,RCT-WCT,,nursery_seeding_date,20 June (2009 and 2010),date,p3 s2.2,text,c_crop,
+Pandey_2012,BHU Varanasi,RCT-WCT,,rice_transplanting_date,2009-07-16,date,p3 s2.2,text,c_crop,
+Pandey_2012,BHU Varanasi,RCT-WCT,,rice_transplanting_date,2010-07-19,date,p3 s2.2,text,c_crop,
+Pandey_2012,BHU Varanasi,RCT-WNT,,nursery_seeding_date,20 June (2009 and 2010),date,p3 s2.2,text,c_crop,
+Pandey_2012,BHU Varanasi,RCT-WNT,,rice_transplanting_date,2009-07-16,date,p3 s2.2,text,c_crop,
+Pandey_2012,BHU Varanasi,RCT-WNT,,rice_transplanting_date,2010-07-19,date,p3 s2.2,text,c_crop,
+Pandey_2012,BHU Varanasi,RCT-WCT,,rice_harvest_date,2009-10-30,date,p3 s2.2,text,c_crop,
+Pandey_2012,BHU Varanasi,RCT-WCT,,rice_harvest_date,2010-11-03,date,p3 s2.2,text,c_crop,
+Pandey_2012,BHU Varanasi,RCT-WCT,,rice_grain_yield,"NA (only bar chart, no numbers)",kg/ha,p10 Fig 8,figure,c_crop,"figure-only, low confidence; not extracted"
+Pandey_2012,BHU Varanasi,RCT-WCT,,straw_yield,NA (not reported),kg/ha,-,missing,c_crop,
+Pandey_2012,BHU Varanasi,RCT-WCT,,wheat_sowing_harvest_dates,NA (not reported),,-,missing,c_crop,
+Pandey_2012,BHU Varanasi,RNT-WCT,,rice_harvest_date,2009-10-30,date,p3 s2.2,text,c_crop,
+Pandey_2012,BHU Varanasi,RNT-WCT,,rice_harvest_date,2010-11-03,date,p3 s2.2,text,c_crop,
+Pandey_2012,BHU Varanasi,RNT-WCT,,rice_grain_yield,"NA (only bar chart, no numbers)",kg/ha,p10 Fig 8,figure,c_crop,"figure-only, low confidence; not extracted"
+Pandey_2012,BHU Varanasi,RNT-WCT,,straw_yield,NA (not reported),kg/ha,-,missing,c_crop,
+Pandey_2012,BHU Varanasi,RNT-WCT,,wheat_sowing_harvest_dates,NA (not reported),,-,missing,c_crop,
+Pandey_2012,BHU Varanasi,RCT-WNT,,rice_harvest_date,2009-10-30,date,p3 s2.2,text,c_crop,
+Pandey_2012,BHU Varanasi,RCT-WNT,,rice_harvest_date,2010-11-03,date,p3 s2.2,text,c_crop,
+Pandey_2012,BHU Varanasi,RCT-WNT,,rice_grain_yield,"NA (only bar chart, no numbers)",kg/ha,p10 Fig 8,figure,c_crop,"figure-only, low confidence; not extracted"
+Pandey_2012,BHU Varanasi,RCT-WNT,,straw_yield,NA (not reported),kg/ha,-,missing,c_crop,
+Pandey_2012,BHU Varanasi,RCT-WNT,,wheat_sowing_harvest_dates,NA (not reported),,-,missing,c_crop,
+Pandey_2012,BHU Varanasi,RNT-WNT,,rice_harvest_date,2009-10-30,date,p3 s2.2,text,c_crop,
+Pandey_2012,BHU Varanasi,RNT-WNT,,rice_harvest_date,2010-11-03,date,p3 s2.2,text,c_crop,
+Pandey_2012,BHU Varanasi,RNT-WNT,,rice_grain_yield,"NA (only bar chart, no numbers)",kg/ha,p10 Fig 8,figure,c_crop,"figure-only, low confidence; not extracted"
+Pandey_2012,BHU Varanasi,RNT-WNT,,straw_yield,NA (not reported),kg/ha,-,missing,c_crop,
+Pandey_2012,BHU Varanasi,RNT-WNT,,wheat_sowing_harvest_dates,NA (not reported),,-,missing,c_crop,
+Pandey_2012,BHU Varanasi,all,,experiment_period,"2003-2010 (GHG measured 2009, 2010 rice season)",years,p2 s2.1,text,c_crop,
+Pandey_2012,BHU Varanasi,all,,plot_size,5.25 x 5.25,m,p2 s2.1,text,c_crop,3 replicates
+Pandey_2012,BHU Varanasi,RCT-WCT,,rice_tillage_operation,puddling + repeated tillage + planking in standing water,,p2 s2.1,text,d_tillage,depth not given for rice
+Pandey_2012,BHU Varanasi,RCT-WCT,,wheat_tillage_operation,disk plough + 2 harrowings by cultivator + planking,,p2 s2.1,text,d_tillage,
+Pandey_2012,BHU Varanasi,RCT-WCT,,wheat_tillage_depth,30,cm,p2 s2.1,text,d_tillage,'approximately 30 cm'; machine = cultivator/disk plough
+Pandey_2012,BHU Varanasi,RNT-WCT,,rice_tillage_operation,"zero-till drill, no tillage",,p2 s2.1,text,d_tillage,depth not given for rice
+Pandey_2012,BHU Varanasi,RNT-WCT,,wheat_tillage_operation,disk plough + 2 harrowings by cultivator + planking,,p2 s2.1,text,d_tillage,
+Pandey_2012,BHU Varanasi,RNT-WCT,,wheat_tillage_depth,30,cm,p2 s2.1,text,d_tillage,'approximately 30 cm'; machine = cultivator/disk plough
+Pandey_2012,BHU Varanasi,RCT-WNT,,rice_tillage_operation,puddling + repeated tillage + planking in standing water,,p2 s2.1,text,d_tillage,depth not given for rice
+Pandey_2012,BHU Varanasi,RCT-WNT,,wheat_tillage_operation,"zero-till drill, no tillage",,p2 s2.1,text,d_tillage,
+Pandey_2012,BHU Varanasi,RNT-WNT,,rice_tillage_operation,"zero-till drill, no tillage",,p2 s2.1,text,d_tillage,depth not given for rice
+Pandey_2012,BHU Varanasi,RNT-WNT,,wheat_tillage_operation,"zero-till drill, no tillage",,p2 s2.1,text,d_tillage,
+Pandey_2012,BHU Varanasi,RCT-WCT,,tillage_timing,before sowing/transplanting of each crop (CT) or none (NT),,p2 s2.1,text,d_tillage,calendar dates not given
+Pandey_2012,BHU Varanasi,RNT-WCT,,tillage_timing,before sowing/transplanting of each crop (CT) or none (NT),,p2 s2.1,text,d_tillage,calendar dates not given
+Pandey_2012,BHU Varanasi,RCT-WNT,,tillage_timing,before sowing/transplanting of each crop (CT) or none (NT),,p2 s2.1,text,d_tillage,calendar dates not given
+Pandey_2012,BHU Varanasi,RNT-WNT,,tillage_timing,before sowing/transplanting of each crop (CT) or none (NT),,p2 s2.1,text,d_tillage,calendar dates not given
+Pandey_2012,BHU Varanasi,RCT-WCT,,N_total,150,kg/ha,p3 s2.2,text,e_fertiliser,rice season
+Pandey_2012,BHU Varanasi,RCT-WCT,,P2O5_total,75,kg/ha,p3 s2.2,text,e_fertiliser,rice season
+Pandey_2012,BHU Varanasi,RCT-WCT,,K2O_total,75,kg/ha,p3 s2.2,text,e_fertiliser,rice season
+Pandey_2012,BHU Varanasi,RCT-WCT,,basal_fertiliser,15:15:15 NPK complex: all P and K + 50% of N (=75 kg N),,p3 s2.2,text,e_fertiliser,at sowing/transplanting
+Pandey_2012,BHU Varanasi,RCT-WCT,,topdress_urea_N,75,kg N/ha,p3 s2.2,text,e_fertiliser,2 equal splits at tillering and panicle initiation; exact dates not given (arrows in Fig 4)
+Pandey_2012,BHU Varanasi,RCT-WCT,,manure,none reported,,p3 s2.2,text,e_fertiliser,
+Pandey_2012,BHU Varanasi,RCT-WCT,,herbicide,butachlor 50EC 1.25 kg/ha (pre-emergence),,p3 s2.2,text,e_fertiliser,+ one hand weeding at 25 DAS/DAT (p3) vs 30 DAS (p10): inconsistency
+Pandey_2012,BHU Varanasi,RCT-WCT,,residue_after_harvest,<5 cm stubble; mixed in by ploughing,,p2 s2.1,text,e_fertiliser,"rice residue treatment, depends on previous crop tillage"
+Pandey_2012,BHU Varanasi,RNT-WCT,,N_total,150,kg/ha,p3 s2.2,text,e_fertiliser,rice season
+Pandey_2012,BHU Varanasi,RNT-WCT,,P2O5_total,75,kg/ha,p3 s2.2,text,e_fertiliser,rice season
+Pandey_2012,BHU Varanasi,RNT-WCT,,K2O_total,75,kg/ha,p3 s2.2,text,e_fertiliser,rice season
+Pandey_2012,BHU Varanasi,RNT-WCT,,basal_fertiliser,15:15:15 NPK complex: all P and K + 50% of N (=75 kg N),,p3 s2.2,text,e_fertiliser,at sowing/transplanting
+Pandey_2012,BHU Varanasi,RNT-WCT,,topdress_urea_N,75,kg N/ha,p3 s2.2,text,e_fertiliser,2 equal splits at tillering and panicle initiation; exact dates not given (arrows in Fig 4)
+Pandey_2012,BHU Varanasi,RNT-WCT,,manure,none reported,,p3 s2.2,text,e_fertiliser,
+Pandey_2012,BHU Varanasi,RNT-WCT,,herbicide,pendimethalin 30EC 1 kg/ha (pre-emergence),,p3 s2.2,text,e_fertiliser,+ one hand weeding at 25 DAS/DAT (p3) vs 30 DAS (p10): inconsistency
+Pandey_2012,BHU Varanasi,RNT-WCT,,residue_after_harvest,20 cm standing straw retained; zero-till,,p2 s2.1,text,e_fertiliser,"rice residue treatment, depends on previous crop tillage"
+Pandey_2012,BHU Varanasi,RCT-WNT,,N_total,150,kg/ha,p3 s2.2,text,e_fertiliser,rice season
+Pandey_2012,BHU Varanasi,RCT-WNT,,P2O5_total,75,kg/ha,p3 s2.2,text,e_fertiliser,rice season
+Pandey_2012,BHU Varanasi,RCT-WNT,,K2O_total,75,kg/ha,p3 s2.2,text,e_fertiliser,rice season
+Pandey_2012,BHU Varanasi,RCT-WNT,,basal_fertiliser,15:15:15 NPK complex: all P and K + 50% of N (=75 kg N),,p3 s2.2,text,e_fertiliser,at sowing/transplanting
+Pandey_2012,BHU Varanasi,RCT-WNT,,topdress_urea_N,75,kg N/ha,p3 s2.2,text,e_fertiliser,2 equal splits at tillering and panicle initiation; exact dates not given (arrows in Fig 4)
+Pandey_2012,BHU Varanasi,RCT-WNT,,manure,none reported,,p3 s2.2,text,e_fertiliser,
+Pandey_2012,BHU Varanasi,RCT-WNT,,herbicide,butachlor 50EC 1.25 kg/ha (pre-emergence),,p3 s2.2,text,e_fertiliser,+ one hand weeding at 25 DAS/DAT (p3) vs 30 DAS (p10): inconsistency
+Pandey_2012,BHU Varanasi,RCT-WNT,,residue_after_harvest,20 cm standing straw retained; zero-till,,p2 s2.1,text,e_fertiliser,"rice residue treatment, depends on previous crop tillage"
+Pandey_2012,BHU Varanasi,RNT-WNT,,N_total,150,kg/ha,p3 s2.2,text,e_fertiliser,rice season
+Pandey_2012,BHU Varanasi,RNT-WNT,,P2O5_total,75,kg/ha,p3 s2.2,text,e_fertiliser,rice season
+Pandey_2012,BHU Varanasi,RNT-WNT,,K2O_total,75,kg/ha,p3 s2.2,text,e_fertiliser,rice season
+Pandey_2012,BHU Varanasi,RNT-WNT,,basal_fertiliser,15:15:15 NPK complex: all P and K + 50% of N (=75 kg N),,p3 s2.2,text,e_fertiliser,at sowing/transplanting
+Pandey_2012,BHU Varanasi,RNT-WNT,,topdress_urea_N,75,kg N/ha,p3 s2.2,text,e_fertiliser,2 equal splits at tillering and panicle initiation; exact dates not given (arrows in Fig 4)
+Pandey_2012,BHU Varanasi,RNT-WNT,,manure,none reported,,p3 s2.2,text,e_fertiliser,
+Pandey_2012,BHU Varanasi,RNT-WNT,,herbicide,pendimethalin 30EC 1 kg/ha (pre-emergence),,p3 s2.2,text,e_fertiliser,+ one hand weeding at 25 DAS/DAT (p3) vs 30 DAS (p10): inconsistency
+Pandey_2012,BHU Varanasi,RNT-WNT,,residue_after_harvest,20 cm standing straw retained; zero-till,,p2 s2.1,text,e_fertiliser,"rice residue treatment, depends on previous crop tillage"
+Pandey_2012,BHU Varanasi,RCT-WCT,,irrigation,NA: flooded to tillering then 'moderate moisture by rainfall or supplementary irrigation'; no dates/amounts,,p5 s3.2.1,missing,f_irrigation,DayCent needs schedule - human review
+Pandey_2012,BHU Varanasi,RNT-WCT,,irrigation,NA: flooded to tillering then 'moderate moisture by rainfall or supplementary irrigation'; no dates/amounts,,p5 s3.2.1,missing,f_irrigation,DayCent needs schedule - human review
+Pandey_2012,BHU Varanasi,RCT-WNT,,irrigation,NA: flooded to tillering then 'moderate moisture by rainfall or supplementary irrigation'; no dates/amounts,,p5 s3.2.1,missing,f_irrigation,DayCent needs schedule - human review
+Pandey_2012,BHU Varanasi,RNT-WNT,,irrigation,NA: flooded to tillering then 'moderate moisture by rainfall or supplementary irrigation'; no dates/amounts,,p5 s3.2.1,missing,f_irrigation,DayCent needs schedule - human review
