@@ -1,0 +1,878 @@
+﻿paper_name,site,treatment,depth_cm,variable,value,unit,source,confidence,category,soil_stage,crop,variable_original,note
+Ghosh_2017,ICAR-IIPR Kanpur,all,,Tmax_mean_annual,33.0,C,p2 s2.1,text,a_site,,,Tmax_mean_annual,
+Ghosh_2017,ICAR-IIPR Kanpur,all,,Tmin_mean_annual,20.0,C,p2 s2.1,text,a_site,,,Tmin_mean_annual,
+Ghosh_2017,ICAR-IIPR Kanpur,all,,annual_rainfall,722,mm,p2 s2.1,text,a_site,,,annual_rainfall,
+Ghosh_2017,ICAR-IIPR Kanpur,all,,climate,sub-humid tropical,,p2 s2.1,text,a_site,,,climate,
+Ghosh_2017,ICAR-IIPR Kanpur,all,,elevation,152.4,m asl,p2 s2.1,text,a_site,,,elevation,
+Ghosh_2017,ICAR-IIPR Kanpur,all,,experiment_start,2003-07 (rainy season),,p2 s2.2,text,a_site,,,experiment_start,sampling after 8 yrs (2003-2011)
+Ghosh_2017,ICAR-IIPR Kanpur,all,,latitude,26.45,deg N,p2 s2.1,text,a_site,,,latitude,printed 26deg27'N; converted from deg-min
+Ghosh_2017,ICAR-IIPR Kanpur,all,,longitude,80.2333,deg E,p2 s2.1,text,a_site,,,longitude,printed 80deg14'E; converted from deg-min
+Ghosh_2017,ICAR-IIPR Kanpur,all,,site_name,"ICAR-Indian Institute of Pulses Research (IIPR) main research farm, Kalyanpur, Kanpur",,p2 s2.1,text,a_site,,,site_name,
+Ghosh_2017,ICAR-IIPR Kanpur,all,,soil_class,Typic Ustochrept (Inceptisol),,p2 s2.1,text,a_site,,,soil_class,
+Ghosh_2017,ICAR-IIPR Kanpur,all,,texture_class,sandy loam,,p2 s2.1,text,a_site,,,texture_class,
+Ghosh_2017,ICAR-IIPR Kanpur,initial,,SOC,2.8,g/kg,p2 s2.1,text,b_initial_soil,initial,,SOC,depth not stated; same for upland and lowland
+Ghosh_2017,ICAR-IIPR Kanpur,initial,,bulk_density,NA (not reported),,-,missing,b_initial_soil,initial,,bulk_density,
+Ghosh_2017,ICAR-IIPR Kanpur,initial,,clay,NA (not reported),,-,missing,b_initial_soil,initial,,clay,
+Ghosh_2017,ICAR-IIPR Kanpur,initial,,field_capacity,NA (not reported),,-,missing,b_initial_soil,initial,,field_capacity,
+Ghosh_2017,ICAR-IIPR Kanpur,initial,,pH,NA (not reported),,-,missing,b_initial_soil,initial,,pH,
+Ghosh_2017,ICAR-IIPR Kanpur,initial,,sand,NA (not reported),,-,missing,b_initial_soil,initial,,sand,
+Ghosh_2017,ICAR-IIPR Kanpur,initial,,sat_hydraulic_conductivity,NA (not reported),,-,missing,b_initial_soil,initial,,sat_hydraulic_conductivity,
+Ghosh_2017,ICAR-IIPR Kanpur,initial,,silt,NA (not reported),,-,missing,b_initial_soil,initial,,silt,
+Ghosh_2017,ICAR-IIPR Kanpur,initial,,wilting_point,NA (not reported),,-,missing,b_initial_soil,initial,,wilting_point,
+Ghosh_2017,ICAR-IIPR Kanpur,lowland,,rotation_sequence,RW (rice-wheat); RWRC (rice-wheat-rice-chickpea),,p2 s2.2,text,c_crop,,,rotation_sequence,chickpea included alternate years
+Ghosh_2017,ICAR-IIPR Kanpur,lowland_chickpea,,crop_season_seed_to_seed,Apr wk1 - Jun wk1,month(week),p3 Table 1,table,c_crop,,,crop_season_seed_to_seed,"only month+week, no exact sowing/harvest dates; chickpea Apr-Jun implausible for a winter crop - FLAG"
+Ghosh_2017,ICAR-IIPR Kanpur,lowland_chickpea,,cultivar,KWR 108,,p3 Table 1,table,c_crop,,,cultivar,
+Ghosh_2017,ICAR-IIPR Kanpur,lowland_chickpea,,grain_yield,NA (only % increase in Fig 4),kg/ha,p10 Fig 4,figure,c_crop,,,grain_yield,figure-only
+Ghosh_2017,ICAR-IIPR Kanpur,lowland_chickpea,,seed_rate,70,kg/ha,p3 Table 1,table,c_crop,,,seed_rate,
+Ghosh_2017,ICAR-IIPR Kanpur,lowland_chickpea,,spacing,30x10 cm,,p3 Table 1,table,c_crop,,,spacing,PDF text '20 9 20' read as 20x20 (x garbled)
+Ghosh_2017,ICAR-IIPR Kanpur,lowland_chickpea,,straw_yield,NA (not reported),kg/ha,-,missing,c_crop,,,straw_yield,
+Ghosh_2017,ICAR-IIPR Kanpur,lowland_rice,,crop_season_seed_to_seed,June wk2 - Oct wk4,month(week),p3 Table 1,table,c_crop,,,crop_season_seed_to_seed,"only month+week, no exact sowing/harvest dates"
+Ghosh_2017,ICAR-IIPR Kanpur,lowland_rice,,cultivar,Pant Dhan 12,,p3 Table 1,table,c_crop,,,cultivar,
+Ghosh_2017,ICAR-IIPR Kanpur,lowland_rice,,grain_yield,NA (only % increase in Fig 4),kg/ha,p10 Fig 4,figure,c_crop,,,grain_yield,figure-only
+Ghosh_2017,ICAR-IIPR Kanpur,lowland_rice,,seed_rate,40,kg/ha,p3 Table 1,table,c_crop,,,seed_rate,
+Ghosh_2017,ICAR-IIPR Kanpur,lowland_rice,,spacing,20x20 cm,,p3 Table 1,table,c_crop,,,spacing,PDF text '20 9 20' read as 20x20 (x garbled)
+Ghosh_2017,ICAR-IIPR Kanpur,lowland_rice,,straw_yield,NA (not reported),kg/ha,-,missing,c_crop,,,straw_yield,
+Ghosh_2017,ICAR-IIPR Kanpur,lowland_wheat,,crop_season_seed_to_seed,Nov wk3 - Mar wk3,month(week),p3 Table 1,table,c_crop,,,crop_season_seed_to_seed,"only month+week, no exact sowing/harvest dates"
+Ghosh_2017,ICAR-IIPR Kanpur,lowland_wheat,,cultivar,PBW 343,,p3 Table 1,table,c_crop,,,cultivar,
+Ghosh_2017,ICAR-IIPR Kanpur,lowland_wheat,,grain_yield,NA (only % increase in Fig 4),kg/ha,p10 Fig 4,figure,c_crop,,,grain_yield,figure-only
+Ghosh_2017,ICAR-IIPR Kanpur,lowland_wheat,,seed_rate,100,kg/ha,p3 Table 1,table,c_crop,,,seed_rate,
+Ghosh_2017,ICAR-IIPR Kanpur,lowland_wheat,,spacing,22.5 cm continuous,,p3 Table 1,table,c_crop,,,spacing,PDF text '20 9 20' read as 20x20 (x garbled)
+Ghosh_2017,ICAR-IIPR Kanpur,lowland_wheat,,straw_yield,NA (not reported),kg/ha,-,missing,c_crop,,,straw_yield,
+Ghosh_2017,ICAR-IIPR Kanpur,upland,,rotation_sequence,MW (maize-wheat); MWMC (maize-wheat-maize-chickpea),,p2 s2.2,text,c_crop,,,rotation_sequence,chickpea included alternate years
+Ghosh_2017,ICAR-IIPR Kanpur,upland_chickpea,,crop_season_seed_to_seed,Apr wk1 - Jun wk1,month(week),p3 Table 1,table,c_crop,,,crop_season_seed_to_seed,"only month+week, no exact sowing/harvest dates; chickpea Apr-Jun implausible for a winter crop - FLAG"
+Ghosh_2017,ICAR-IIPR Kanpur,upland_chickpea,,cultivar,DCP-92-3,,p3 Table 1,table,c_crop,,,cultivar,
+Ghosh_2017,ICAR-IIPR Kanpur,upland_chickpea,,grain_yield,NA (only % increase in Fig 4),kg/ha,p10 Fig 4,figure,c_crop,,,grain_yield,figure-only
+Ghosh_2017,ICAR-IIPR Kanpur,upland_chickpea,,seed_rate,70,kg/ha,p3 Table 1,table,c_crop,,,seed_rate,
+Ghosh_2017,ICAR-IIPR Kanpur,upland_chickpea,,spacing,30x10 cm,,p3 Table 1,table,c_crop,,,spacing,PDF text '20 9 20' read as 20x20 (x garbled)
+Ghosh_2017,ICAR-IIPR Kanpur,upland_chickpea,,straw_yield,NA (not reported),kg/ha,-,missing,c_crop,,,straw_yield,
+Ghosh_2017,ICAR-IIPR Kanpur,upland_maize,,crop_season_seed_to_seed,June wk3 - Oct wk3,month(week),p3 Table 1,table,c_crop,,,crop_season_seed_to_seed,"only month+week, no exact sowing/harvest dates"
+Ghosh_2017,ICAR-IIPR Kanpur,upland_maize,,cultivar,Azad Uttam,,p3 Table 1,table,c_crop,,,cultivar,
+Ghosh_2017,ICAR-IIPR Kanpur,upland_maize,,grain_yield,NA (only % increase in Fig 4),kg/ha,p10 Fig 4,figure,c_crop,,,grain_yield,figure-only
+Ghosh_2017,ICAR-IIPR Kanpur,upland_maize,,seed_rate,18-20,kg/ha,p3 Table 1,table,c_crop,,,seed_rate,
+Ghosh_2017,ICAR-IIPR Kanpur,upland_maize,,spacing,50x20 cm,,p3 Table 1,table,c_crop,,,spacing,PDF text '20 9 20' read as 20x20 (x garbled)
+Ghosh_2017,ICAR-IIPR Kanpur,upland_maize,,straw_yield,NA (not reported),kg/ha,-,missing,c_crop,,,straw_yield,
+Ghosh_2017,ICAR-IIPR Kanpur,upland_wheat,,crop_season_seed_to_seed,Nov wk3 - Mar wk3,month(week),p3 Table 1,table,c_crop,,,crop_season_seed_to_seed,"only month+week, no exact sowing/harvest dates"
+Ghosh_2017,ICAR-IIPR Kanpur,upland_wheat,,cultivar,PBW 343,,p3 Table 1,table,c_crop,,,cultivar,
+Ghosh_2017,ICAR-IIPR Kanpur,upland_wheat,,grain_yield,NA (only % increase in Fig 4),kg/ha,p10 Fig 4,figure,c_crop,,,grain_yield,figure-only
+Ghosh_2017,ICAR-IIPR Kanpur,upland_wheat,,seed_rate,100,kg/ha,p3 Table 1,table,c_crop,,,seed_rate,
+Ghosh_2017,ICAR-IIPR Kanpur,upland_wheat,,spacing,22.5 cm continuous,,p3 Table 1,table,c_crop,,,spacing,PDF text '20 9 20' read as 20x20 (x garbled)
+Ghosh_2017,ICAR-IIPR Kanpur,upland_wheat,,straw_yield,NA (not reported),kg/ha,-,missing,c_crop,,,straw_yield,
+Ghosh_2017,ICAR-IIPR Kanpur,all,,tillage,"NA (machine, depth and timing not reported)",,-,missing,d_tillage,,,tillage,only crop-residue chopping by rotary machine mentioned
+Ghosh_2017,ICAR-IIPR Kanpur,CT,,fertiliser,none (control),,p2 s2.2,text,e_fertiliser,,,fertiliser,
+Ghosh_2017,ICAR-IIPR Kanpur,L_RWRC_CT,,annual_nutrient_input,none (dash in table),,p4 Table 2,table,e_fertiliser,,,annual_nutrient_input,
+Ghosh_2017,ICAR-IIPR Kanpur,L_RWRC_ORG,,annual_K,146.0,kg/ha/yr,p4 Table 2,table,e_fertiliser,,,annual_K,mean of last 2 yrs (2009-11)
+Ghosh_2017,ICAR-IIPR Kanpur,L_RWRC_ORG,,annual_N,107.0,kg/ha/yr,p4 Table 2,table,e_fertiliser,,,annual_N,mean of last 2 yrs (2009-11)
+Ghosh_2017,ICAR-IIPR Kanpur,L_RWRC_ORG,,annual_P,26.8,kg/ha/yr,p4 Table 2,table,e_fertiliser,,,annual_P,mean of last 2 yrs (2009-11)
+Ghosh_2017,ICAR-IIPR Kanpur,L_RWRC_ORG,,annual_S,28.2,kg/ha/yr,p4 Table 2,table,e_fertiliser,,,annual_S,mean of last 2 yrs (2009-11)
+Ghosh_2017,ICAR-IIPR Kanpur,L_RWRC_ORG,,annual_Zn,0.4,kg/ha/yr,p4 Table 2,table,e_fertiliser,,,annual_Zn,mean of last 2 yrs (2009-11)
+Ghosh_2017,ICAR-IIPR Kanpur,L_RWRC_ORG,,cumC_FYM,6.5,Mg C/ha,p4 Table 2,table,e_fertiliser,,,cumC_FYM,cumulative 8 yrs
+Ghosh_2017,ICAR-IIPR Kanpur,L_RWRC_ORG,,cumC_residue,43.0,Mg C/ha,p4 Table 2,table,e_fertiliser,,,cumC_residue,cumulative 8 yrs
+Ghosh_2017,ICAR-IIPR Kanpur,L_RWRC_ORG,,cumC_total,49.5,Mg C/ha,p4 Table 2,table,e_fertiliser,,,cumC_total,cumulative 8 yrs
+Ghosh_2017,ICAR-IIPR Kanpur,L_RWRC_RDF,,annual_K,43.7,kg/ha/yr,p4 Table 2,table,e_fertiliser,,,annual_K,mean of last 2 yrs (2009-11)
+Ghosh_2017,ICAR-IIPR Kanpur,L_RWRC_RDF,,annual_N,190.0,kg/ha/yr,p4 Table 2,table,e_fertiliser,,,annual_N,mean of last 2 yrs (2009-11)
+Ghosh_2017,ICAR-IIPR Kanpur,L_RWRC_RDF,,annual_P,52.4,kg/ha/yr,p4 Table 2,table,e_fertiliser,,,annual_P,mean of last 2 yrs (2009-11)
+Ghosh_2017,ICAR-IIPR Kanpur,L_RWRC_RDF,,annual_S,20.0,kg/ha/yr,p4 Table 2,table,e_fertiliser,,,annual_S,mean of last 2 yrs (2009-11)
+Ghosh_2017,ICAR-IIPR Kanpur,L_RWRC_RDF,,annual_Zn,4.2,kg/ha/yr,p4 Table 2,table,e_fertiliser,,,annual_Zn,mean of last 2 yrs (2009-11)
+Ghosh_2017,ICAR-IIPR Kanpur,L_RW_CT,,annual_nutrient_input,none (dash in table),,p4 Table 2,table,e_fertiliser,,,annual_nutrient_input,
+Ghosh_2017,ICAR-IIPR Kanpur,L_RW_ORG,,annual_K,142.5,kg/ha/yr,p4 Table 2,table,e_fertiliser,,,annual_K,mean of last 2 yrs (2009-11)
+Ghosh_2017,ICAR-IIPR Kanpur,L_RW_ORG,,annual_N,103.6,kg/ha/yr,p4 Table 2,table,e_fertiliser,,,annual_N,mean of last 2 yrs (2009-11)
+Ghosh_2017,ICAR-IIPR Kanpur,L_RW_ORG,,annual_P,25.9,kg/ha/yr,p4 Table 2,table,e_fertiliser,,,annual_P,mean of last 2 yrs (2009-11)
+Ghosh_2017,ICAR-IIPR Kanpur,L_RW_ORG,,annual_S,24.4,kg/ha/yr,p4 Table 2,table,e_fertiliser,,,annual_S,mean of last 2 yrs (2009-11)
+Ghosh_2017,ICAR-IIPR Kanpur,L_RW_ORG,,annual_Zn,0.29,kg/ha/yr,p4 Table 2,table,e_fertiliser,,,annual_Zn,mean of last 2 yrs (2009-11)
+Ghosh_2017,ICAR-IIPR Kanpur,L_RW_ORG,,cumC_FYM,6.5,Mg C/ha,p4 Table 2,table,e_fertiliser,,,cumC_FYM,cumulative 8 yrs
+Ghosh_2017,ICAR-IIPR Kanpur,L_RW_ORG,,cumC_residue,36.8,Mg C/ha,p4 Table 2,table,e_fertiliser,,,cumC_residue,cumulative 8 yrs
+Ghosh_2017,ICAR-IIPR Kanpur,L_RW_ORG,,cumC_total,43.3,Mg C/ha,p4 Table 2,table,e_fertiliser,,,cumC_total,cumulative 8 yrs
+Ghosh_2017,ICAR-IIPR Kanpur,L_RW_RDF,,annual_K,43.7,kg/ha/yr,p4 Table 2,table,e_fertiliser,,,annual_K,mean of last 2 yrs (2009-11)
+Ghosh_2017,ICAR-IIPR Kanpur,L_RW_RDF,,annual_N,240.0,kg/ha/yr,p4 Table 2,table,e_fertiliser,,,annual_N,mean of last 2 yrs (2009-11)
+Ghosh_2017,ICAR-IIPR Kanpur,L_RW_RDF,,annual_P,52.4,kg/ha/yr,p4 Table 2,table,e_fertiliser,,,annual_P,mean of last 2 yrs (2009-11)
+Ghosh_2017,ICAR-IIPR Kanpur,L_RW_RDF,,annual_S,20.0,kg/ha/yr,p4 Table 2,table,e_fertiliser,,,annual_S,mean of last 2 yrs (2009-11)
+Ghosh_2017,ICAR-IIPR Kanpur,L_RW_RDF,,annual_Zn,4.2,kg/ha/yr,p4 Table 2,table,e_fertiliser,,,annual_Zn,mean of last 2 yrs (2009-11)
+Ghosh_2017,ICAR-IIPR Kanpur,ORG,,FYM_C,448,kg/ha,p3 s2.2,text,e_fertiliser,,,FYM_C,applied before rainy-season crops; per application (per year assumed) - human review
+Ghosh_2017,ICAR-IIPR Kanpur,ORG,,FYM_K,26,kg/ha,p3 s2.2,text,e_fertiliser,,,FYM_K,applied before rainy-season crops
+Ghosh_2017,ICAR-IIPR Kanpur,ORG,,FYM_N,28,kg/ha,p3 s2.2,text,e_fertiliser,,,FYM_N,applied before rainy-season crops
+Ghosh_2017,ICAR-IIPR Kanpur,ORG,,FYM_P,9,kg/ha,p3 s2.2,text,e_fertiliser,,,FYM_P,applied before rainy-season crops
+Ghosh_2017,ICAR-IIPR Kanpur,ORG,,FYM_rate,5,Mg/ha,p3 s2.2,text,e_fertiliser,,,FYM_rate,applied before rainy-season crops
+Ghosh_2017,ICAR-IIPR Kanpur,ORG,,biofertiliser,"Azotobacter (cereals), Rhizobium (pulses), PSB; 20 g/kg seed",,p3 s2.2,text,e_fertiliser,,,biofertiliser,
+Ghosh_2017,ICAR-IIPR Kanpur,ORG,,residue_management,"all crop residue chopped by rotary machine, spread and mixed in before next crop",,p3 s2.2,text,e_fertiliser,,,residue_management,amount (t/ha) only as C in Table 2
+Ghosh_2017,ICAR-IIPR Kanpur,RDF,,B_as_borax,10,kg/ha,p3 s2.2,text,e_fertiliser,,,B_as_borax,
+Ghosh_2017,ICAR-IIPR Kanpur,RDF,,N_P_K_sources,"urea, DAP, muriate of potash",,p2 s2.2,text,e_fertiliser,,,N_P_K_sources,
+Ghosh_2017,ICAR-IIPR Kanpur,RDF,,S_gypsum,20,kg S/ha,p2-3 s2.2,text,e_fertiliser,,,S_gypsum,
+Ghosh_2017,ICAR-IIPR Kanpur,RDF,,Zn_as_ZnSO4,25,kg/ha,p2-3 s2.2,text,e_fertiliser,,,Zn_as_ZnSO4,
+Ghosh_2017,ICAR-IIPR Kanpur,U_MWMC_CT,,annual_nutrient_input,none (dash in table),,p4 Table 2,table,e_fertiliser,,,annual_nutrient_input,
+Ghosh_2017,ICAR-IIPR Kanpur,U_MWMC_ORG,,annual_K,142.5,kg/ha/yr,p4 Table 2,table,e_fertiliser,,,annual_K,mean of last 2 yrs (2009-11)
+Ghosh_2017,ICAR-IIPR Kanpur,U_MWMC_ORG,,annual_N,109.9,kg/ha/yr,p4 Table 2,table,e_fertiliser,,,annual_N,mean of last 2 yrs (2009-11)
+Ghosh_2017,ICAR-IIPR Kanpur,U_MWMC_ORG,,annual_P,22.3,kg/ha/yr,p4 Table 2,table,e_fertiliser,,,annual_P,mean of last 2 yrs (2009-11)
+Ghosh_2017,ICAR-IIPR Kanpur,U_MWMC_ORG,,annual_S,16.1,kg/ha/yr,p4 Table 2,table,e_fertiliser,,,annual_S,mean of last 2 yrs (2009-11)
+Ghosh_2017,ICAR-IIPR Kanpur,U_MWMC_ORG,,annual_Zn,0.5,kg/ha/yr,p4 Table 2,table,e_fertiliser,,,annual_Zn,mean of last 2 yrs (2009-11)
+Ghosh_2017,ICAR-IIPR Kanpur,U_MWMC_ORG,,cumC_FYM,6.5,Mg C/ha,p4 Table 2,table,e_fertiliser,,,cumC_FYM,cumulative 8 yrs
+Ghosh_2017,ICAR-IIPR Kanpur,U_MWMC_ORG,,cumC_residue,43.8,Mg C/ha,p4 Table 2,table,e_fertiliser,,,cumC_residue,cumulative 8 yrs
+Ghosh_2017,ICAR-IIPR Kanpur,U_MWMC_ORG,,cumC_total,50.31,Mg C/ha,p4 Table 2,table,e_fertiliser,,,cumC_total,"cumulative 8 yrs; 50.31 has 2 decimals, likely typo for 50.3"
+Ghosh_2017,ICAR-IIPR Kanpur,U_MWMC_RDF,,annual_K,43.7,kg/ha/yr,p4 Table 2,table,e_fertiliser,,,annual_K,mean of last 2 yrs (2009-11)
+Ghosh_2017,ICAR-IIPR Kanpur,U_MWMC_RDF,,annual_N,190,kg/ha/yr,p4 Table 2,table,e_fertiliser,,,annual_N,mean of last 2 yrs (2009-11)
+Ghosh_2017,ICAR-IIPR Kanpur,U_MWMC_RDF,,annual_P,52.4,kg/ha/yr,p4 Table 2,table,e_fertiliser,,,annual_P,mean of last 2 yrs (2009-11)
+Ghosh_2017,ICAR-IIPR Kanpur,U_MWMC_RDF,,annual_S,20,kg/ha/yr,p4 Table 2,table,e_fertiliser,,,annual_S,mean of last 2 yrs (2009-11)
+Ghosh_2017,ICAR-IIPR Kanpur,U_MWMC_RDF,,annual_Zn,4.2,kg/ha/yr,p4 Table 2,table,e_fertiliser,,,annual_Zn,mean of last 2 yrs (2009-11)
+Ghosh_2017,ICAR-IIPR Kanpur,U_MW_CT,,annual_nutrient_input,none (dash in table),,p4 Table 2,table,e_fertiliser,,,annual_nutrient_input,
+Ghosh_2017,ICAR-IIPR Kanpur,U_MW_ORG,,annual_K,122.3,kg/ha/yr,p4 Table 2,table,e_fertiliser,,,annual_K,mean of last 2 yrs (2009-11)
+Ghosh_2017,ICAR-IIPR Kanpur,U_MW_ORG,,annual_N,91.6,kg/ha/yr,p4 Table 2,table,e_fertiliser,,,annual_N,mean of last 2 yrs (2009-11)
+Ghosh_2017,ICAR-IIPR Kanpur,U_MW_ORG,,annual_P,18.9,kg/ha/yr,p4 Table 2,table,e_fertiliser,,,annual_P,mean of last 2 yrs (2009-11)
+Ghosh_2017,ICAR-IIPR Kanpur,U_MW_ORG,,annual_S,10.8,kg/ha/yr,p4 Table 2,table,e_fertiliser,,,annual_S,mean of last 2 yrs (2009-11)
+Ghosh_2017,ICAR-IIPR Kanpur,U_MW_ORG,,annual_Zn,0.42,kg/ha/yr,p4 Table 2,table,e_fertiliser,,,annual_Zn,mean of last 2 yrs (2009-11)
+Ghosh_2017,ICAR-IIPR Kanpur,U_MW_ORG,,cumC_FYM,6.5,Mg C/ha,p4 Table 2,table,e_fertiliser,,,cumC_FYM,cumulative 8 yrs
+Ghosh_2017,ICAR-IIPR Kanpur,U_MW_ORG,,cumC_residue,36.2,Mg C/ha,p4 Table 2,table,e_fertiliser,,,cumC_residue,cumulative 8 yrs
+Ghosh_2017,ICAR-IIPR Kanpur,U_MW_ORG,,cumC_total,42.7,Mg C/ha,p4 Table 2,table,e_fertiliser,,,cumC_total,cumulative 8 yrs
+Ghosh_2017,ICAR-IIPR Kanpur,U_MW_RDF,,annual_K,43.7,kg/ha/yr,p4 Table 2,table,e_fertiliser,,,annual_K,mean of last 2 yrs (2009-11)
+Ghosh_2017,ICAR-IIPR Kanpur,U_MW_RDF,,annual_N,240,kg/ha/yr,p4 Table 2,table,e_fertiliser,,,annual_N,mean of last 2 yrs (2009-11)
+Ghosh_2017,ICAR-IIPR Kanpur,U_MW_RDF,,annual_P,52.4,kg/ha/yr,p4 Table 2,table,e_fertiliser,,,annual_P,mean of last 2 yrs (2009-11)
+Ghosh_2017,ICAR-IIPR Kanpur,U_MW_RDF,,annual_S,20,kg/ha/yr,p4 Table 2,table,e_fertiliser,,,annual_S,mean of last 2 yrs (2009-11)
+Ghosh_2017,ICAR-IIPR Kanpur,U_MW_RDF,,annual_Zn,4.2,kg/ha/yr,p4 Table 2,table,e_fertiliser,,,annual_Zn,mean of last 2 yrs (2009-11)
+Ghosh_2017,ICAR-IIPR Kanpur,lowland_chickpea,,NPK_rate,20-60-40,kg/ha (N-P-K),p3 Table 1,table,e_fertiliser,,,NPK_rate,P and K oxide basis not stated
+Ghosh_2017,ICAR-IIPR Kanpur,lowland_chickpea,,fertiliser_timing,N+P+K all basal,,p3 Table 1,table,e_fertiliser,,,fertiliser_timing,"DAT/DAS only, no calendar dates"
+Ghosh_2017,ICAR-IIPR Kanpur,lowland_rice,,NPK_rate,120-60-40,kg/ha (N-P-K),p3 Table 1,table,e_fertiliser,,,NPK_rate,P and K oxide basis not stated
+Ghosh_2017,ICAR-IIPR Kanpur,lowland_rice,,fertiliser_timing,1/3 N+P+K basal; 1/3 N at 25 DAT; 1/3 N at 45 DAT,,p3 Table 1,table,e_fertiliser,,,fertiliser_timing,"DAT/DAS only, no calendar dates"
+Ghosh_2017,ICAR-IIPR Kanpur,lowland_wheat,,NPK_rate,120-60-40,kg/ha (N-P-K),p3 Table 1,table,e_fertiliser,,,NPK_rate,P and K oxide basis not stated
+Ghosh_2017,ICAR-IIPR Kanpur,lowland_wheat,,fertiliser_timing,1/3 N+P+K basal; 1/3 N at 21 DAS; 1/3 N at 45 DAS,,p3 Table 1,table,e_fertiliser,,,fertiliser_timing,"DAT/DAS only, no calendar dates"
+Ghosh_2017,ICAR-IIPR Kanpur,upland_chickpea,,NPK_rate,20-60-40,kg/ha (N-P-K),p3 Table 1,table,e_fertiliser,,,NPK_rate,P and K oxide basis not stated
+Ghosh_2017,ICAR-IIPR Kanpur,upland_chickpea,,fertiliser_timing,N+P+K all basal,,p3 Table 1,table,e_fertiliser,,,fertiliser_timing,"DAT/DAS only, no calendar dates"
+Ghosh_2017,ICAR-IIPR Kanpur,upland_maize,,NPK_rate,120-60-40,kg/ha (N-P-K),p3 Table 1,table,e_fertiliser,,,NPK_rate,P and K oxide basis not stated
+Ghosh_2017,ICAR-IIPR Kanpur,upland_maize,,fertiliser_timing,1/3 N+P+K basal; 1/3 N at 25 DAS; 1/3 N at 45 DAS,,p3 Table 1,table,e_fertiliser,,,fertiliser_timing,"DAT/DAS only, no calendar dates"
+Ghosh_2017,ICAR-IIPR Kanpur,upland_wheat,,NPK_rate,120-60-40,kg/ha (N-P-K),p3 Table 1,table,e_fertiliser,,,NPK_rate,P and K oxide basis not stated
+Ghosh_2017,ICAR-IIPR Kanpur,upland_wheat,,fertiliser_timing,1/3 N+P+K basal; 1/3 N at 21 DAS; 1/3 N at 45 DAS,,p3 Table 1,table,e_fertiliser,,,fertiliser_timing,"DAT/DAS only, no calendar dates"
+Ghosh_2017,ICAR-IIPR Kanpur,all,,irrigation_method_dates_amounts,NA (not reported; wheat 'assured irrigated' only),,-,missing,f_irrigation,,,irrigation_method_dates_amounts,
+Ghosh_2017,ICAR-IIPR Kanpur,lowland_chickpea,,n_irrigations,2,count/season,p3 Table 1,table,f_irrigation,,,n_irrigations,"need-based, mean of 4 yrs; no dates, depth or method"
+Ghosh_2017,ICAR-IIPR Kanpur,lowland_rice,,n_irrigations,8-10,count/season,p3 Table 1,table,f_irrigation,,,n_irrigations,"need-based, mean of 4 yrs; no dates, depth or method"
+Ghosh_2017,ICAR-IIPR Kanpur,lowland_wheat,,n_irrigations,5,count/season,p3 Table 1,table,f_irrigation,,,n_irrigations,"need-based, mean of 4 yrs; no dates, depth or method"
+Ghosh_2017,ICAR-IIPR Kanpur,upland_chickpea,,n_irrigations,2,count/season,p3 Table 1,table,f_irrigation,,,n_irrigations,"need-based, mean of 4 yrs; no dates, depth or method"
+Ghosh_2017,ICAR-IIPR Kanpur,upland_maize,,n_irrigations,2,count/season,p3 Table 1,table,f_irrigation,,,n_irrigations,"need-based, mean of 4 yrs; no dates, depth or method"
+Ghosh_2017,ICAR-IIPR Kanpur,upland_wheat,,n_irrigations,5,count/season,p3 Table 1,table,f_irrigation,,,n_irrigations,"need-based, mean of 4 yrs; no dates, depth or method"
+Ghosh_2017,ICAR-IIPR Kanpur,L_CT,0-20,Cfrac1,3.58,g/kg,p5 Table 3,table,g_end_soil,end,,Cfrac1,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_CT,20-40,Cfrac1,3.07,g/kg,p5 Table 3,table,g_end_soil,end,,Cfrac1,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_CT,40-60,Cfrac1,1.54,g/kg,p5 Table 3,table,g_end_soil,end,,Cfrac1,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_CT,0-20,Cfrac2,2.53,g/kg,p5 Table 3,table,g_end_soil,end,,Cfrac2,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_CT,20-40,Cfrac2,2.81,g/kg,p5 Table 3,table,g_end_soil,end,,Cfrac2,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_CT,40-60,Cfrac2,1.55,g/kg,p5 Table 3,table,g_end_soil,end,,Cfrac2,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_CT,0-20,Cfrac3,5.14,g/kg,p5 Table 3,table,g_end_soil,end,,Cfrac3,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_CT,20-40,Cfrac3,4.62,g/kg,p5 Table 3,table,g_end_soil,end,,Cfrac3,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_CT,40-60,Cfrac3,1.44,g/kg,p5 Table 3,table,g_end_soil,end,,Cfrac3,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_CT,0-20,Cfrac4,4.83,g/kg,p5 Table 3,table,g_end_soil,end,,Cfrac4,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_CT,20-40,Cfrac4,2.88,g/kg,p5 Table 3,table,g_end_soil,end,,Cfrac4,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_CT,40-60,Cfrac4,1.76,g/kg,p5 Table 3,table,g_end_soil,end,,Cfrac4,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_CT,0-20,TOC,16.08,g/kg,p5 Table 3,table,g_end_soil,end,,TOC,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_CT,20-40,TOC,13.38,g/kg,p5 Table 3,table,g_end_soil,end,,TOC,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_CT,40-60,TOC,6.29,g/kg,p5 Table 3,table,g_end_soil,end,,TOC,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_ORG,0-20,Cfrac1,4.94,g/kg,p5 Table 3,table,g_end_soil,end,,Cfrac1,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_ORG,20-40,Cfrac1,5.14,g/kg,p5 Table 3,table,g_end_soil,end,,Cfrac1,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_ORG,40-60,Cfrac1,1.38,g/kg,p5 Table 3,table,g_end_soil,end,,Cfrac1,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_ORG,0-20,Cfrac2,3.6,g/kg,p5 Table 3,table,g_end_soil,end,,Cfrac2,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_ORG,20-40,Cfrac2,3.12,g/kg,p5 Table 3,table,g_end_soil,end,,Cfrac2,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_ORG,40-60,Cfrac2,1.49,g/kg,p5 Table 3,table,g_end_soil,end,,Cfrac2,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_ORG,0-20,Cfrac3,5.79,g/kg,p5 Table 3,table,g_end_soil,end,,Cfrac3,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_ORG,20-40,Cfrac3,4.68,g/kg,p5 Table 3,table,g_end_soil,end,,Cfrac3,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_ORG,40-60,Cfrac3,1.55,g/kg,p5 Table 3,table,g_end_soil,end,,Cfrac3,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_ORG,0-20,Cfrac4,5.24,g/kg,p5 Table 3,table,g_end_soil,end,,Cfrac4,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_ORG,20-40,Cfrac4,2.8,g/kg,p5 Table 3,table,g_end_soil,end,,Cfrac4,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_ORG,40-60,Cfrac4,2.01,g/kg,p5 Table 3,table,g_end_soil,end,,Cfrac4,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_ORG,0-20,TOC,19.57,g/kg,p5 Table 3,table,g_end_soil,end,,TOC,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_ORG,20-40,TOC,15.74,g/kg,p5 Table 3,table,g_end_soil,end,,TOC,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_ORG,40-60,TOC,6.43,g/kg,p5 Table 3,table,g_end_soil,end,,TOC,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RDF,0-20,Cfrac1,4.33,g/kg,p5 Table 3,table,g_end_soil,end,,Cfrac1,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RDF,20-40,Cfrac1,4.75,g/kg,p5 Table 3,table,g_end_soil,end,,Cfrac1,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RDF,40-60,Cfrac1,1.55,g/kg,p5 Table 3,table,g_end_soil,end,,Cfrac1,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RDF,0-20,Cfrac2,3.46,g/kg,p5 Table 3,table,g_end_soil,end,,Cfrac2,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RDF,20-40,Cfrac2,3.22,g/kg,p5 Table 3,table,g_end_soil,end,,Cfrac2,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RDF,40-60,Cfrac2,1.45,g/kg,p5 Table 3,table,g_end_soil,end,,Cfrac2,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RDF,0-20,Cfrac3,5.32,g/kg,p5 Table 3,table,g_end_soil,end,,Cfrac3,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RDF,20-40,Cfrac3,4.62,g/kg,p5 Table 3,table,g_end_soil,end,,Cfrac3,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RDF,40-60,Cfrac3,1.47,g/kg,p5 Table 3,table,g_end_soil,end,,Cfrac3,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RDF,0-20,Cfrac4,4.98,g/kg,p5 Table 3,table,g_end_soil,end,,Cfrac4,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RDF,20-40,Cfrac4,2.91,g/kg,p5 Table 3,table,g_end_soil,end,,Cfrac4,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RDF,40-60,Cfrac4,1.86,g/kg,p5 Table 3,table,g_end_soil,end,,Cfrac4,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RDF,0-20,TOC,18.09,g/kg,p5 Table 3,table,g_end_soil,end,,TOC,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RDF,20-40,TOC,15.5,g/kg,p5 Table 3,table,g_end_soil,end,,TOC,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RDF,40-60,TOC,6.33,g/kg,p5 Table 3,table,g_end_soil,end,,TOC,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RW,0-20,Cfrac1,3.59,g/kg,p5 Table 3,table,g_end_soil,end,,Cfrac1,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RW,20-40,Cfrac1,3.89,g/kg,p5 Table 3,table,g_end_soil,end,,Cfrac1,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RW,40-60,Cfrac1,1.53,g/kg,p5 Table 3,table,g_end_soil,end,,Cfrac1,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RW,0-20,Cfrac2,2.98,g/kg,p5 Table 3,table,g_end_soil,end,,Cfrac2,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RW,20-40,Cfrac2,3.05,g/kg,p5 Table 3,table,g_end_soil,end,,Cfrac2,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RW,40-60,Cfrac2,1.5,g/kg,p5 Table 3,table,g_end_soil,end,,Cfrac2,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RW,0-20,Cfrac3,5.48,g/kg,p5 Table 3,table,g_end_soil,end,,Cfrac3,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RW,20-40,Cfrac3,4.86,g/kg,p5 Table 3,table,g_end_soil,end,,Cfrac3,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RW,40-60,Cfrac3,1.43,g/kg,p5 Table 3,table,g_end_soil,end,,Cfrac3,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RW,0-20,Cfrac4,5.24,g/kg,p5 Table 3,table,g_end_soil,end,,Cfrac4,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RW,20-40,Cfrac4,2.93,g/kg,p5 Table 3,table,g_end_soil,end,,Cfrac4,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RW,40-60,Cfrac4,1.88,g/kg,p5 Table 3,table,g_end_soil,end,,Cfrac4,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RW,0-20,TOC,17.29,g/kg,p5 Table 3,table,g_end_soil,end,,TOC,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RW,20-40,TOC,14.73,g/kg,p5 Table 3,table,g_end_soil,end,,TOC,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RW,40-60,TOC,6.34,g/kg,p5 Table 3,table,g_end_soil,end,,TOC,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RWRC,0-20,Cfrac1,4.85,g/kg,p5 Table 3,table,g_end_soil,end,,Cfrac1,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RWRC,20-40,Cfrac1,4.08,g/kg,p5 Table 3,table,g_end_soil,end,,Cfrac1,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RWRC,40-60,Cfrac1,1.45,g/kg,p5 Table 3,table,g_end_soil,end,,Cfrac1,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RWRC,0-20,Cfrac2,3.41,g/kg,p5 Table 3,table,g_end_soil,end,,Cfrac2,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RWRC,20-40,Cfrac2,3.05,g/kg,p5 Table 3,table,g_end_soil,end,,Cfrac2,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RWRC,40-60,Cfrac2,1.49,g/kg,p5 Table 3,table,g_end_soil,end,,Cfrac2,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RWRC,0-20,Cfrac3,5.37,g/kg,p5 Table 3,table,g_end_soil,end,,Cfrac3,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RWRC,20-40,Cfrac3,4.55,g/kg,p5 Table 3,table,g_end_soil,end,,Cfrac3,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RWRC,40-60,Cfrac3,1.54,g/kg,p5 Table 3,table,g_end_soil,end,,Cfrac3,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RWRC,0-20,Cfrac4,4.79,g/kg,p5 Table 3,table,g_end_soil,end,,Cfrac4,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RWRC,20-40,Cfrac4,2.79,g/kg,p5 Table 3,table,g_end_soil,end,,Cfrac4,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RWRC,40-60,Cfrac4,1.82,g/kg,p5 Table 3,table,g_end_soil,end,,Cfrac4,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RWRC,0-20,TOC,18.42,g/kg,p5 Table 3,table,g_end_soil,end,,TOC,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RWRC,20-40,TOC,14.47,g/kg,p5 Table 3,table,g_end_soil,end,,TOC,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RWRC,40-60,TOC,6.3,g/kg,p5 Table 3,table,g_end_soil,end,,TOC,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_CT,0-20,Cfrac1,4.36,g/kg,p6 Table 4,table,g_end_soil,end,,Cfrac1,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_CT,20-40,Cfrac1,3.28,g/kg,p6 Table 4,table,g_end_soil,end,,Cfrac1,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_CT,40-60,Cfrac1,1.59,g/kg,p6 Table 4,table,g_end_soil,end,,Cfrac1,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_CT,0-20,Cfrac2,2.97,g/kg,p6 Table 4,table,g_end_soil,end,,Cfrac2,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_CT,20-40,Cfrac2,1.32,g/kg,p6 Table 4,table,g_end_soil,end,,Cfrac2,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_CT,40-60,Cfrac2,1.43,g/kg,p6 Table 4,table,g_end_soil,end,,Cfrac2,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_CT,0-20,Cfrac3,2.64,g/kg,p6 Table 4,table,g_end_soil,end,,Cfrac3,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_CT,20-40,Cfrac3,2.94,g/kg,p6 Table 4,table,g_end_soil,end,,Cfrac3,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_CT,40-60,Cfrac3,0.89,g/kg,p6 Table 4,table,g_end_soil,end,,Cfrac3,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_CT,0-20,Cfrac4,3.35,g/kg,p6 Table 4,table,g_end_soil,end,,Cfrac4,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_CT,20-40,Cfrac4,2.88,g/kg,p6 Table 4,table,g_end_soil,end,,Cfrac4,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_CT,40-60,Cfrac4,1.39,g/kg,p6 Table 4,table,g_end_soil,end,,Cfrac4,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_CT,0-20,TOC,13.32,g/kg,p6 Table 4,table,g_end_soil,end,,TOC,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_CT,20-40,TOC,10.42,g/kg,p6 Table 4,table,g_end_soil,end,,TOC,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_CT,40-60,TOC,5.3,g/kg,p6 Table 4,table,g_end_soil,end,,TOC,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_MW,0-20,Cfrac1,5.37,g/kg,p6 Table 4,table,g_end_soil,end,,Cfrac1,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_MW,20-40,Cfrac1,3.61,g/kg,p6 Table 4,table,g_end_soil,end,,Cfrac1,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_MW,40-60,Cfrac1,1.65,g/kg,p6 Table 4,table,g_end_soil,end,,Cfrac1,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_MW,0-20,Cfrac2,3.09,g/kg,p6 Table 4,table,g_end_soil,end,,Cfrac2,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_MW,20-40,Cfrac2,1.4,g/kg,p6 Table 4,table,g_end_soil,end,,Cfrac2,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_MW,40-60,Cfrac2,1.88,g/kg,p6 Table 4,table,g_end_soil,end,,Cfrac2,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_MW,0-20,Cfrac3,2.78,g/kg,p6 Table 4,table,g_end_soil,end,,Cfrac3,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_MW,20-40,Cfrac3,3.37,g/kg,p6 Table 4,table,g_end_soil,end,,Cfrac3,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_MW,40-60,Cfrac3,1.02,g/kg,p6 Table 4,table,g_end_soil,end,,Cfrac3,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_MW,0-20,Cfrac4,3.45,g/kg,p6 Table 4,table,g_end_soil,end,,Cfrac4,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_MW,20-40,Cfrac4,2.8,g/kg,p6 Table 4,table,g_end_soil,end,,Cfrac4,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_MW,40-60,Cfrac4,1.5,g/kg,p6 Table 4,table,g_end_soil,end,,Cfrac4,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_MW,0-20,TOC,14.69,g/kg,p6 Table 4,table,g_end_soil,end,,TOC,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_MW,20-40,TOC,11.18,g/kg,p6 Table 4,table,g_end_soil,end,,TOC,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_MW,40-60,TOC,6.05,g/kg,p6 Table 4,table,g_end_soil,end,,TOC,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_MWMC,0-20,Cfrac1,6.32,g/kg,p6 Table 4,table,g_end_soil,end,,Cfrac1,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_MWMC,20-40,Cfrac1,3.55,g/kg,p6 Table 4,table,g_end_soil,end,,Cfrac1,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_MWMC,40-60,Cfrac1,1.54,g/kg,p6 Table 4,table,g_end_soil,end,,Cfrac1,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_MWMC,0-20,Cfrac2,3.49,g/kg,p6 Table 4,table,g_end_soil,end,,Cfrac2,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_MWMC,20-40,Cfrac2,1.54,g/kg,p6 Table 4,table,g_end_soil,end,,Cfrac2,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_MWMC,40-60,Cfrac2,2.08,g/kg,p6 Table 4,table,g_end_soil,end,,Cfrac2,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_MWMC,0-20,Cfrac3,3.09,g/kg,p6 Table 4,table,g_end_soil,end,,Cfrac3,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_MWMC,20-40,Cfrac3,2.84,g/kg,p6 Table 4,table,g_end_soil,end,,Cfrac3,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_MWMC,40-60,Cfrac3,0.99,g/kg,p6 Table 4,table,g_end_soil,end,,Cfrac3,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_MWMC,0-20,Cfrac4,3.77,g/kg,p6 Table 4,table,g_end_soil,end,,Cfrac4,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_MWMC,20-40,Cfrac4,2.85,g/kg,p6 Table 4,table,g_end_soil,end,,Cfrac4,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_MWMC,40-60,Cfrac4,1.52,g/kg,p6 Table 4,table,g_end_soil,end,,Cfrac4,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_MWMC,0-20,TOC,16.67,g/kg,p6 Table 4,table,g_end_soil,end,,TOC,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_MWMC,20-40,TOC,10.78,g/kg,p6 Table 4,table,g_end_soil,end,,TOC,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_MWMC,40-60,TOC,6.13,g/kg,p6 Table 4,table,g_end_soil,end,,TOC,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_ORG,0-20,Cfrac1,6.98,g/kg,p6 Table 4,table,g_end_soil,end,,Cfrac1,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_ORG,20-40,Cfrac1,3.88,g/kg,p6 Table 4,table,g_end_soil,end,,Cfrac1,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_ORG,40-60,Cfrac1,1.7,g/kg,p6 Table 4,table,g_end_soil,end,,Cfrac1,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_ORG,0-20,Cfrac2,3.63,g/kg,p6 Table 4,table,g_end_soil,end,,Cfrac2,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_ORG,20-40,Cfrac2,1.56,g/kg,p6 Table 4,table,g_end_soil,end,,Cfrac2,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_ORG,40-60,Cfrac2,2.18,g/kg,p6 Table 4,table,g_end_soil,end,,Cfrac2,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_ORG,0-20,Cfrac3,3.21,g/kg,p6 Table 4,table,g_end_soil,end,,Cfrac3,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_ORG,20-40,Cfrac3,3.19,g/kg,p6 Table 4,table,g_end_soil,end,,Cfrac3,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_ORG,40-60,Cfrac3,1.03,g/kg,p6 Table 4,table,g_end_soil,end,,Cfrac3,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_ORG,0-20,Cfrac4,3.91,g/kg,p6 Table 4,table,g_end_soil,end,,Cfrac4,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_ORG,20-40,Cfrac4,2.9,g/kg,p6 Table 4,table,g_end_soil,end,,Cfrac4,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_ORG,40-60,Cfrac4,1.69,g/kg,p6 Table 4,table,g_end_soil,end,,Cfrac4,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_ORG,0-20,TOC,17.73,g/kg,p6 Table 4,table,g_end_soil,end,,TOC,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_ORG,20-40,TOC,11.53,g/kg,p6 Table 4,table,g_end_soil,end,,TOC,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_ORG,40-60,TOC,6.6,g/kg,p6 Table 4,table,g_end_soil,end,,TOC,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_RDF,0-20,Cfrac1,6.18,g/kg,p6 Table 4,table,g_end_soil,end,,Cfrac1,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_RDF,20-40,Cfrac1,3.59,g/kg,p6 Table 4,table,g_end_soil,end,,Cfrac1,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_RDF,40-60,Cfrac1,1.49,g/kg,p6 Table 4,table,g_end_soil,end,,Cfrac1,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_RDF,0-20,Cfrac2,3.27,g/kg,p6 Table 4,table,g_end_soil,end,,Cfrac2,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_RDF,20-40,Cfrac2,1.69,g/kg,p6 Table 4,table,g_end_soil,end,,Cfrac2,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_RDF,40-60,Cfrac2,2.34,g/kg,p6 Table 4,table,g_end_soil,end,,Cfrac2,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_RDF,0-20,Cfrac3,2.97,g/kg,p6 Table 4,table,g_end_soil,end,,Cfrac3,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_RDF,20-40,Cfrac3,3.18,g/kg,p6 Table 4,table,g_end_soil,end,,Cfrac3,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_RDF,40-60,Cfrac3,1.1,g/kg,p6 Table 4,table,g_end_soil,end,,Cfrac3,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_RDF,0-20,Cfrac4,3.57,g/kg,p6 Table 4,table,g_end_soil,end,,Cfrac4,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_RDF,20-40,Cfrac4,2.71,g/kg,p6 Table 4,table,g_end_soil,end,,Cfrac4,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_RDF,40-60,Cfrac4,1.44,g/kg,p6 Table 4,table,g_end_soil,end,,Cfrac4,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_RDF,0-20,TOC,15.99,g/kg,p6 Table 4,table,g_end_soil,end,,TOC,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_RDF,20-40,TOC,11.17,g/kg,p6 Table 4,table,g_end_soil,end,,TOC,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_RDF,40-60,TOC,6.37,g/kg,p6 Table 4,table,g_end_soil,end,,TOC,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,all,0-20,POC,"NA (bar chart only, Fig 1)",g/kg,p6 Fig 1,figure,g_end_soil,end,,POC,figure-only; not extracted
+Ghosh_2017,ICAR-IIPR Kanpur,all,,SOC_method,Walkley-Black wet oxidation; TOC = oxidizable C x 1.33,,p3 s2.3,text,g_end_soil,end,,SOC_method,"post-hole auger, 4 spots/plot, after harvest of last crop"
+Ghosh_2017,ICAR-IIPR Kanpur,all,,bulk_density,NA (not reported),,-,missing,g_end_soil,end,,end_bulk_density,needed for SOC stock (g/kg -> Mg/ha)
+Ghosh_2017,ICAR-IIPR Kanpur,all,,sampling_depths_text,"0-20, 20-40, 40-60, 60-80 cm (4 depths)",cm,p3 s2.3,text,g_end_soil,end,,sampling_depths_text,tables show only 3 depths (to 60 cm) - inconsistency
+Ghosh_2017,ICAR-IIPR Kanpur,L_CT,0-20,carbon_management_index,100.0,-,p7 Table 5,table,g_end_soil_derived,end,,carbon_management_index,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,L_CT,20-40,carbon_management_index,100.0,-,p7 Table 5,table,g_end_soil_derived,end,,carbon_management_index,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,L_CT,40-60,carbon_management_index,100.0,-,p7 Table 5,table,g_end_soil_derived,end,,carbon_management_index,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,L_CT,0-20,lability_index,1.3,-,p7 Table 5,table,g_end_soil_derived,end,,lability_index,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,L_CT,20-40,lability_index,1.51,-,p7 Table 5,table,g_end_soil_derived,end,,lability_index,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,L_CT,40-60,lability_index,1.69,-,p7 Table 5,table,g_end_soil_derived,end,,lability_index,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,L_ORG,0-20,carbon_management_index,126.9,-,p7 Table 5,table,g_end_soil_derived,end,,carbon_management_index,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,L_ORG,20-40,carbon_management_index,110.0,-,p7 Table 5,table,g_end_soil_derived,end,,carbon_management_index,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,L_ORG,40-60,carbon_management_index,108.1,-,p7 Table 5,table,g_end_soil_derived,end,,carbon_management_index,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,L_ORG,0-20,lability_index,1.4,-,p7 Table 5,table,g_end_soil_derived,end,,lability_index,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,L_ORG,20-40,lability_index,1.52,-,p7 Table 5,table,g_end_soil_derived,end,,lability_index,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,L_ORG,40-60,lability_index,1.71,-,p7 Table 5,table,g_end_soil_derived,end,,lability_index,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RDF,0-20,carbon_management_index,120.5,-,p7 Table 5,table,g_end_soil_derived,end,,carbon_management_index,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RDF,20-40,carbon_management_index,122.8,-,p7 Table 5,table,g_end_soil_derived,end,,carbon_management_index,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RDF,40-60,carbon_management_index,112.6,-,p7 Table 5,table,g_end_soil_derived,end,,carbon_management_index,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RDF,0-20,lability_index,1.4,-,p7 Table 5,table,g_end_soil_derived,end,,lability_index,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RDF,20-40,lability_index,1.65,-,p7 Table 5,table,g_end_soil_derived,end,,lability_index,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RDF,40-60,lability_index,1.66,-,p7 Table 5,table,g_end_soil_derived,end,,lability_index,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RW,0-20,carbon_management_index,105.6,-,p7 Table 5,table,g_end_soil_derived,end,,carbon_management_index,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RW,20-40,carbon_management_index,111.1,-,p7 Table 5,table,g_end_soil_derived,end,,carbon_management_index,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RW,40-60,carbon_management_index,77.9,-,p7 Table 5,table,g_end_soil_derived,end,,carbon_management_index,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RW,0-20,lability_index,1.28,-,p7 Table 5,table,g_end_soil_derived,end,,lability_index,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RW,20-40,lability_index,1.54,-,p7 Table 5,table,g_end_soil_derived,end,,lability_index,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RW,40-60,lability_index,1.69,-,p7 Table 5,table,g_end_soil_derived,end,,lability_index,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RWRC,0-20,carbon_management_index,126.0,-,p7 Table 5,table,g_end_soil_derived,end,,carbon_management_index,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RWRC,20-40,carbon_management_index,110.8,-,p7 Table 5,table,g_end_soil_derived,end,,carbon_management_index,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RWRC,40-60,carbon_management_index,135.9,-,p7 Table 5,table,g_end_soil_derived,end,,carbon_management_index,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RWRC,0-20,lability_index,1.46,-,p7 Table 5,table,g_end_soil_derived,end,,lability_index,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RWRC,20-40,lability_index,1.58,-,p7 Table 5,table,g_end_soil_derived,end,,lability_index,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RWRC,40-60,lability_index,1.68,-,p7 Table 5,table,g_end_soil_derived,end,,lability_index,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,U_CT,0-20,carbon_management_index,100.0,-,p7 Table 5,table,g_end_soil_derived,end,,carbon_management_index,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,U_CT,20-40,carbon_management_index,100.0,-,p7 Table 5,table,g_end_soil_derived,end,,carbon_management_index,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,U_CT,40-60,carbon_management_index,100.0,-,p7 Table 5,table,g_end_soil_derived,end,,carbon_management_index,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,U_CT,0-20,lability_index,1.59,-,p7 Table 5,table,g_end_soil_derived,end,,lability_index,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,U_CT,20-40,lability_index,1.47,-,p7 Table 5,table,g_end_soil_derived,end,,lability_index,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,U_CT,40-60,lability_index,1.43,-,p7 Table 5,table,g_end_soil_derived,end,,lability_index,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,U_MW,0-20,carbon_management_index,120.7,-,p7 Table 5,table,g_end_soil_derived,end,,carbon_management_index,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,U_MW,20-40,carbon_management_index,109.1,-,p7 Table 5,table,g_end_soil_derived,end,,carbon_management_index,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,U_MW,40-60,carbon_management_index,111.3,-,p7 Table 5,table,g_end_soil_derived,end,,carbon_management_index,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,U_MW,0-20,lability_index,1.7,-,p7 Table 5,table,g_end_soil_derived,end,,lability_index,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,U_MW,20-40,lability_index,1.52,-,p7 Table 5,table,g_end_soil_derived,end,,lability_index,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,U_MW,40-60,lability_index,1.63,-,p7 Table 5,table,g_end_soil_derived,end,,lability_index,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,U_MWMC,0-20,carbon_management_index,126.1,-,p7 Table 5,table,g_end_soil_derived,end,,carbon_management_index,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,U_MWMC,20-40,carbon_management_index,105.5,-,p7 Table 5,table,g_end_soil_derived,end,,carbon_management_index,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,U_MWMC,40-60,carbon_management_index,112.0,-,p7 Table 5,table,g_end_soil_derived,end,,carbon_management_index,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,U_MWMC,0-20,lability_index,1.7,-,p7 Table 5,table,g_end_soil_derived,end,,lability_index,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,U_MWMC,20-40,lability_index,1.55,-,p7 Table 5,table,g_end_soil_derived,end,,lability_index,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,U_MWMC,40-60,lability_index,1.67,-,p7 Table 5,table,g_end_soil_derived,end,,lability_index,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,U_ORG,0-20,carbon_management_index,142.4,-,p7 Table 5,table,g_end_soil_derived,end,,carbon_management_index,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,U_ORG,20-40,carbon_management_index,109.3,-,p7 Table 5,table,g_end_soil_derived,end,,carbon_management_index,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,U_ORG,40-60,carbon_management_index,117.8,-,p7 Table 5,table,g_end_soil_derived,end,,carbon_management_index,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,U_ORG,0-20,lability_index,1.77,-,p7 Table 5,table,g_end_soil_derived,end,,lability_index,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,U_ORG,20-40,lability_index,1.52,-,p7 Table 5,table,g_end_soil_derived,end,,lability_index,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,U_ORG,40-60,lability_index,1.56,-,p7 Table 5,table,g_end_soil_derived,end,,lability_index,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,U_RDF,0-20,carbon_management_index,127.7,-,p7 Table 5,table,g_end_soil_derived,end,,carbon_management_index,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,U_RDF,20-40,carbon_management_index,112.5,-,p7 Table 5,table,g_end_soil_derived,end,,carbon_management_index,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,U_RDF,40-60,carbon_management_index,117.2,-,p7 Table 5,table,g_end_soil_derived,end,,carbon_management_index,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,U_RDF,0-20,lability_index,1.75,-,p7 Table 5,table,g_end_soil_derived,end,,lability_index,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,U_RDF,20-40,lability_index,1.62,-,p7 Table 5,table,g_end_soil_derived,end,,lability_index,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,U_RDF,40-60,lability_index,1.95,-,p7 Table 5,table,g_end_soil_derived,end,,lability_index,"derived index, not a DayCent input"
+Pandey_2012,BHU Varanasi,all,,annual_rainfall_2009,462.0,mm,p5 s3.2.1,text,a_site,,,annual_rainfall_2009,
+Pandey_2012,BHU Varanasi,all,,annual_rainfall_2010,771.9,mm,p5 s3.2.1,text,a_site,,,annual_rainfall_2010,
+Pandey_2012,BHU Varanasi,all,,climate,eastern Indo-Gangetic plains (no Koppen/temperature stats in text),,p2 s2.1,text,a_site,,,climate,daily weather only in Fig 2 (graph)
+Pandey_2012,BHU Varanasi,all,,elevation,76.19,m asl,p2 s2.1,text,a_site,,,elevation,
+Pandey_2012,BHU Varanasi,all,,latitude,25.14,deg N,p2 s2.1,text,a_site,,,latitude,
+Pandey_2012,BHU Varanasi,all,,longitude,82.03,deg E,p2 s2.1,text,a_site,,,longitude,
+Pandey_2012,BHU Varanasi,all,,site_name,"Agricultural research farm, IAS, BHU, Varanasi",,p2 s2.1,text,a_site,,,site_name,
+Pandey_2012,BHU Varanasi,all,,soil_class,Inceptisol,,p2 s2.1,text,a_site,,,soil_class,
+Pandey_2012,BHU Varanasi,all,,texture_class,sandy loam,,p2 s2.1,text,a_site,,,texture_class,
+Pandey_2012,BHU Varanasi,initial_2003,0-15,SOC,0.33,%,p3 Table 1,table,b_initial_soil,initial,,SOC,
+Pandey_2012,BHU Varanasi,initial_2003,0-15,available_P,1.23,mg/g,p3 Table 1,table,b_initial_soil,initial,,available_P,unit as printed (mg/g); magnitude suggests mg/kg - human review
+Pandey_2012,BHU Varanasi,initial_2003,0-15,bulk_density,1.43,g/cm3,p3 Table 1,table,b_initial_soil,initial,,bulk_density,
+Pandey_2012,BHU Varanasi,initial_2003,0-15,clay,26.3,%,p3 Table 1,table,b_initial_soil,initial,,clay,
+Pandey_2012,BHU Varanasi,initial_2003,0-15,pH,7.3,-,p3 Table 1,table,b_initial_soil,initial,,pH,
+Pandey_2012,BHU Varanasi,initial_2003,0-15,sand,58.49,%,p3 Table 1,table,b_initial_soil,initial,,sand,
+Pandey_2012,BHU Varanasi,initial_2003,0-15,silt,15.21,%,p3 Table 1,table,b_initial_soil,initial,,silt,
+Pandey_2012,BHU Varanasi,initial_2003,0-15,total_N,0.32,mg/g,p3 Table 1,table,b_initial_soil,initial,,total_N,unit as printed (mg/g); magnitude suggests mg/kg - human review
+Pandey_2012,BHU Varanasi,RCT-WCT,,grain_yield,"NA (only bar chart, no numbers)",kg/ha,p10 Fig 8,figure,c_crop,,rice,rice_grain_yield,"figure-only, low confidence; not extracted"
+Pandey_2012,BHU Varanasi,RCT-WCT,,nursery_seeding_date,20 June (2009 and 2010),date,p3 s2.2,text,c_crop,,,nursery_seeding_date,
+Pandey_2012,BHU Varanasi,RCT-WCT,,rice_cultivar,PHB-71,,p2 s2.1,text,c_crop,,,rice_cultivar,
+Pandey_2012,BHU Varanasi,RCT-WCT,,rice_harvest_date,2009-10-30,date,p3 s2.2,text,c_crop,,,rice_harvest_date,
+Pandey_2012,BHU Varanasi,RCT-WCT,,rice_harvest_date,2010-11-03,date,p3 s2.2,text,c_crop,,,rice_harvest_date,
+Pandey_2012,BHU Varanasi,RCT-WCT,,rice_transplanting_date,2009-07-16,date,p3 s2.2,text,c_crop,,,rice_transplanting_date,
+Pandey_2012,BHU Varanasi,RCT-WCT,,rice_transplanting_date,2010-07-19,date,p3 s2.2,text,c_crop,,,rice_transplanting_date,
+Pandey_2012,BHU Varanasi,RCT-WCT,,straw_yield,NA (not reported),kg/ha,-,missing,c_crop,,,straw_yield,
+Pandey_2012,BHU Varanasi,RCT-WCT,,wheat_cultivar,HD 2824,,p2 s2.1,text,c_crop,,,wheat_cultivar,
+Pandey_2012,BHU Varanasi,RCT-WCT,,wheat_sowing_harvest_dates,NA (not reported),,-,missing,c_crop,,,wheat_sowing_harvest_dates,
+Pandey_2012,BHU Varanasi,RCT-WNT,,grain_yield,"NA (only bar chart, no numbers)",kg/ha,p10 Fig 8,figure,c_crop,,rice,rice_grain_yield,"figure-only, low confidence; not extracted"
+Pandey_2012,BHU Varanasi,RCT-WNT,,nursery_seeding_date,20 June (2009 and 2010),date,p3 s2.2,text,c_crop,,,nursery_seeding_date,
+Pandey_2012,BHU Varanasi,RCT-WNT,,rice_cultivar,PHB-71,,p2 s2.1,text,c_crop,,,rice_cultivar,
+Pandey_2012,BHU Varanasi,RCT-WNT,,rice_harvest_date,2009-10-30,date,p3 s2.2,text,c_crop,,,rice_harvest_date,
+Pandey_2012,BHU Varanasi,RCT-WNT,,rice_harvest_date,2010-11-03,date,p3 s2.2,text,c_crop,,,rice_harvest_date,
+Pandey_2012,BHU Varanasi,RCT-WNT,,rice_transplanting_date,2009-07-16,date,p3 s2.2,text,c_crop,,,rice_transplanting_date,
+Pandey_2012,BHU Varanasi,RCT-WNT,,rice_transplanting_date,2010-07-19,date,p3 s2.2,text,c_crop,,,rice_transplanting_date,
+Pandey_2012,BHU Varanasi,RCT-WNT,,straw_yield,NA (not reported),kg/ha,-,missing,c_crop,,,straw_yield,
+Pandey_2012,BHU Varanasi,RCT-WNT,,wheat_cultivar,HD 2824,,p2 s2.1,text,c_crop,,,wheat_cultivar,
+Pandey_2012,BHU Varanasi,RCT-WNT,,wheat_sowing_harvest_dates,NA (not reported),,-,missing,c_crop,,,wheat_sowing_harvest_dates,
+Pandey_2012,BHU Varanasi,RNT-WCT,,grain_yield,"NA (only bar chart, no numbers)",kg/ha,p10 Fig 8,figure,c_crop,,rice,rice_grain_yield,"figure-only, low confidence; not extracted"
+Pandey_2012,BHU Varanasi,RNT-WCT,,rice_cultivar,PHB-71,,p2 s2.1,text,c_crop,,,rice_cultivar,
+Pandey_2012,BHU Varanasi,RNT-WCT,,rice_harvest_date,2009-10-30,date,p3 s2.2,text,c_crop,,,rice_harvest_date,
+Pandey_2012,BHU Varanasi,RNT-WCT,,rice_harvest_date,2010-11-03,date,p3 s2.2,text,c_crop,,,rice_harvest_date,
+Pandey_2012,BHU Varanasi,RNT-WCT,,rice_sowing_date_direct_seeded,2009-06-20,date,p3 s2.2,text,c_crop,,,rice_sowing_date_direct_seeded,zero-till drill
+Pandey_2012,BHU Varanasi,RNT-WCT,,rice_sowing_date_direct_seeded,2010-06-20,date,p3 s2.2,text,c_crop,,,rice_sowing_date_direct_seeded,zero-till drill
+Pandey_2012,BHU Varanasi,RNT-WCT,,straw_yield,NA (not reported),kg/ha,-,missing,c_crop,,,straw_yield,
+Pandey_2012,BHU Varanasi,RNT-WCT,,wheat_cultivar,HD 2824,,p2 s2.1,text,c_crop,,,wheat_cultivar,
+Pandey_2012,BHU Varanasi,RNT-WCT,,wheat_sowing_harvest_dates,NA (not reported),,-,missing,c_crop,,,wheat_sowing_harvest_dates,
+Pandey_2012,BHU Varanasi,RNT-WNT,,grain_yield,"NA (only bar chart, no numbers)",kg/ha,p10 Fig 8,figure,c_crop,,rice,rice_grain_yield,"figure-only, low confidence; not extracted"
+Pandey_2012,BHU Varanasi,RNT-WNT,,rice_cultivar,PHB-71,,p2 s2.1,text,c_crop,,,rice_cultivar,
+Pandey_2012,BHU Varanasi,RNT-WNT,,rice_harvest_date,2009-10-30,date,p3 s2.2,text,c_crop,,,rice_harvest_date,
+Pandey_2012,BHU Varanasi,RNT-WNT,,rice_harvest_date,2010-11-03,date,p3 s2.2,text,c_crop,,,rice_harvest_date,
+Pandey_2012,BHU Varanasi,RNT-WNT,,rice_sowing_date_direct_seeded,2009-06-20,date,p3 s2.2,text,c_crop,,,rice_sowing_date_direct_seeded,zero-till drill
+Pandey_2012,BHU Varanasi,RNT-WNT,,rice_sowing_date_direct_seeded,2010-06-20,date,p3 s2.2,text,c_crop,,,rice_sowing_date_direct_seeded,zero-till drill
+Pandey_2012,BHU Varanasi,RNT-WNT,,straw_yield,NA (not reported),kg/ha,-,missing,c_crop,,,straw_yield,
+Pandey_2012,BHU Varanasi,RNT-WNT,,wheat_cultivar,HD 2824,,p2 s2.1,text,c_crop,,,wheat_cultivar,
+Pandey_2012,BHU Varanasi,RNT-WNT,,wheat_sowing_harvest_dates,NA (not reported),,-,missing,c_crop,,,wheat_sowing_harvest_dates,
+Pandey_2012,BHU Varanasi,all,,experiment_period,"2003-2010 (GHG measured 2009, 2010 rice season)",years,p2 s2.1,text,c_crop,,,experiment_period,
+Pandey_2012,BHU Varanasi,all,,plot_size,5.25 x 5.25,m,p2 s2.1,text,c_crop,,,plot_size,3 replicates
+Pandey_2012,BHU Varanasi,RCT-WCT,,rice_tillage_operation,puddling + repeated tillage + planking in standing water,,p2 s2.1,text,d_tillage,,,rice_tillage_operation,depth not given for rice
+Pandey_2012,BHU Varanasi,RCT-WCT,,tillage_timing,before sowing/transplanting of each crop (CT) or none (NT),,p2 s2.1,text,d_tillage,,,tillage_timing,calendar dates not given
+Pandey_2012,BHU Varanasi,RCT-WCT,,wheat_tillage_depth,30,cm,p2 s2.1,text,d_tillage,,,wheat_tillage_depth,'approximately 30 cm'; machine = cultivator/disk plough
+Pandey_2012,BHU Varanasi,RCT-WCT,,wheat_tillage_operation,disk plough + 2 harrowings by cultivator + planking,,p2 s2.1,text,d_tillage,,,wheat_tillage_operation,
+Pandey_2012,BHU Varanasi,RCT-WNT,,rice_tillage_operation,puddling + repeated tillage + planking in standing water,,p2 s2.1,text,d_tillage,,,rice_tillage_operation,depth not given for rice
+Pandey_2012,BHU Varanasi,RCT-WNT,,tillage_timing,before sowing/transplanting of each crop (CT) or none (NT),,p2 s2.1,text,d_tillage,,,tillage_timing,calendar dates not given
+Pandey_2012,BHU Varanasi,RCT-WNT,,wheat_tillage_operation,"zero-till drill, no tillage",,p2 s2.1,text,d_tillage,,,wheat_tillage_operation,
+Pandey_2012,BHU Varanasi,RNT-WCT,,rice_tillage_operation,"zero-till drill, no tillage",,p2 s2.1,text,d_tillage,,,rice_tillage_operation,depth not given for rice
+Pandey_2012,BHU Varanasi,RNT-WCT,,tillage_timing,before sowing/transplanting of each crop (CT) or none (NT),,p2 s2.1,text,d_tillage,,,tillage_timing,calendar dates not given
+Pandey_2012,BHU Varanasi,RNT-WCT,,wheat_tillage_depth,30,cm,p2 s2.1,text,d_tillage,,,wheat_tillage_depth,'approximately 30 cm'; machine = cultivator/disk plough
+Pandey_2012,BHU Varanasi,RNT-WCT,,wheat_tillage_operation,disk plough + 2 harrowings by cultivator + planking,,p2 s2.1,text,d_tillage,,,wheat_tillage_operation,
+Pandey_2012,BHU Varanasi,RNT-WNT,,rice_tillage_operation,"zero-till drill, no tillage",,p2 s2.1,text,d_tillage,,,rice_tillage_operation,depth not given for rice
+Pandey_2012,BHU Varanasi,RNT-WNT,,tillage_timing,before sowing/transplanting of each crop (CT) or none (NT),,p2 s2.1,text,d_tillage,,,tillage_timing,calendar dates not given
+Pandey_2012,BHU Varanasi,RNT-WNT,,wheat_tillage_operation,"zero-till drill, no tillage",,p2 s2.1,text,d_tillage,,,wheat_tillage_operation,
+Pandey_2012,BHU Varanasi,RCT-WCT,,K2O_total,75,kg/ha,p3 s2.2,text,e_fertiliser,,,K2O_total,rice season
+Pandey_2012,BHU Varanasi,RCT-WCT,,N_total,150,kg/ha,p3 s2.2,text,e_fertiliser,,,N_total,rice season
+Pandey_2012,BHU Varanasi,RCT-WCT,,P2O5_total,75,kg/ha,p3 s2.2,text,e_fertiliser,,,P2O5_total,rice season
+Pandey_2012,BHU Varanasi,RCT-WCT,,basal_fertiliser,15:15:15 NPK complex: all P and K + 50% of N (=75 kg N),,p3 s2.2,text,e_fertiliser,,,basal_fertiliser,at sowing/transplanting
+Pandey_2012,BHU Varanasi,RCT-WCT,,herbicide,butachlor 50EC 1.25 kg/ha (pre-emergence),,p3 s2.2,text,e_fertiliser,,,herbicide,+ one hand weeding at 25 DAS/DAT (p3) vs 30 DAS (p10): inconsistency
+Pandey_2012,BHU Varanasi,RCT-WCT,,manure,none reported,,p3 s2.2,text,e_fertiliser,,,manure,
+Pandey_2012,BHU Varanasi,RCT-WCT,,residue_after_harvest,<5 cm stubble; mixed in by ploughing,,p2 s2.1,text,e_fertiliser,,,residue_after_harvest,"rice residue treatment, depends on previous crop tillage"
+Pandey_2012,BHU Varanasi,RCT-WCT,,topdress_urea_N,75,kg N/ha,p3 s2.2,text,e_fertiliser,,,topdress_urea_N,2 equal splits at tillering and panicle initiation; exact dates not given (arrows in Fig 4)
+Pandey_2012,BHU Varanasi,RCT-WNT,,K2O_total,75,kg/ha,p3 s2.2,text,e_fertiliser,,,K2O_total,rice season
+Pandey_2012,BHU Varanasi,RCT-WNT,,N_total,150,kg/ha,p3 s2.2,text,e_fertiliser,,,N_total,rice season
+Pandey_2012,BHU Varanasi,RCT-WNT,,P2O5_total,75,kg/ha,p3 s2.2,text,e_fertiliser,,,P2O5_total,rice season
+Pandey_2012,BHU Varanasi,RCT-WNT,,basal_fertiliser,15:15:15 NPK complex: all P and K + 50% of N (=75 kg N),,p3 s2.2,text,e_fertiliser,,,basal_fertiliser,at sowing/transplanting
+Pandey_2012,BHU Varanasi,RCT-WNT,,herbicide,butachlor 50EC 1.25 kg/ha (pre-emergence),,p3 s2.2,text,e_fertiliser,,,herbicide,+ one hand weeding at 25 DAS/DAT (p3) vs 30 DAS (p10): inconsistency
+Pandey_2012,BHU Varanasi,RCT-WNT,,manure,none reported,,p3 s2.2,text,e_fertiliser,,,manure,
+Pandey_2012,BHU Varanasi,RCT-WNT,,residue_after_harvest,20 cm standing straw retained; zero-till,,p2 s2.1,text,e_fertiliser,,,residue_after_harvest,"rice residue treatment, depends on previous crop tillage"
+Pandey_2012,BHU Varanasi,RCT-WNT,,topdress_urea_N,75,kg N/ha,p3 s2.2,text,e_fertiliser,,,topdress_urea_N,2 equal splits at tillering and panicle initiation; exact dates not given (arrows in Fig 4)
+Pandey_2012,BHU Varanasi,RNT-WCT,,K2O_total,75,kg/ha,p3 s2.2,text,e_fertiliser,,,K2O_total,rice season
+Pandey_2012,BHU Varanasi,RNT-WCT,,N_total,150,kg/ha,p3 s2.2,text,e_fertiliser,,,N_total,rice season
+Pandey_2012,BHU Varanasi,RNT-WCT,,P2O5_total,75,kg/ha,p3 s2.2,text,e_fertiliser,,,P2O5_total,rice season
+Pandey_2012,BHU Varanasi,RNT-WCT,,basal_fertiliser,15:15:15 NPK complex: all P and K + 50% of N (=75 kg N),,p3 s2.2,text,e_fertiliser,,,basal_fertiliser,at sowing/transplanting
+Pandey_2012,BHU Varanasi,RNT-WCT,,herbicide,pendimethalin 30EC 1 kg/ha (pre-emergence),,p3 s2.2,text,e_fertiliser,,,herbicide,+ one hand weeding at 25 DAS/DAT (p3) vs 30 DAS (p10): inconsistency
+Pandey_2012,BHU Varanasi,RNT-WCT,,manure,none reported,,p3 s2.2,text,e_fertiliser,,,manure,
+Pandey_2012,BHU Varanasi,RNT-WCT,,residue_after_harvest,20 cm standing straw retained; zero-till,,p2 s2.1,text,e_fertiliser,,,residue_after_harvest,"rice residue treatment, depends on previous crop tillage"
+Pandey_2012,BHU Varanasi,RNT-WCT,,topdress_urea_N,75,kg N/ha,p3 s2.2,text,e_fertiliser,,,topdress_urea_N,2 equal splits at tillering and panicle initiation; exact dates not given (arrows in Fig 4)
+Pandey_2012,BHU Varanasi,RNT-WNT,,K2O_total,75,kg/ha,p3 s2.2,text,e_fertiliser,,,K2O_total,rice season
+Pandey_2012,BHU Varanasi,RNT-WNT,,N_total,150,kg/ha,p3 s2.2,text,e_fertiliser,,,N_total,rice season
+Pandey_2012,BHU Varanasi,RNT-WNT,,P2O5_total,75,kg/ha,p3 s2.2,text,e_fertiliser,,,P2O5_total,rice season
+Pandey_2012,BHU Varanasi,RNT-WNT,,basal_fertiliser,15:15:15 NPK complex: all P and K + 50% of N (=75 kg N),,p3 s2.2,text,e_fertiliser,,,basal_fertiliser,at sowing/transplanting
+Pandey_2012,BHU Varanasi,RNT-WNT,,herbicide,pendimethalin 30EC 1 kg/ha (pre-emergence),,p3 s2.2,text,e_fertiliser,,,herbicide,+ one hand weeding at 25 DAS/DAT (p3) vs 30 DAS (p10): inconsistency
+Pandey_2012,BHU Varanasi,RNT-WNT,,manure,none reported,,p3 s2.2,text,e_fertiliser,,,manure,
+Pandey_2012,BHU Varanasi,RNT-WNT,,residue_after_harvest,20 cm standing straw retained; zero-till,,p2 s2.1,text,e_fertiliser,,,residue_after_harvest,"rice residue treatment, depends on previous crop tillage"
+Pandey_2012,BHU Varanasi,RNT-WNT,,topdress_urea_N,75,kg N/ha,p3 s2.2,text,e_fertiliser,,,topdress_urea_N,2 equal splits at tillering and panicle initiation; exact dates not given (arrows in Fig 4)
+Pandey_2012,BHU Varanasi,RCT-WCT,,irrigation,NA: flooded to tillering then 'moderate moisture by rainfall or supplementary irrigation'; no dates/amounts,,p5 s3.2.1,missing,f_irrigation,,,irrigation,DayCent needs schedule - human review
+Pandey_2012,BHU Varanasi,RCT-WNT,,irrigation,NA: flooded to tillering then 'moderate moisture by rainfall or supplementary irrigation'; no dates/amounts,,p5 s3.2.1,missing,f_irrigation,,,irrigation,DayCent needs schedule - human review
+Pandey_2012,BHU Varanasi,RNT-WCT,,irrigation,NA: flooded to tillering then 'moderate moisture by rainfall or supplementary irrigation'; no dates/amounts,,p5 s3.2.1,missing,f_irrigation,,,irrigation,DayCent needs schedule - human review
+Pandey_2012,BHU Varanasi,RNT-WNT,,irrigation,NA: flooded to tillering then 'moderate moisture by rainfall or supplementary irrigation'; no dates/amounts,,p5 s3.2.1,missing,f_irrigation,,,irrigation,DayCent needs schedule - human review
+Pandey_2012,BHU Varanasi,RCT-WCT,0-15,SOC,0.33,%,p3 Table 1,table,g_end_soil,end,,SOC,year=2009; SOC method Walkley-Black; BD core 0-15 cm
+Pandey_2012,BHU Varanasi,RCT-WCT,0-15,available_P,1.05,mg/g,p3 Table 1,table,g_end_soil,end,,available_P,year=2009
+Pandey_2012,BHU Varanasi,RCT-WCT,0-15,bulk_density,1.51,g/cm3,p3 Table 1,table,g_end_soil,end,,bulk_density,year=2009; SOC method Walkley-Black; BD core 0-15 cm
+Pandey_2012,BHU Varanasi,RCT-WCT,0-15,clay,23.6,%,p3 Table 1,table,g_end_soil,end,,clay,year=2009
+Pandey_2012,BHU Varanasi,RCT-WCT,0-15,pH,7.39,-,p3 Table 1,table,g_end_soil,end,,pH,year=2009
+Pandey_2012,BHU Varanasi,RCT-WCT,0-15,sand,62.62,%,p3 Table 1,table,g_end_soil,end,,sand,year=2009
+Pandey_2012,BHU Varanasi,RCT-WCT,0-15,silt,13.78,%,p3 Table 1,table,g_end_soil,end,,silt,year=2009
+Pandey_2012,BHU Varanasi,RCT-WCT,0-15,total_N,0.38,mg/g,p3 Table 1,table,g_end_soil,end,,total_N,year=2009
+Pandey_2012,BHU Varanasi,RCT-WNT,0-15,SOC,0.79,%,p3 Table 1,table,g_end_soil,end,,SOC,year=2009; SOC method Walkley-Black; BD core 0-15 cm
+Pandey_2012,BHU Varanasi,RCT-WNT,0-15,available_P,1.46,mg/g,p3 Table 1,table,g_end_soil,end,,available_P,year=2009
+Pandey_2012,BHU Varanasi,RCT-WNT,0-15,bulk_density,1.53,g/cm3,p3 Table 1,table,g_end_soil,end,,bulk_density,year=2009; SOC method Walkley-Black; BD core 0-15 cm
+Pandey_2012,BHU Varanasi,RCT-WNT,0-15,clay,21.0,%,p3 Table 1,table,g_end_soil,end,,clay,year=2009
+Pandey_2012,BHU Varanasi,RCT-WNT,0-15,pH,7.26,-,p3 Table 1,table,g_end_soil,end,,pH,year=2009
+Pandey_2012,BHU Varanasi,RCT-WNT,0-15,sand,67.19,%,p3 Table 1,table,g_end_soil,end,,sand,year=2009
+Pandey_2012,BHU Varanasi,RCT-WNT,0-15,silt,11.81,%,p3 Table 1,table,g_end_soil,end,,silt,year=2009
+Pandey_2012,BHU Varanasi,RCT-WNT,0-15,total_N,0.53,mg/g,p3 Table 1,table,g_end_soil,end,,total_N,year=2009
+Pandey_2012,BHU Varanasi,RNT-WCT,0-15,SOC,0.62,%,p3 Table 1,table,g_end_soil,end,,SOC,year=2009; SOC method Walkley-Black; BD core 0-15 cm
+Pandey_2012,BHU Varanasi,RNT-WCT,0-15,available_P,1.43,mg/g,p3 Table 1,table,g_end_soil,end,,available_P,year=2009
+Pandey_2012,BHU Varanasi,RNT-WCT,0-15,bulk_density,1.63,g/cm3,p3 Table 1,table,g_end_soil,end,,bulk_density,year=2009; SOC method Walkley-Black; BD core 0-15 cm
+Pandey_2012,BHU Varanasi,RNT-WCT,0-15,clay,23.1,%,p3 Table 1,table,g_end_soil,end,,clay,year=2009
+Pandey_2012,BHU Varanasi,RNT-WCT,0-15,pH,7.42,-,p3 Table 1,table,g_end_soil,end,,pH,year=2009
+Pandey_2012,BHU Varanasi,RNT-WCT,0-15,sand,64.61,%,p3 Table 1,table,g_end_soil,end,,sand,year=2009
+Pandey_2012,BHU Varanasi,RNT-WCT,0-15,silt,12.29,%,p3 Table 1,table,g_end_soil,end,,silt,year=2009
+Pandey_2012,BHU Varanasi,RNT-WCT,0-15,total_N,0.62,mg/g,p3 Table 1,table,g_end_soil,end,,total_N,year=2009
+Pandey_2012,BHU Varanasi,RNT-WNT,0-15,SOC,0.99,%,p3 Table 1,table,g_end_soil,end,,SOC,year=2009; SOC method Walkley-Black; BD core 0-15 cm
+Pandey_2012,BHU Varanasi,RNT-WNT,0-15,available_P,1.87,mg/g,p3 Table 1,table,g_end_soil,end,,available_P,year=2009
+Pandey_2012,BHU Varanasi,RNT-WNT,0-15,bulk_density,2.53,g/cm3,p3 Table 1,table,g_end_soil,end,,bulk_density,year=2009; 2.53 physically implausible (>2.65 particle density limit unreasonable for soil BD) - FLAG
+Pandey_2012,BHU Varanasi,RNT-WNT,0-15,clay,22.3,%,p3 Table 1,table,g_end_soil,end,,clay,year=2009
+Pandey_2012,BHU Varanasi,RNT-WNT,0-15,pH,7.37,-,p3 Table 1,table,g_end_soil,end,,pH,year=2009
+Pandey_2012,BHU Varanasi,RNT-WNT,0-15,sand,60.47,%,p3 Table 1,table,g_end_soil,end,,sand,year=2009
+Pandey_2012,BHU Varanasi,RNT-WNT,0-15,silt,17.23,%,p3 Table 1,table,g_end_soil,end,,silt,year=2009
+Pandey_2012,BHU Varanasi,RNT-WNT,0-15,total_N,0.58,mg/g,p3 Table 1,table,g_end_soil,end,,total_N,year=2009
+Sarkar_2011,IIT Kharagpur experimental farm,all,,annual_rainfall,1200,mm,p4 Experimental Site,text,a_site,,,annual_rainfall,70-75% in Jun-Oct
+Sarkar_2011,IIT Kharagpur experimental farm,all,,basic_infiltration_rate,6.0,mm/hr,p4 Experimental Site,text,a_site,,,basic_infiltration_rate,
+Sarkar_2011,IIT Kharagpur experimental farm,all,,climate,sub-humid subtropical,,p4 Experimental Site,text,a_site,,,climate,
+Sarkar_2011,IIT Kharagpur experimental farm,all,,elevation,48,m asl,p4 Experimental Site,text,a_site,,,elevation,
+Sarkar_2011,IIT Kharagpur experimental farm,all,,experiment_period,2001-2003 (Jun 2001 - Oct 2003),,p4 Details of Field Experiment,text,a_site,,,experiment_period,
+Sarkar_2011,IIT Kharagpur experimental farm,all,,latitude,22.3167,deg N,p4 Experimental Site,text,a_site,,,latitude,printed 22deg19'N; converted
+Sarkar_2011,IIT Kharagpur experimental farm,all,,longitude,87.3167,deg E,p4 Experimental Site,text,a_site,,,longitude,printed 87deg19'E; converted
+Sarkar_2011,IIT Kharagpur experimental farm,all,,site_name,"Experimental farm, Agri & Food Engg Dept, IIT Kharagpur, West Bengal",,p4 Experimental Site,text,a_site,,,site_name,
+Sarkar_2011,IIT Kharagpur experimental farm,all,,soil_class,Haplustalf (acid lateritic sandy loam),,p4 Experimental Site,text,a_site,,,soil_class,
+Sarkar_2011,IIT Kharagpur experimental farm,all,,temp_max_extreme,47,C,p4 Experimental Site,text,a_site,,,temp_max_extreme,Apr-May
+Sarkar_2011,IIT Kharagpur experimental farm,all,,temp_range_mean,21-32,C,p4 Experimental Site,text,a_site,,,temp_range_mean,
+Sarkar_2011,IIT Kharagpur experimental farm,initial,0-15,CEC,8.1,cmol/kg,p5 Table 1,table,b_initial_soil,initial,,CEC,
+Sarkar_2011,IIT Kharagpur experimental farm,initial,15-30,CEC,9.2,cmol/kg,p5 Table 1,table,b_initial_soil,initial,,CEC,
+Sarkar_2011,IIT Kharagpur experimental farm,initial,30-45,CEC,9.6,cmol/kg,p5 Table 1,table,b_initial_soil,initial,,CEC,
+Sarkar_2011,IIT Kharagpur experimental farm,initial,0-15,SOC,0.36,%,p5 Table 1,table,b_initial_soil,initial,,SOC,
+Sarkar_2011,IIT Kharagpur experimental farm,initial,15-30,SOC,0.32,%,p5 Table 1,table,b_initial_soil,initial,,SOC,
+Sarkar_2011,IIT Kharagpur experimental farm,initial,30-45,SOC,0.22,%,p5 Table 1,table,b_initial_soil,initial,,SOC,
+Sarkar_2011,IIT Kharagpur experimental farm,initial,0-15,bulk_density,1.62,Mg/m3,p5 Table 1,table,b_initial_soil,initial,,bulk_density,unit printed 'Mg/m'; assumed Mg/m3
+Sarkar_2011,IIT Kharagpur experimental farm,initial,15-30,bulk_density,1.56,Mg/m3,p5 Table 1,table,b_initial_soil,initial,,bulk_density,unit printed 'Mg/m'; assumed Mg/m3
+Sarkar_2011,IIT Kharagpur experimental farm,initial,30-45,bulk_density,1.59,Mg/m3,p5 Table 1,table,b_initial_soil,initial,,bulk_density,unit printed 'Mg/m'; assumed Mg/m3
+Sarkar_2011,IIT Kharagpur experimental farm,initial,0-15,clay,14.3,%,p5 Table 1,table,b_initial_soil,initial,,clay,
+Sarkar_2011,IIT Kharagpur experimental farm,initial,15-30,clay,21.0,%,p5 Table 1,table,b_initial_soil,initial,,clay,
+Sarkar_2011,IIT Kharagpur experimental farm,initial,30-45,clay,27.3,%,p5 Table 1,table,b_initial_soil,initial,,clay,
+Sarkar_2011,IIT Kharagpur experimental farm,initial,,field_capacity,NA (not reported),-,-,missing,b_initial_soil,initial,,field_capacity,estimate with Saxton-Rawls (assumption)
+Sarkar_2011,IIT Kharagpur experimental farm,initial,0-15,pH,5.5,-,p5 Table 1,table,b_initial_soil,initial,,pH,
+Sarkar_2011,IIT Kharagpur experimental farm,initial,15-30,pH,5.6,-,p5 Table 1,table,b_initial_soil,initial,,pH,
+Sarkar_2011,IIT Kharagpur experimental farm,initial,30-45,pH,5.8,-,p5 Table 1,table,b_initial_soil,initial,,pH,
+Sarkar_2011,IIT Kharagpur experimental farm,initial,0-15,sand,59.5,%,p5 Table 1,table,b_initial_soil,initial,,sand,
+Sarkar_2011,IIT Kharagpur experimental farm,initial,15-30,sand,59.7,%,p5 Table 1,table,b_initial_soil,initial,,sand,
+Sarkar_2011,IIT Kharagpur experimental farm,initial,30-45,sand,52.5,%,p5 Table 1,table,b_initial_soil,initial,,sand,
+Sarkar_2011,IIT Kharagpur experimental farm,initial,0-15,sat_hydraulic_conductivity,9.82,cm/day,p5 Table 1,table,b_initial_soil,initial,,sat_hydraulic_conductivity,
+Sarkar_2011,IIT Kharagpur experimental farm,initial,15-30,sat_hydraulic_conductivity,6.74,cm/day,p5 Table 1,table,b_initial_soil,initial,,sat_hydraulic_conductivity,
+Sarkar_2011,IIT Kharagpur experimental farm,initial,30-45,sat_hydraulic_conductivity,0.91,cm/day,p5 Table 1,table,b_initial_soil,initial,,sat_hydraulic_conductivity,
+Sarkar_2011,IIT Kharagpur experimental farm,initial,0-15,silt,26.2,%,p5 Table 1,table,b_initial_soil,initial,,silt,
+Sarkar_2011,IIT Kharagpur experimental farm,initial,15-30,silt,19.3,%,p5 Table 1,table,b_initial_soil,initial,,silt,
+Sarkar_2011,IIT Kharagpur experimental farm,initial,30-45,silt,20.2,%,p5 Table 1,table,b_initial_soil,initial,,silt,
+Sarkar_2011,IIT Kharagpur experimental farm,initial,0-15,soil_strength,9.8,kg/cm2,p5 Table 1,table,b_initial_soil,initial,,soil_strength,measured at 2.54 cm depth
+Sarkar_2011,IIT Kharagpur experimental farm,initial,15-30,soil_strength,12.9,kg/cm2,p5 Table 1,table,b_initial_soil,initial,,soil_strength,measured at 7.62 cm depth
+Sarkar_2011,IIT Kharagpur experimental farm,initial,30-45,soil_strength,14.0,kg/cm2,p5 Table 1,table,b_initial_soil,initial,,soil_strength,measured at 12.7 cm depth
+Sarkar_2011,IIT Kharagpur experimental farm,initial,0-15,total_N,0.04,g/kg,p5 Table 1,table,b_initial_soil,initial,,total_N,
+Sarkar_2011,IIT Kharagpur experimental farm,initial,15-30,total_N,0.05,g/kg,p5 Table 1,table,b_initial_soil,initial,,total_N,
+Sarkar_2011,IIT Kharagpur experimental farm,initial,30-45,total_N,0.06,g/kg,p5 Table 1,table,b_initial_soil,initial,,total_N,
+Sarkar_2011,IIT Kharagpur experimental farm,initial,,wilting_point,NA (not reported),-,-,missing,b_initial_soil,initial,,wilting_point,estimate with Saxton-Rawls (assumption)
+Sarkar_2011,IIT Kharagpur experimental farm,DR,,row_spacing,20,cm,p5,text,c_crops,,,row_spacing,
+Sarkar_2011,IIT Kharagpur experimental farm,T1 (TR),,grain_yield,3983,kg/ha,p22 Table 6a,table,c_crops,,rice,grain_yield_rice,"year 2001; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,T1 (TR),,grain_yield,4069,kg/ha,p22 Table 6a,table,c_crops,,rice,grain_yield_rice,"year 2002; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,T1 (TR),,grain_yield,4422,kg/ha,p22 Table 6a,table,c_crops,,rice,grain_yield_rice,"year 2003; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,T1_t0 (wheat after TR),,grain_yield,1450,kg/ha,p23 Table 7,table,c_crops,,wheat,grain_yield_wheat,"year 2001-02; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,T1_t0 (wheat after TR),,grain_yield,1383,kg/ha,p23 Table 7,table,c_crops,,wheat,grain_yield_wheat,"year 2002-03; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,T1_t1 (wheat after TR),,grain_yield,1698,kg/ha,p23 Table 7,table,c_crops,,wheat,grain_yield_wheat,"year 2001-02; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,T1_t1 (wheat after TR),,grain_yield,1592,kg/ha,p23 Table 7,table,c_crops,,wheat,grain_yield_wheat,"year 2002-03; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,T2 (TR),,grain_yield,3914,kg/ha,p22 Table 6a,table,c_crops,,rice,grain_yield_rice,"year 2001; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,T2 (TR),,grain_yield,3871,kg/ha,p22 Table 6a,table,c_crops,,rice,grain_yield_rice,"year 2002; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,T2 (TR),,grain_yield,4261,kg/ha,p22 Table 6a,table,c_crops,,rice,grain_yield_rice,"year 2003; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,T2_t0 (wheat after TR),,grain_yield,1353,kg/ha,p23 Table 7,table,c_crops,,wheat,grain_yield_wheat,"year 2001-02; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,T2_t0 (wheat after TR),,grain_yield,1366,kg/ha,p23 Table 7,table,c_crops,,wheat,grain_yield_wheat,"year 2002-03; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,T2_t1 (wheat after TR),,grain_yield,1554,kg/ha,p23 Table 7,table,c_crops,,wheat,grain_yield_wheat,"year 2001-02; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,T2_t1 (wheat after TR),,grain_yield,1543,kg/ha,p23 Table 7,table,c_crops,,wheat,grain_yield_wheat,"year 2002-03; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,T3 (DR),,grain_yield,2022,kg/ha,p22 Table 6b,table,c_crops,,rice,grain_yield_rice,"year 2001; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,T3 (DR),,grain_yield,2128,kg/ha,p22 Table 6b,table,c_crops,,rice,grain_yield_rice,"year 2002; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,T3 (DR),,grain_yield,2273,kg/ha,p22 Table 6b,table,c_crops,,rice,grain_yield_rice,"year 2003; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,T3_t0 (wheat after DR),,grain_yield,1705,kg/ha,p24 Table 8,table,c_crops,,wheat,grain_yield_wheat,"year 2001-02; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,T3_t0 (wheat after DR),,grain_yield,1680,kg/ha,p24 Table 8,table,c_crops,,wheat,grain_yield_wheat,"year 2002-03; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,T3_t1 (wheat after DR),,grain_yield,1885,kg/ha,p24 Table 8,table,c_crops,,wheat,grain_yield_wheat,"year 2001-02; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,T3_t1 (wheat after DR),,grain_yield,1932,kg/ha,p24 Table 8,table,c_crops,,wheat,grain_yield_wheat,"year 2002-03; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,T4 (DR),,grain_yield,1688,kg/ha,p22 Table 6b,table,c_crops,,rice,grain_yield_rice,"year 2001; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,T4 (DR),,grain_yield,1455,kg/ha,p22 Table 6b,table,c_crops,,rice,grain_yield_rice,"year 2002; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,T4 (DR),,grain_yield,1443,kg/ha,p22 Table 6b,table,c_crops,,rice,grain_yield_rice,"year 2003; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,T4_t0 (wheat after DR),,grain_yield,1556,kg/ha,p24 Table 8,table,c_crops,,wheat,grain_yield_wheat,"year 2001-02; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,T4_t0 (wheat after DR),,grain_yield,1589,kg/ha,p24 Table 8,table,c_crops,,wheat,grain_yield_wheat,"year 2002-03; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,T4_t1 (wheat after DR),,grain_yield,1779,kg/ha,p24 Table 8,table,c_crops,,wheat,grain_yield_wheat,"year 2001-02; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,T4_t1 (wheat after DR),,grain_yield,1696,kg/ha,p24 Table 8,table,c_crops,,wheat,grain_yield_wheat,"year 2002-03; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,TR,,seedling_age,21,days,p5,text,c_crops,,,seedling_age,nursery seedlings transplanted in hills
+Sarkar_2011,IIT Kharagpur experimental farm,all,,crop_sequence,TR-W-F and DR-W-F (rice-wheat-fallow),,p5-p6,text,c_crops,,,crop_sequence,
+Sarkar_2011,IIT Kharagpur experimental farm,all,,rice_cultivar,IR36,,p4 Details of Field Experiment,text,c_crops,,,rice_cultivar,
+Sarkar_2011,IIT Kharagpur experimental farm,all,,rice_season,Jun-Oct 2001 (monsoon),,p4 Details of Field Experiment,text,c_crops,,,rice_season,exact sowing/harvest dates not given
+Sarkar_2011,IIT Kharagpur experimental farm,all,,rice_season,Jun-Oct 2002 (monsoon),,p4 Details of Field Experiment,text,c_crops,,,rice_season,exact sowing/harvest dates not given
+Sarkar_2011,IIT Kharagpur experimental farm,all,,rice_season,Jun-Oct 2003 (monsoon),,p4 Details of Field Experiment,text,c_crops,,,rice_season,exact sowing/harvest dates not given
+Sarkar_2011,IIT Kharagpur experimental farm,all,,straw_yield,NA (not reported),-,-,missing,c_crops,,,straw_yield,
+Sarkar_2011,IIT Kharagpur experimental farm,all,,wheat_cultivar,Sonalika,,p4 Details of Field Experiment,text,c_crops,,,wheat_cultivar,
+Sarkar_2011,IIT Kharagpur experimental farm,all,,wheat_season,Nov-Apr 2001-02,,p4 Details of Field Experiment,text,c_crops,,,wheat_season,exact sowing/harvest dates not given
+Sarkar_2011,IIT Kharagpur experimental farm,all,,wheat_season,Nov-Apr 2002-03,,p4 Details of Field Experiment,text,c_crops,,,wheat_season,exact sowing/harvest dates not given
+Sarkar_2011,IIT Kharagpur experimental farm,r0 (wheat after DR),,grain_yield,1670,kg/ha,p24 Table 8,table,c_crops,,wheat,grain_yield_wheat,"year 2001-02; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,r0 (wheat after TR),,grain_yield,1398,kg/ha,p23 Table 7,table,c_crops,,wheat,grain_yield_wheat,"year 2001-02; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,r0w0 (DR),,grain_yield,1496,kg/ha,p22 Table 6b,table,c_crops,,rice,grain_yield_rice,"year 2002; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,r0w0 (DR),,grain_yield,1676,kg/ha,p22 Table 6b,table,c_crops,,rice,grain_yield_rice,"year 2003; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,r0w0 (TR),,grain_yield,3778,kg/ha,p22 Table 6a,table,c_crops,,rice,grain_yield_rice,"year 2002; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,r0w0 (TR),,grain_yield,4162,kg/ha,p22 Table 6a,table,c_crops,,rice,grain_yield_rice,"year 2003; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,r0w0 (wheat after DR),,grain_yield,1679,kg/ha,p24 Table 8,table,c_crops,,wheat,grain_yield_wheat,"year 2002-03; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,r0w0 (wheat after TR),,grain_yield,1419,kg/ha,p23 Table 7,table,c_crops,,wheat,grain_yield_wheat,"year 2002-03; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,r0w1 (DR),,grain_yield,1839,kg/ha,p22 Table 6b,table,c_crops,,rice,grain_yield_rice,"year 2002; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,r0w1 (DR),,grain_yield,1882,kg/ha,p22 Table 6b,table,c_crops,,rice,grain_yield_rice,"year 2003; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,r0w1 (TR),,grain_yield,4038,kg/ha,p22 Table 6a,table,c_crops,,rice,grain_yield_rice,"year 2002; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,r0w1 (TR),,grain_yield,4401,kg/ha,p22 Table 6a,table,c_crops,,rice,grain_yield_rice,"year 2003; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,r0w1 (wheat after DR),,grain_yield,1709,kg/ha,p24 Table 8,table,c_crops,,wheat,grain_yield_wheat,"year 2002-03; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,r0w1 (wheat after TR),,grain_yield,1456,kg/ha,p23 Table 7,table,c_crops,,wheat,grain_yield_wheat,"year 2002-03; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,r1 (wheat after DR),,grain_yield,1793,kg/ha,p24 Table 8,table,c_crops,,wheat,grain_yield_wheat,"year 2001-02; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,r1 (wheat after TR),,grain_yield,1629,kg/ha,p23 Table 7,table,c_crops,,wheat,grain_yield_wheat,"year 2001-02; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,r1w0 (DR),,grain_yield,1770,kg/ha,p22 Table 6b,table,c_crops,,rice,grain_yield_rice,"year 2002; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,r1w0 (DR),,grain_yield,1799,kg/ha,p22 Table 6b,table,c_crops,,rice,grain_yield_rice,"year 2003; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,r1w0 (TR),,grain_yield,3919,kg/ha,p22 Table 6a,table,c_crops,,rice,grain_yield_rice,"year 2002; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,r1w0 (TR),,grain_yield,4253,kg/ha,p22 Table 6a,table,c_crops,,rice,grain_yield_rice,"year 2003; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,r1w0 (wheat after DR),,grain_yield,1721,kg/ha,p24 Table 8,table,c_crops,,wheat,grain_yield_wheat,"year 2002-03; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,r1w0 (wheat after TR),,grain_yield,1481,kg/ha,p23 Table 7,table,c_crops,,wheat,grain_yield_wheat,"year 2002-03; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,r1w1 (DR),,grain_yield,2061,kg/ha,p22 Table 6b,table,c_crops,,rice,grain_yield_rice,"year 2002; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,r1w1 (DR),,grain_yield,2075,kg/ha,p22 Table 6b,table,c_crops,,rice,grain_yield_rice,"year 2003; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,r1w1 (TR),,grain_yield,4146,kg/ha,p22 Table 6a,table,c_crops,,rice,grain_yield_rice,"year 2002; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,r1w1 (TR),,grain_yield,4549,kg/ha,p22 Table 6a,table,c_crops,,rice,grain_yield_rice,"year 2003; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,r1w1 (wheat after DR),,grain_yield,1788,kg/ha,p24 Table 8,table,c_crops,,wheat,grain_yield_wheat,"year 2002-03; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,r1w1 (wheat after TR),,grain_yield,1527,kg/ha,p23 Table 7,table,c_crops,,wheat,grain_yield_wheat,"year 2002-03; marginal mean, not full factorial"
+Sarkar_2011,IIT Kharagpur experimental farm,T1 (TR),,tillage_depth,,cm,p5-p6 Details of Field Experiment,missing,d_tillage,,,tillage_depth,puddling depth not stated
+Sarkar_2011,IIT Kharagpur experimental farm,T1 (TR),,tillage_machine,rotavator puddling (intensive wet),,p5-p6 Details of Field Experiment,text,d_tillage,,,tillage_machine,
+Sarkar_2011,IIT Kharagpur experimental farm,T1 (TR),,tillage_timing,June (onset of monsoon),,p5-p6 Details of Field Experiment,text,d_tillage,,,tillage_timing,
+Sarkar_2011,IIT Kharagpur experimental farm,T2 (TR),,tillage_depth,,cm,p5-p6 Details of Field Experiment,missing,d_tillage,,,tillage_depth,puddling depth not stated
+Sarkar_2011,IIT Kharagpur experimental farm,T2 (TR),,tillage_machine,power tiller puddling (less intensive wet),,p5-p6 Details of Field Experiment,text,d_tillage,,,tillage_machine,
+Sarkar_2011,IIT Kharagpur experimental farm,T2 (TR),,tillage_timing,June (onset of monsoon),,p5-p6 Details of Field Experiment,text,d_tillage,,,tillage_timing,
+Sarkar_2011,IIT Kharagpur experimental farm,T3 (DR),,tillage_depth,15,cm,p5-p6 Details of Field Experiment,text,d_tillage,,,tillage_depth,
+Sarkar_2011,IIT Kharagpur experimental farm,T3 (DR),,tillage_machine,tractor cultivator + disc harrow (intensive dry),,p5-p6 Details of Field Experiment,text,d_tillage,,,tillage_machine,
+Sarkar_2011,IIT Kharagpur experimental farm,T3 (DR),,tillage_timing,June (onset of monsoon),,p5-p6 Details of Field Experiment,text,d_tillage,,,tillage_timing,
+Sarkar_2011,IIT Kharagpur experimental farm,T4 (DR),,tillage_depth,7.5,cm,p5-p6 Details of Field Experiment,text,d_tillage,,,tillage_depth,
+Sarkar_2011,IIT Kharagpur experimental farm,T4 (DR),,tillage_machine,tractor cultivator (less intensive dry),,p5-p6 Details of Field Experiment,text,d_tillage,,,tillage_machine,
+Sarkar_2011,IIT Kharagpur experimental farm,T4 (DR),,tillage_timing,June (onset of monsoon),,p5-p6 Details of Field Experiment,text,d_tillage,,,tillage_timing,
+Sarkar_2011,IIT Kharagpur experimental farm,t0 (wheat),,tillage_depth,7.5,cm,p5-p6 Details of Field Experiment,text,d_tillage,,,tillage_depth,
+Sarkar_2011,IIT Kharagpur experimental farm,t0 (wheat),,tillage_machine,cultivator,,p5-p6 Details of Field Experiment,text,d_tillage,,,tillage_machine,
+Sarkar_2011,IIT Kharagpur experimental farm,t0 (wheat),,tillage_timing,November,,p5-p6 Details of Field Experiment,text,d_tillage,,,tillage_timing,
+Sarkar_2011,IIT Kharagpur experimental farm,t1 (wheat),,tillage_depth,15,cm,p5-p6 Details of Field Experiment,text,d_tillage,,,tillage_depth,
+Sarkar_2011,IIT Kharagpur experimental farm,t1 (wheat),,tillage_machine,cultivator + disc harrow,,p5-p6 Details of Field Experiment,text,d_tillage,,,tillage_machine,
+Sarkar_2011,IIT Kharagpur experimental farm,t1 (wheat),,tillage_timing,November,,p5-p6 Details of Field Experiment,text,d_tillage,,,tillage_timing,
+Sarkar_2011,IIT Kharagpur experimental farm,N0,,N_rate,0,kg/ha,p6,text,e_fertiliser_organic,,,N_rate,"urea, two equal splits; rice: active tillering+booting; wheat: CRI+panicle initiation"
+Sarkar_2011,IIT Kharagpur experimental farm,N100,,N_rate,100,kg/ha,p6,text,e_fertiliser_organic,,,N_rate,"urea, two equal splits; rice: active tillering+booting; wheat: CRI+panicle initiation"
+Sarkar_2011,IIT Kharagpur experimental farm,N120,,N_rate,120,kg/ha,p6,text,e_fertiliser_organic,,,N_rate,"urea, two equal splits; rice: active tillering+booting; wheat: CRI+panicle initiation"
+Sarkar_2011,IIT Kharagpur experimental farm,N40,,N_rate,40,kg/ha,p6,text,e_fertiliser_organic,,,N_rate,"urea, two equal splits; rice: active tillering+booting; wheat: CRI+panicle initiation"
+Sarkar_2011,IIT Kharagpur experimental farm,N60,,N_rate,60,kg/ha,p6,text,e_fertiliser_organic,,,N_rate,"urea, two equal splits; rice: active tillering+booting; wheat: CRI+panicle initiation"
+Sarkar_2011,IIT Kharagpur experimental farm,N80,,N_rate,80,kg/ha,p6,text,e_fertiliser_organic,,,N_rate,"urea, two equal splits; rice: active tillering+booting; wheat: CRI+panicle initiation"
+Sarkar_2011,IIT Kharagpur experimental farm,all,,fertiliser_dates,NA (only stage given),-,-,missing,e_fertiliser_organic,,,fertiliser_dates,month/day not stated
+Sarkar_2011,IIT Kharagpur experimental farm,all,,manure,NA (not reported),-,-,missing,e_fertiliser_organic,,,manure,
+Sarkar_2011,IIT Kharagpur experimental farm,all (rice),,K2O,50,kg/ha,p6,text,e_fertiliser_organic,,,K2O,"muriate of potash, after tillage, each crop"
+Sarkar_2011,IIT Kharagpur experimental farm,all (rice),,P2O5,50,kg/ha,p6,text,e_fertiliser_organic,,,P2O5,"single super phosphate, after tillage, each crop"
+Sarkar_2011,IIT Kharagpur experimental farm,all (wheat),,K2O,50,kg/ha,p6,text,e_fertiliser_organic,,,K2O,"muriate of potash, after tillage, each crop"
+Sarkar_2011,IIT Kharagpur experimental farm,all (wheat),,P2O5,50,kg/ha,p6,text,e_fertiliser_organic,,,P2O5,"single super phosphate, after tillage, each crop"
+Sarkar_2011,IIT Kharagpur experimental farm,r0w0,,rice_straw_to_wheat,0,t/ha,p6,text,e_fertiliser_organic,,,rice_straw_to_wheat,"chopped, incorporated at land prep (from Nov 2002); retained"
+Sarkar_2011,IIT Kharagpur experimental farm,r0w0,,wheat_straw_to_rice,0,t/ha,p6,text,e_fertiliser_organic,,,wheat_straw_to_rice,"chopped, incorporated at land prep (from 2002); retained"
+Sarkar_2011,IIT Kharagpur experimental farm,r0w1,,rice_straw_to_wheat,0,t/ha,p6,text,e_fertiliser_organic,,,rice_straw_to_wheat,"chopped, incorporated at land prep (from Nov 2002); retained"
+Sarkar_2011,IIT Kharagpur experimental farm,r0w1,,wheat_straw_to_rice,4,t/ha,p6,text,e_fertiliser_organic,,,wheat_straw_to_rice,"chopped, incorporated at land prep (from 2002); retained"
+Sarkar_2011,IIT Kharagpur experimental farm,r1w0,,rice_straw_to_wheat,4,t/ha,p6,text,e_fertiliser_organic,,,rice_straw_to_wheat,"chopped, incorporated at land prep (from Nov 2002); retained"
+Sarkar_2011,IIT Kharagpur experimental farm,r1w0,,wheat_straw_to_rice,0,t/ha,p6,text,e_fertiliser_organic,,,wheat_straw_to_rice,"chopped, incorporated at land prep (from 2002); retained"
+Sarkar_2011,IIT Kharagpur experimental farm,r1w1,,rice_straw_to_wheat,4,t/ha,p6,text,e_fertiliser_organic,,,rice_straw_to_wheat,"chopped, incorporated at land prep (from Nov 2002); retained"
+Sarkar_2011,IIT Kharagpur experimental farm,r1w1,,wheat_straw_to_rice,4,t/ha,p6,text,e_fertiliser_organic,,,wheat_straw_to_rice,"chopped, incorporated at land prep (from 2002); retained"
+Sarkar_2011,IIT Kharagpur experimental farm,rice,,irrigation,rainfed / not reported,-,"p5, p23 ('rainfed')",text,f_irrigation,,,irrigation,no irrigation amounts reported
+Sarkar_2011,IIT Kharagpur experimental farm,wheat,,irrigation_amount,6,cm per irrigation,p6,text,f_irrigation,,,irrigation_amount,scheduled at IW/CPE = 1.0
+Sarkar_2011,IIT Kharagpur experimental farm,wheat,,irrigation_dates,NA (not reported),-,-,missing,f_irrigation,,,irrigation_dates,
+Sarkar_2011,IIT Kharagpur experimental farm,wheat,,irrigation_method,NA (not reported),-,-,missing,f_irrigation,,,irrigation_method,
+Sarkar_2011,IIT Kharagpur experimental farm,N0 (DR),depth not stated,SOC,3.7,g/kg,p10 Table 2,table,g_end_soil,end,,SOC_end,"Oct 2003; modified Walkley-Black; marginal mean; depth not stated (methods list 0-15,15-30,30-45)"
+Sarkar_2011,IIT Kharagpur experimental farm,N0 (TR),depth not stated,SOC,3.16,g/kg,p10 Table 2,table,g_end_soil,end,,SOC_end,"Oct 2003; modified Walkley-Black; marginal mean; depth not stated (methods list 0-15,15-30,30-45)"
+Sarkar_2011,IIT Kharagpur experimental farm,N100 (DR),depth not stated,SOC,4.08,g/kg,p10 Table 2,table,g_end_soil,end,,SOC_end,"Oct 2003; modified Walkley-Black; marginal mean; depth not stated (methods list 0-15,15-30,30-45)"
+Sarkar_2011,IIT Kharagpur experimental farm,N100 (TR),depth not stated,SOC,3.78,g/kg,p10 Table 2,table,g_end_soil,end,,SOC_end,"Oct 2003; modified Walkley-Black; marginal mean; depth not stated (methods list 0-15,15-30,30-45)"
+Sarkar_2011,IIT Kharagpur experimental farm,N120 (DR),depth not stated,SOC,4.16,g/kg,p10 Table 2,table,g_end_soil,end,,SOC_end,"Oct 2003; modified Walkley-Black; marginal mean; depth not stated (methods list 0-15,15-30,30-45)"
+Sarkar_2011,IIT Kharagpur experimental farm,N120 (TR),depth not stated,SOC,3.92,g/kg,p10 Table 2,table,g_end_soil,end,,SOC_end,"Oct 2003; modified Walkley-Black; marginal mean; depth not stated (methods list 0-15,15-30,30-45)"
+Sarkar_2011,IIT Kharagpur experimental farm,N40 (DR),depth not stated,SOC,3.79,g/kg,p10 Table 2,table,g_end_soil,end,,SOC_end,"Oct 2003; modified Walkley-Black; marginal mean; depth not stated (methods list 0-15,15-30,30-45)"
+Sarkar_2011,IIT Kharagpur experimental farm,N40 (TR),depth not stated,SOC,3.2,g/kg,p10 Table 2,table,g_end_soil,end,,SOC_end,"Oct 2003; modified Walkley-Black; marginal mean; depth not stated (methods list 0-15,15-30,30-45)"
+Sarkar_2011,IIT Kharagpur experimental farm,N60 (DR),depth not stated,SOC,3.87,g/kg,p10 Table 2,table,g_end_soil,end,,SOC_end,"Oct 2003; modified Walkley-Black; marginal mean; depth not stated (methods list 0-15,15-30,30-45)"
+Sarkar_2011,IIT Kharagpur experimental farm,N60 (TR),depth not stated,SOC,3.4,g/kg,p10 Table 2,table,g_end_soil,end,,SOC_end,"Oct 2003; modified Walkley-Black; marginal mean; depth not stated (methods list 0-15,15-30,30-45)"
+Sarkar_2011,IIT Kharagpur experimental farm,N80 (DR),depth not stated,SOC,3.98,g/kg,p10 Table 2,table,g_end_soil,end,,SOC_end,"Oct 2003; modified Walkley-Black; marginal mean; depth not stated (methods list 0-15,15-30,30-45)"
+Sarkar_2011,IIT Kharagpur experimental farm,N80 (TR),depth not stated,SOC,3.48,g/kg,p10 Table 2,table,g_end_soil,end,,SOC_end,"Oct 2003; modified Walkley-Black; marginal mean; depth not stated (methods list 0-15,15-30,30-45)"
+Sarkar_2011,IIT Kharagpur experimental farm,T1 (TR),depth not stated,SOC,3.41,g/kg,p10 Table 2,table,g_end_soil,end,,SOC_end,"Oct 2003; modified Walkley-Black; marginal mean; depth not stated (methods list 0-15,15-30,30-45)"
+Sarkar_2011,IIT Kharagpur experimental farm,T1 (TR),surface,initial_infiltration_rate,10-16,mm/hr,p18-p19,text,g_end_soil,end,,initial_infiltration_rate,range over residue trts
+Sarkar_2011,IIT Kharagpur experimental farm,T1_r0w0 (TR),0-15,bulk_density,1.69,Mg/m3,p14 Table 3,table,g_end_soil,end,,bulk_density_end,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T1_r0w0 (TR),15-30,bulk_density,1.73,Mg/m3,p14 Table 3,table,g_end_soil,end,,bulk_density_end,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T1_r0w0 (TR),30-45,bulk_density,1.75,Mg/m3,p14 Table 3,table,g_end_soil,end,,bulk_density_end,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T1_r0w0 (TR),0-15,sat_hydraulic_conductivity,7.81,cm/day,p14 Table 3,table,g_end_soil,end,,sat_hydraulic_conductivity_end,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T1_r0w0 (TR),15-30,sat_hydraulic_conductivity,6.68,cm/day,p14 Table 3,table,g_end_soil,end,,sat_hydraulic_conductivity_end,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T1_r0w0 (TR),30-45,sat_hydraulic_conductivity,1.28,cm/day,p14 Table 3,table,g_end_soil,end,,sat_hydraulic_conductivity_end,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T1_r0w1 (TR),0-15,bulk_density,1.66,Mg/m3,p14 Table 3,table,g_end_soil,end,,bulk_density_end,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T1_r0w1 (TR),15-30,bulk_density,1.72,Mg/m3,p14 Table 3,table,g_end_soil,end,,bulk_density_end,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T1_r0w1 (TR),30-45,bulk_density,1.72,Mg/m3,p14 Table 3,table,g_end_soil,end,,bulk_density_end,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T1_r0w1 (TR),0-15,sat_hydraulic_conductivity,7.85,cm/day,p14 Table 3,table,g_end_soil,end,,sat_hydraulic_conductivity_end,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T1_r0w1 (TR),15-30,sat_hydraulic_conductivity,6.7,cm/day,p14 Table 3,table,g_end_soil,end,,sat_hydraulic_conductivity_end,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T1_r0w1 (TR),30-45,sat_hydraulic_conductivity,1.26,cm/day,p14 Table 3,table,g_end_soil,end,,sat_hydraulic_conductivity_end,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T1_r1w0 (TR),0-15,bulk_density,1.65,Mg/m3,p14 Table 3,table,g_end_soil,end,,bulk_density_end,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T1_r1w0 (TR),15-30,bulk_density,1.71,Mg/m3,p14 Table 3,table,g_end_soil,end,,bulk_density_end,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T1_r1w0 (TR),30-45,bulk_density,1.73,Mg/m3,p14 Table 3,table,g_end_soil,end,,bulk_density_end,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T1_r1w0 (TR),0-15,sat_hydraulic_conductivity,7.82,cm/day,p14 Table 3,table,g_end_soil,end,,sat_hydraulic_conductivity_end,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T1_r1w0 (TR),15-30,sat_hydraulic_conductivity,6.72,cm/day,p14 Table 3,table,g_end_soil,end,,sat_hydraulic_conductivity_end,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T1_r1w0 (TR),30-45,sat_hydraulic_conductivity,1.32,cm/day,p14 Table 3,table,g_end_soil,end,,sat_hydraulic_conductivity_end,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T1_r1w1 (TR),0-15,bulk_density,1.63,Mg/m3,p14 Table 3,table,g_end_soil,end,,bulk_density_end,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T1_r1w1 (TR),15-30,bulk_density,1.72,Mg/m3,p14 Table 3,table,g_end_soil,end,,bulk_density_end,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T1_r1w1 (TR),30-45,bulk_density,1.73,Mg/m3,p14 Table 3,table,g_end_soil,end,,bulk_density_end,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T1_r1w1 (TR),0-15,sat_hydraulic_conductivity,6.48,cm/day,p14 Table 3,table,g_end_soil,end,,sat_hydraulic_conductivity_end,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T1_r1w1 (TR),15-30,sat_hydraulic_conductivity,6.65,cm/day,p14 Table 3,table,g_end_soil,end,,sat_hydraulic_conductivity_end,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T1_r1w1 (TR),30-45,sat_hydraulic_conductivity,1.12,cm/day,p14 Table 3,table,g_end_soil,end,,sat_hydraulic_conductivity_end,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T1r0w0 (TR),surface,final_infiltration_rate_300min,2.0,mm/hr,p19,text,g_end_soil,end,,final_infiltration_rate_300min,
+Sarkar_2011,IIT Kharagpur experimental farm,T2 (TR),depth not stated,SOC,3.57,g/kg,p10 Table 2,table,g_end_soil,end,,SOC_end,"Oct 2003; modified Walkley-Black; marginal mean; depth not stated (methods list 0-15,15-30,30-45)"
+Sarkar_2011,IIT Kharagpur experimental farm,T2 (TR),surface,initial_infiltration_rate,18-22,mm/hr,p18-p19,text,g_end_soil,end,,initial_infiltration_rate,range over residue trts
+Sarkar_2011,IIT Kharagpur experimental farm,T2_r0w0 (TR),0-15,bulk_density,1.68,Mg/m3,p14 Table 3,table,g_end_soil,end,,bulk_density_end,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T2_r0w0 (TR),15-30,bulk_density,1.7,Mg/m3,p14 Table 3,table,g_end_soil,end,,bulk_density_end,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T2_r0w0 (TR),30-45,bulk_density,1.71,Mg/m3,p14 Table 3,table,g_end_soil,end,,bulk_density_end,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T2_r0w0 (TR),0-15,sat_hydraulic_conductivity,8.24,cm/day,p14 Table 3,table,g_end_soil,end,,sat_hydraulic_conductivity_end,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T2_r0w0 (TR),15-30,sat_hydraulic_conductivity,6.89,cm/day,p14 Table 3,table,g_end_soil,end,,sat_hydraulic_conductivity_end,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T2_r0w0 (TR),30-45,sat_hydraulic_conductivity,1.4,cm/day,p14 Table 3,table,g_end_soil,end,,sat_hydraulic_conductivity_end,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T2_r0w1 (TR),0-15,bulk_density,1.66,Mg/m3,p14 Table 3,table,g_end_soil,end,,bulk_density_end,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T2_r0w1 (TR),15-30,bulk_density,1.7,Mg/m3,p14 Table 3,table,g_end_soil,end,,bulk_density_end,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T2_r0w1 (TR),30-45,bulk_density,1.69,Mg/m3,p14 Table 3,table,g_end_soil,end,,bulk_density_end,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T2_r0w1 (TR),0-15,sat_hydraulic_conductivity,8.02,cm/day,p14 Table 3,table,g_end_soil,end,,sat_hydraulic_conductivity_end,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T2_r0w1 (TR),15-30,sat_hydraulic_conductivity,6.94,cm/day,p14 Table 3,table,g_end_soil,end,,sat_hydraulic_conductivity_end,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T2_r0w1 (TR),30-45,sat_hydraulic_conductivity,1.3,cm/day,p14 Table 3,table,g_end_soil,end,,sat_hydraulic_conductivity_end,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T2_r1w0 (TR),0-15,bulk_density,1.67,Mg/m3,p14 Table 3,table,g_end_soil,end,,bulk_density_end,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T2_r1w0 (TR),15-30,bulk_density,1.71,Mg/m3,p14 Table 3,table,g_end_soil,end,,bulk_density_end,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T2_r1w0 (TR),30-45,bulk_density,1.72,Mg/m3,p14 Table 3,table,g_end_soil,end,,bulk_density_end,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T2_r1w0 (TR),0-15,sat_hydraulic_conductivity,8.15,cm/day,p14 Table 3,table,g_end_soil,end,,sat_hydraulic_conductivity_end,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T2_r1w0 (TR),15-30,sat_hydraulic_conductivity,6.9,cm/day,p14 Table 3,table,g_end_soil,end,,sat_hydraulic_conductivity_end,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T2_r1w0 (TR),30-45,sat_hydraulic_conductivity,1.42,cm/day,p14 Table 3,table,g_end_soil,end,,sat_hydraulic_conductivity_end,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T2_r1w1 (TR),0-15,bulk_density,1.66,Mg/m3,p14 Table 3,table,g_end_soil,end,,bulk_density_end,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T2_r1w1 (TR),15-30,bulk_density,1.72,Mg/m3,p14 Table 3,table,g_end_soil,end,,bulk_density_end,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T2_r1w1 (TR),30-45,bulk_density,1.69,Mg/m3,p14 Table 3,table,g_end_soil,end,,bulk_density_end,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T2_r1w1 (TR),0-15,sat_hydraulic_conductivity,7.96,cm/day,p14 Table 3,table,g_end_soil,end,,sat_hydraulic_conductivity_end,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T2_r1w1 (TR),15-30,sat_hydraulic_conductivity,6.82,cm/day,p14 Table 3,table,g_end_soil,end,,sat_hydraulic_conductivity_end,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T2_r1w1 (TR),30-45,sat_hydraulic_conductivity,1.25,cm/day,p14 Table 3,table,g_end_soil,end,,sat_hydraulic_conductivity_end,after TR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T2r1w1 (TR),surface,final_infiltration_rate_300min,4.0,mm/hr,p19,text,g_end_soil,end,,final_infiltration_rate_300min,
+Sarkar_2011,IIT Kharagpur experimental farm,T3 (DR),depth not stated,SOC,3.9,g/kg,p10 Table 2,table,g_end_soil,end,,SOC_end,"Oct 2003; modified Walkley-Black; marginal mean; depth not stated (methods list 0-15,15-30,30-45)"
+Sarkar_2011,IIT Kharagpur experimental farm,T3 (DR),surface,final_infiltration_rate_300min,5.0,mm/hr,p20,text,g_end_soil,end,,final_infiltration_rate_300min,
+Sarkar_2011,IIT Kharagpur experimental farm,T3_r0w0 (DR),0-15,bulk_density,1.79,Mg/m3,p15 Table 4,table,g_end_soil,end,,bulk_density_end,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T3_r0w0 (DR),15-30,bulk_density,1.78,Mg/m3,p15 Table 4,table,g_end_soil,end,,bulk_density_end,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T3_r0w0 (DR),30-45,bulk_density,1.62,Mg/m3,p15 Table 4,table,g_end_soil,end,,bulk_density_end,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T3_r0w0 (DR),0-15,sat_hydraulic_conductivity,10.35,cm/day,p15 Table 4,table,g_end_soil,end,,sat_hydraulic_conductivity_end,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T3_r0w0 (DR),15-30,sat_hydraulic_conductivity,6.72,cm/day,p15 Table 4,table,g_end_soil,end,,sat_hydraulic_conductivity_end,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T3_r0w0 (DR),30-45,sat_hydraulic_conductivity,2.85,cm/day,p15 Table 4,table,g_end_soil,end,,sat_hydraulic_conductivity_end,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T3_r0w1 (DR),0-15,bulk_density,1.75,Mg/m3,p15 Table 4,table,g_end_soil,end,,bulk_density_end,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T3_r0w1 (DR),15-30,bulk_density,1.72,Mg/m3,p15 Table 4,table,g_end_soil,end,,bulk_density_end,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T3_r0w1 (DR),30-45,bulk_density,1.63,Mg/m3,p15 Table 4,table,g_end_soil,end,,bulk_density_end,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T3_r0w1 (DR),0-15,sat_hydraulic_conductivity,9.64,cm/day,p15 Table 4,table,g_end_soil,end,,sat_hydraulic_conductivity_end,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T3_r0w1 (DR),15-30,sat_hydraulic_conductivity,6.72,cm/day,p15 Table 4,table,g_end_soil,end,,sat_hydraulic_conductivity_end,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T3_r0w1 (DR),30-45,sat_hydraulic_conductivity,2.26,cm/day,p15 Table 4,table,g_end_soil,end,,sat_hydraulic_conductivity_end,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T3_r1w0 (DR),0-15,bulk_density,1.79,Mg/m3,p15 Table 4,table,g_end_soil,end,,bulk_density_end,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T3_r1w0 (DR),15-30,bulk_density,1.78,Mg/m3,p15 Table 4,table,g_end_soil,end,,bulk_density_end,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T3_r1w0 (DR),30-45,bulk_density,1.62,Mg/m3,p15 Table 4,table,g_end_soil,end,,bulk_density_end,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T3_r1w0 (DR),0-15,sat_hydraulic_conductivity,9.85,cm/day,p15 Table 4,table,g_end_soil,end,,sat_hydraulic_conductivity_end,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T3_r1w0 (DR),15-30,sat_hydraulic_conductivity,6.85,cm/day,p15 Table 4,table,g_end_soil,end,,sat_hydraulic_conductivity_end,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T3_r1w0 (DR),30-45,sat_hydraulic_conductivity,2.3,cm/day,p15 Table 4,table,g_end_soil,end,,sat_hydraulic_conductivity_end,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T3_r1w1 (DR),0-15,bulk_density,1.75,Mg/m3,p15 Table 4,table,g_end_soil,end,,bulk_density_end,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T3_r1w1 (DR),15-30,bulk_density,1.72,Mg/m3,p15 Table 4,table,g_end_soil,end,,bulk_density_end,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T3_r1w1 (DR),30-45,bulk_density,1.63,Mg/m3,p15 Table 4,table,g_end_soil,end,,bulk_density_end,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T3_r1w1 (DR),0-15,sat_hydraulic_conductivity,8.92,cm/day,p15 Table 4,table,g_end_soil,end,,sat_hydraulic_conductivity_end,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T3_r1w1 (DR),15-30,sat_hydraulic_conductivity,6.71,cm/day,p15 Table 4,table,g_end_soil,end,,sat_hydraulic_conductivity_end,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T3_r1w1 (DR),30-45,sat_hydraulic_conductivity,2.36,cm/day,p15 Table 4,table,g_end_soil,end,,sat_hydraulic_conductivity_end,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T3r0w0 (DR),surface,initial_infiltration_rate,42,mm/hr,p19,text,g_end_soil,end,,initial_infiltration_rate,
+Sarkar_2011,IIT Kharagpur experimental farm,T4 (DR),depth not stated,SOC,3.96,g/kg,p10 Table 2,table,g_end_soil,end,,SOC_end,"Oct 2003; modified Walkley-Black; marginal mean; depth not stated (methods list 0-15,15-30,30-45)"
+Sarkar_2011,IIT Kharagpur experimental farm,T4 (DR),surface,final_infiltration_rate_300min,6.0,mm/hr,p20,text,g_end_soil,end,,final_infiltration_rate_300min,
+Sarkar_2011,IIT Kharagpur experimental farm,T4_r0w0 (DR),0-15,bulk_density,1.79,Mg/m3,p15 Table 4,table,g_end_soil,end,,bulk_density_end,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T4_r0w0 (DR),15-30,bulk_density,1.78,Mg/m3,p15 Table 4,table,g_end_soil,end,,bulk_density_end,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T4_r0w0 (DR),30-45,bulk_density,1.62,Mg/m3,p15 Table 4,table,g_end_soil,end,,bulk_density_end,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T4_r0w0 (DR),0-15,sat_hydraulic_conductivity,13.44,cm/day,p15 Table 4,table,g_end_soil,end,,sat_hydraulic_conductivity_end,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T4_r0w0 (DR),15-30,sat_hydraulic_conductivity,7.95,cm/day,p15 Table 4,table,g_end_soil,end,,sat_hydraulic_conductivity_end,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T4_r0w0 (DR),30-45,sat_hydraulic_conductivity,3.42,cm/day,p15 Table 4,table,g_end_soil,end,,sat_hydraulic_conductivity_end,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T4_r0w1 (DR),0-15,bulk_density,1.75,Mg/m3,p15 Table 4,table,g_end_soil,end,,bulk_density_end,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T4_r0w1 (DR),15-30,bulk_density,1.72,Mg/m3,p15 Table 4,table,g_end_soil,end,,bulk_density_end,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T4_r0w1 (DR),30-45,bulk_density,1.63,Mg/m3,p15 Table 4,table,g_end_soil,end,,bulk_density_end,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T4_r0w1 (DR),0-15,sat_hydraulic_conductivity,12.89,cm/day,p15 Table 4,table,g_end_soil,end,,sat_hydraulic_conductivity_end,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T4_r0w1 (DR),15-30,sat_hydraulic_conductivity,8.24,cm/day,p15 Table 4,table,g_end_soil,end,,sat_hydraulic_conductivity_end,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T4_r0w1 (DR),30-45,sat_hydraulic_conductivity,3.55,cm/day,p15 Table 4,table,g_end_soil,end,,sat_hydraulic_conductivity_end,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T4_r1w0 (DR),0-15,bulk_density,1.79,Mg/m3,p15 Table 4,table,g_end_soil,end,,bulk_density_end,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T4_r1w0 (DR),15-30,bulk_density,1.78,Mg/m3,p15 Table 4,table,g_end_soil,end,,bulk_density_end,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T4_r1w0 (DR),30-45,bulk_density,1.62,Mg/m3,p15 Table 4,table,g_end_soil,end,,bulk_density_end,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T4_r1w0 (DR),0-15,sat_hydraulic_conductivity,12.76,cm/day,p15 Table 4,table,g_end_soil,end,,sat_hydraulic_conductivity_end,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T4_r1w0 (DR),15-30,sat_hydraulic_conductivity,8.36,cm/day,p15 Table 4,table,g_end_soil,end,,sat_hydraulic_conductivity_end,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T4_r1w0 (DR),30-45,sat_hydraulic_conductivity,3.21,cm/day,p15 Table 4,table,g_end_soil,end,,sat_hydraulic_conductivity_end,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T4_r1w1 (DR),0-15,bulk_density,1.75,Mg/m3,p15 Table 4,table,g_end_soil,end,,bulk_density_end,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T4_r1w1 (DR),15-30,bulk_density,1.72,Mg/m3,p15 Table 4,table,g_end_soil,end,,bulk_density_end,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T4_r1w1 (DR),30-45,bulk_density,1.63,Mg/m3,p15 Table 4,table,g_end_soil,end,,bulk_density_end,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T4_r1w1 (DR),0-15,sat_hydraulic_conductivity,10.68,cm/day,p15 Table 4,table,g_end_soil,end,,sat_hydraulic_conductivity_end,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T4_r1w1 (DR),15-30,sat_hydraulic_conductivity,6.62,cm/day,p15 Table 4,table,g_end_soil,end,,sat_hydraulic_conductivity_end,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T4_r1w1 (DR),30-45,sat_hydraulic_conductivity,1.57,cm/day,p15 Table 4,table,g_end_soil,end,,sat_hydraulic_conductivity_end,after DR harvest 2003
+Sarkar_2011,IIT Kharagpur experimental farm,T4r1w1 (DR),surface,initial_infiltration_rate,58,mm/hr,p19,text,g_end_soil,end,,initial_infiltration_rate,
+Sarkar_2011,IIT Kharagpur experimental farm,r0w0 (DR),depth not stated,SOC,3.28,g/kg,p10 Table 2,table,g_end_soil,end,,SOC_end,"Oct 2003; modified Walkley-Black; marginal mean; depth not stated (methods list 0-15,15-30,30-45)"
+Sarkar_2011,IIT Kharagpur experimental farm,r0w0 (TR),depth not stated,SOC,3.14,g/kg,p10 Table 2,table,g_end_soil,end,,SOC_end,"Oct 2003; modified Walkley-Black; marginal mean; depth not stated (methods list 0-15,15-30,30-45)"
+Sarkar_2011,IIT Kharagpur experimental farm,r0w1 (DR),depth not stated,SOC,4.17,g/kg,p10 Table 2,table,g_end_soil,end,,SOC_end,"Oct 2003; modified Walkley-Black; marginal mean; depth not stated (methods list 0-15,15-30,30-45)"
+Sarkar_2011,IIT Kharagpur experimental farm,r0w1 (TR),depth not stated,SOC,3.63,g/kg,p10 Table 2,table,g_end_soil,end,,SOC_end,"Oct 2003; modified Walkley-Black; marginal mean; depth not stated (methods list 0-15,15-30,30-45)"
+Sarkar_2011,IIT Kharagpur experimental farm,r1w0 (DR),depth not stated,SOC,4.0,g/kg,p10 Table 2,table,g_end_soil,end,,SOC_end,"Oct 2003; modified Walkley-Black; marginal mean; depth not stated (methods list 0-15,15-30,30-45)"
+Sarkar_2011,IIT Kharagpur experimental farm,r1w0 (TR),depth not stated,SOC,3.51,g/kg,p10 Table 2,table,g_end_soil,end,,SOC_end,"Oct 2003; modified Walkley-Black; marginal mean; depth not stated (methods list 0-15,15-30,30-45)"
+Sarkar_2011,IIT Kharagpur experimental farm,r1w1 (DR),depth not stated,SOC,4.27,g/kg,p10 Table 2,table,g_end_soil,end,,SOC_end,"Oct 2003; modified Walkley-Black; marginal mean; depth not stated (methods list 0-15,15-30,30-45)"
+Sarkar_2011,IIT Kharagpur experimental farm,r1w1 (TR),depth not stated,SOC,3.67,g/kg,p10 Table 2,table,g_end_soil,end,,SOC_end,"Oct 2003; modified Walkley-Black; marginal mean; depth not stated (methods list 0-15,15-30,30-45)"
+Sarkar_2011,IIT Kharagpur experimental farm,t0 (wheat),surface,final_infiltration_rate_300min,4.0,mm/hr,p20,text,g_end_soil,end,,final_infiltration_rate_300min,same unit inconsistency
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r0w0 (wheat after DR),0-15,bulk_density,1.66,Mg/m3,p16 Table 5,table,g_end_soil,end,,bulk_density_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r0w0 (wheat after DR),15-30,bulk_density,1.69,Mg/m3,p16 Table 5,table,g_end_soil,end,,bulk_density_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r0w0 (wheat after DR),30-45,bulk_density,1.6,Mg/m3,p16 Table 5,table,g_end_soil,end,,bulk_density_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r0w0 (wheat after DR),0-15,sat_hydraulic_conductivity,13.52,cm/day,p16 Table 5,table,g_end_soil,end,,sat_hydraulic_conductivity_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r0w0 (wheat after DR),15-30,sat_hydraulic_conductivity,7.64,cm/day,p16 Table 5,table,g_end_soil,end,,sat_hydraulic_conductivity_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r0w0 (wheat after DR),30-45,sat_hydraulic_conductivity,2.98,cm/day,p16 Table 5,table,g_end_soil,end,,sat_hydraulic_conductivity_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r0w0 (wheat after TR),0-15,bulk_density,1.68,Mg/m3,p16 Table 5,table,g_end_soil,end,,bulk_density_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r0w0 (wheat after TR),15-30,bulk_density,1.69,Mg/m3,p16 Table 5,table,g_end_soil,end,,bulk_density_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r0w0 (wheat after TR),30-45,bulk_density,1.61,Mg/m3,p16 Table 5,table,g_end_soil,end,,bulk_density_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r0w0 (wheat after TR),0-15,sat_hydraulic_conductivity,12.82,cm/day,p16 Table 5,table,g_end_soil,end,,sat_hydraulic_conductivity_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r0w0 (wheat after TR),15-30,sat_hydraulic_conductivity,7.52,cm/day,p16 Table 5,table,g_end_soil,end,,sat_hydraulic_conductivity_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r0w0 (wheat after TR),30-45,sat_hydraulic_conductivity,2.85,cm/day,p16 Table 5,table,g_end_soil,end,,sat_hydraulic_conductivity_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r0w1 (wheat after DR),0-15,bulk_density,1.64,Mg/m3,p16 Table 5,table,g_end_soil,end,,bulk_density_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r0w1 (wheat after DR),15-30,bulk_density,1.69,Mg/m3,p16 Table 5,table,g_end_soil,end,,bulk_density_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r0w1 (wheat after DR),30-45,bulk_density,1.61,Mg/m3,p16 Table 5,table,g_end_soil,end,,bulk_density_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r0w1 (wheat after DR),0-15,sat_hydraulic_conductivity,13.82,cm/day,p16 Table 5,table,g_end_soil,end,,sat_hydraulic_conductivity_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r0w1 (wheat after DR),15-30,sat_hydraulic_conductivity,7.84,cm/day,p16 Table 5,table,g_end_soil,end,,sat_hydraulic_conductivity_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r0w1 (wheat after DR),30-45,sat_hydraulic_conductivity,3.27,cm/day,p16 Table 5,table,g_end_soil,end,,sat_hydraulic_conductivity_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r0w1 (wheat after TR),0-15,bulk_density,1.66,Mg/m3,p16 Table 5,table,g_end_soil,end,,bulk_density_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r0w1 (wheat after TR),15-30,bulk_density,1.7,Mg/m3,p16 Table 5,table,g_end_soil,end,,bulk_density_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r0w1 (wheat after TR),30-45,bulk_density,1.59,Mg/m3,p16 Table 5,table,g_end_soil,end,,bulk_density_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r0w1 (wheat after TR),0-15,sat_hydraulic_conductivity,12.9,cm/day,p16 Table 5,table,g_end_soil,end,,sat_hydraulic_conductivity_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r0w1 (wheat after TR),15-30,sat_hydraulic_conductivity,7.57,cm/day,p16 Table 5,table,g_end_soil,end,,sat_hydraulic_conductivity_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r0w1 (wheat after TR),30-45,sat_hydraulic_conductivity,3.2,cm/day,p16 Table 5,table,g_end_soil,end,,sat_hydraulic_conductivity_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r1w0 (wheat after DR),0-15,bulk_density,1.63,Mg/m3,p16 Table 5,table,g_end_soil,end,,bulk_density_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r1w0 (wheat after DR),15-30,bulk_density,1.69,Mg/m3,p16 Table 5,table,g_end_soil,end,,bulk_density_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r1w0 (wheat after DR),30-45,bulk_density,1.59,Mg/m3,p16 Table 5,table,g_end_soil,end,,bulk_density_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r1w0 (wheat after DR),0-15,sat_hydraulic_conductivity,13.89,cm/day,p16 Table 5,table,g_end_soil,end,,sat_hydraulic_conductivity_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r1w0 (wheat after DR),15-30,sat_hydraulic_conductivity,8.12,cm/day,p16 Table 5,table,g_end_soil,end,,sat_hydraulic_conductivity_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r1w0 (wheat after DR),30-45,sat_hydraulic_conductivity,3.18,cm/day,p16 Table 5,table,g_end_soil,end,,sat_hydraulic_conductivity_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r1w0 (wheat after TR),0-15,bulk_density,1.66,Mg/m3,p16 Table 5,table,g_end_soil,end,,bulk_density_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r1w0 (wheat after TR),15-30,bulk_density,1.7,Mg/m3,p16 Table 5,table,g_end_soil,end,,bulk_density_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r1w0 (wheat after TR),30-45,bulk_density,1.6,Mg/m3,p16 Table 5,table,g_end_soil,end,,bulk_density_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r1w0 (wheat after TR),0-15,sat_hydraulic_conductivity,12.95,cm/day,p16 Table 5,table,g_end_soil,end,,sat_hydraulic_conductivity_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r1w0 (wheat after TR),15-30,sat_hydraulic_conductivity,7.96,cm/day,p16 Table 5,table,g_end_soil,end,,sat_hydraulic_conductivity_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r1w0 (wheat after TR),30-45,sat_hydraulic_conductivity,3.2,cm/day,p16 Table 5,table,g_end_soil,end,,sat_hydraulic_conductivity_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r1w1 (wheat after DR),0-15,bulk_density,1.62,Mg/m3,p16 Table 5,table,g_end_soil,end,,bulk_density_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r1w1 (wheat after DR),15-30,bulk_density,1.67,Mg/m3,p16 Table 5,table,g_end_soil,end,,bulk_density_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r1w1 (wheat after DR),30-45,bulk_density,1.6,Mg/m3,p16 Table 5,table,g_end_soil,end,,bulk_density_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r1w1 (wheat after DR),0-15,sat_hydraulic_conductivity,14.1,cm/day,p16 Table 5,table,g_end_soil,end,,sat_hydraulic_conductivity_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r1w1 (wheat after DR),15-30,sat_hydraulic_conductivity,6.32,cm/day,p16 Table 5,table,g_end_soil,end,,sat_hydraulic_conductivity_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r1w1 (wheat after DR),30-45,sat_hydraulic_conductivity,1.24,cm/day,p16 Table 5,table,g_end_soil,end,,sat_hydraulic_conductivity_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r1w1 (wheat after TR),0-15,bulk_density,1.65,Mg/m3,p16 Table 5,table,g_end_soil,end,,bulk_density_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r1w1 (wheat after TR),15-30,bulk_density,1.69,Mg/m3,p16 Table 5,table,g_end_soil,end,,bulk_density_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r1w1 (wheat after TR),30-45,bulk_density,1.59,Mg/m3,p16 Table 5,table,g_end_soil,end,,bulk_density_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r1w1 (wheat after TR),0-15,sat_hydraulic_conductivity,13.18,cm/day,p16 Table 5,table,g_end_soil,end,,sat_hydraulic_conductivity_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r1w1 (wheat after TR),15-30,sat_hydraulic_conductivity,6.44,cm/day,p16 Table 5,table,g_end_soil,end,,sat_hydraulic_conductivity_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t0_r1w1 (wheat after TR),30-45,sat_hydraulic_conductivity,1.85,cm/day,p16 Table 5,table,g_end_soil,end,,sat_hydraulic_conductivity_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1 (wheat),surface,final_infiltration_rate_300min,5.0,mm/hr,p20,text,g_end_soil,end,,final_infiltration_rate_300min,text mm/hr but Fig 10/11 axes cm/hr (~0.5 cm/hr) - unit inconsistency
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r0w0 (wheat after DR),0-15,bulk_density,1.65,Mg/m3,p16 Table 5,table,g_end_soil,end,,bulk_density_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r0w0 (wheat after DR),15-30,bulk_density,1.61,Mg/m3,p16 Table 5,table,g_end_soil,end,,bulk_density_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r0w0 (wheat after DR),30-45,bulk_density,1.59,Mg/m3,p16 Table 5,table,g_end_soil,end,,bulk_density_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r0w0 (wheat after DR),0-15,sat_hydraulic_conductivity,12.4,cm/day,p16 Table 5,table,g_end_soil,end,,sat_hydraulic_conductivity_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r0w0 (wheat after DR),15-30,sat_hydraulic_conductivity,7.31,cm/day,p16 Table 5,table,g_end_soil,end,,sat_hydraulic_conductivity_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r0w0 (wheat after DR),30-45,sat_hydraulic_conductivity,1.26,cm/day,p16 Table 5,table,g_end_soil,end,,sat_hydraulic_conductivity_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r0w0 (wheat after TR),0-15,bulk_density,1.67,Mg/m3,p16 Table 5,table,g_end_soil,end,,bulk_density_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r0w0 (wheat after TR),15-30,bulk_density,1.69,Mg/m3,p16 Table 5,table,g_end_soil,end,,bulk_density_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r0w0 (wheat after TR),30-45,bulk_density,1.6,Mg/m3,p16 Table 5,table,g_end_soil,end,,bulk_density_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r0w0 (wheat after TR),0-15,sat_hydraulic_conductivity,12.51,cm/day,p16 Table 5,table,g_end_soil,end,,sat_hydraulic_conductivity_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r0w0 (wheat after TR),15-30,sat_hydraulic_conductivity,7.44,cm/day,p16 Table 5,table,g_end_soil,end,,sat_hydraulic_conductivity_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r0w0 (wheat after TR),30-45,sat_hydraulic_conductivity,1.26,cm/day,p16 Table 5,table,g_end_soil,end,,sat_hydraulic_conductivity_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r0w1 (wheat after DR),0-15,bulk_density,1.64,Mg/m3,p16 Table 5,table,g_end_soil,end,,bulk_density_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r0w1 (wheat after DR),15-30,bulk_density,1.68,Mg/m3,p16 Table 5,table,g_end_soil,end,,bulk_density_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r0w1 (wheat after DR),30-45,bulk_density,1.6,Mg/m3,p16 Table 5,table,g_end_soil,end,,bulk_density_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r0w1 (wheat after DR),0-15,sat_hydraulic_conductivity,12.5,cm/day,p16 Table 5,table,g_end_soil,end,,sat_hydraulic_conductivity_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r0w1 (wheat after DR),15-30,sat_hydraulic_conductivity,6.85,cm/day,p16 Table 5,table,g_end_soil,end,,sat_hydraulic_conductivity_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r0w1 (wheat after DR),30-45,sat_hydraulic_conductivity,1.95,cm/day,p16 Table 5,table,g_end_soil,end,,sat_hydraulic_conductivity_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r0w1 (wheat after TR),0-15,bulk_density,1.66,Mg/m3,p16 Table 5,table,g_end_soil,end,,bulk_density_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r0w1 (wheat after TR),15-30,bulk_density,1.69,Mg/m3,p16 Table 5,table,g_end_soil,end,,bulk_density_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r0w1 (wheat after TR),30-45,bulk_density,1.6,Mg/m3,p16 Table 5,table,g_end_soil,end,,bulk_density_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r0w1 (wheat after TR),0-15,sat_hydraulic_conductivity,12.7,cm/day,p16 Table 5,table,g_end_soil,end,,sat_hydraulic_conductivity_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r0w1 (wheat after TR),15-30,sat_hydraulic_conductivity,6.62,cm/day,p16 Table 5,table,g_end_soil,end,,sat_hydraulic_conductivity_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r0w1 (wheat after TR),30-45,sat_hydraulic_conductivity,2.15,cm/day,p16 Table 5,table,g_end_soil,end,,sat_hydraulic_conductivity_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r1w0 (wheat after DR),0-15,bulk_density,1.64,Mg/m3,p16 Table 5,table,g_end_soil,end,,bulk_density_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r1w0 (wheat after DR),15-30,bulk_density,1.69,Mg/m3,p16 Table 5,table,g_end_soil,end,,bulk_density_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r1w0 (wheat after DR),30-45,bulk_density,1.59,Mg/m3,p16 Table 5,table,g_end_soil,end,,bulk_density_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r1w0 (wheat after DR),0-15,sat_hydraulic_conductivity,12.62,cm/day,p16 Table 5,table,g_end_soil,end,,sat_hydraulic_conductivity_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r1w0 (wheat after DR),15-30,sat_hydraulic_conductivity,6.92,cm/day,p16 Table 5,table,g_end_soil,end,,sat_hydraulic_conductivity_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r1w0 (wheat after DR),30-45,sat_hydraulic_conductivity,2.58,cm/day,p16 Table 5,table,g_end_soil,end,,sat_hydraulic_conductivity_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r1w0 (wheat after TR),0-15,bulk_density,1.65,Mg/m3,p16 Table 5,table,g_end_soil,end,,bulk_density_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r1w0 (wheat after TR),15-30,bulk_density,1.7,Mg/m3,p16 Table 5,table,g_end_soil,end,,bulk_density_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r1w0 (wheat after TR),30-45,bulk_density,1.61,Mg/m3,p16 Table 5,table,g_end_soil,end,,bulk_density_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r1w0 (wheat after TR),0-15,sat_hydraulic_conductivity,12.82,cm/day,p16 Table 5,table,g_end_soil,end,,sat_hydraulic_conductivity_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r1w0 (wheat after TR),15-30,sat_hydraulic_conductivity,6.65,cm/day,p16 Table 5,table,g_end_soil,end,,sat_hydraulic_conductivity_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r1w0 (wheat after TR),30-45,sat_hydraulic_conductivity,2.6,cm/day,p16 Table 5,table,g_end_soil,end,,sat_hydraulic_conductivity_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r1w1 (wheat after DR),0-15,bulk_density,1.63,Mg/m3,p16 Table 5,table,g_end_soil,end,,bulk_density_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r1w1 (wheat after DR),15-30,bulk_density,1.68,Mg/m3,p16 Table 5,table,g_end_soil,end,,bulk_density_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r1w1 (wheat after DR),30-45,bulk_density,1.61,Mg/m3,p16 Table 5,table,g_end_soil,end,,bulk_density_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r1w1 (wheat after DR),0-15,sat_hydraulic_conductivity,12.8,cm/day,p16 Table 5,table,g_end_soil,end,,sat_hydraulic_conductivity_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r1w1 (wheat after DR),15-30,sat_hydraulic_conductivity,7.24,cm/day,p16 Table 5,table,g_end_soil,end,,sat_hydraulic_conductivity_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r1w1 (wheat after DR),30-45,sat_hydraulic_conductivity,2.54,cm/day,p16 Table 5,table,g_end_soil,end,,sat_hydraulic_conductivity_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r1w1 (wheat after TR),0-15,bulk_density,1.65,Mg/m3,p16 Table 5,table,g_end_soil,end,,bulk_density_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r1w1 (wheat after TR),15-30,bulk_density,1.7,Mg/m3,p16 Table 5,table,g_end_soil,end,,bulk_density_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r1w1 (wheat after TR),30-45,bulk_density,1.6,Mg/m3,p16 Table 5,table,g_end_soil,end,,bulk_density_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r1w1 (wheat after TR),0-15,sat_hydraulic_conductivity,12.96,cm/day,p16 Table 5,table,g_end_soil,end,,sat_hydraulic_conductivity_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r1w1 (wheat after TR),15-30,sat_hydraulic_conductivity,7.14,cm/day,p16 Table 5,table,g_end_soil,end,,sat_hydraulic_conductivity_end,wheat harvest 2002-03
+Sarkar_2011,IIT Kharagpur experimental farm,t1_r1w1 (wheat after TR),30-45,sat_hydraulic_conductivity,2.5,cm/day,p16 Table 5,table,g_end_soil,end,,sat_hydraulic_conductivity_end,wheat harvest 2002-03
