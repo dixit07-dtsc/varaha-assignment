@@ -1,0 +1,361 @@
+﻿paper_name,site,treatment,depth_cm,variable,value,unit,source,confidence,category,note
+Ghosh_2017,ICAR-IIPR Kanpur,all,,site_name,"ICAR-Indian Institute of Pulses Research (IIPR) main research farm, Kalyanpur, Kanpur",,p2 s2.1,text,a_site,
+Ghosh_2017,ICAR-IIPR Kanpur,all,,latitude,26.45,deg N,p2 s2.1,text,a_site,printed 26deg27'N; converted from deg-min
+Ghosh_2017,ICAR-IIPR Kanpur,all,,longitude,80.2333,deg E,p2 s2.1,text,a_site,printed 80deg14'E; converted from deg-min
+Ghosh_2017,ICAR-IIPR Kanpur,all,,elevation,152.4,m asl,p2 s2.1,text,a_site,
+Ghosh_2017,ICAR-IIPR Kanpur,all,,climate,sub-humid tropical,,p2 s2.1,text,a_site,
+Ghosh_2017,ICAR-IIPR Kanpur,all,,annual_rainfall,722,mm,p2 s2.1,text,a_site,
+Ghosh_2017,ICAR-IIPR Kanpur,all,,Tmax_mean_annual,33.0,C,p2 s2.1,text,a_site,
+Ghosh_2017,ICAR-IIPR Kanpur,all,,Tmin_mean_annual,20.0,C,p2 s2.1,text,a_site,
+Ghosh_2017,ICAR-IIPR Kanpur,all,,soil_class,Typic Ustochrept (Inceptisol),,p2 s2.1,text,a_site,
+Ghosh_2017,ICAR-IIPR Kanpur,all,,texture_class,sandy loam,,p2 s2.1,text,a_site,
+Ghosh_2017,ICAR-IIPR Kanpur,all,,experiment_start,2003-07 (rainy season),,p2 s2.2,text,a_site,sampling after 8 yrs (2003-2011)
+Ghosh_2017,ICAR-IIPR Kanpur,initial,,SOC,2.8,g/kg,p2 s2.1,text,b_initial_soil,depth not stated; same for upland and lowland
+Ghosh_2017,ICAR-IIPR Kanpur,initial,,sand,NA (not reported),,-,missing,b_initial_soil,
+Ghosh_2017,ICAR-IIPR Kanpur,initial,,silt,NA (not reported),,-,missing,b_initial_soil,
+Ghosh_2017,ICAR-IIPR Kanpur,initial,,clay,NA (not reported),,-,missing,b_initial_soil,
+Ghosh_2017,ICAR-IIPR Kanpur,initial,,bulk_density,NA (not reported),,-,missing,b_initial_soil,
+Ghosh_2017,ICAR-IIPR Kanpur,initial,,pH,NA (not reported),,-,missing,b_initial_soil,
+Ghosh_2017,ICAR-IIPR Kanpur,initial,,field_capacity,NA (not reported),,-,missing,b_initial_soil,
+Ghosh_2017,ICAR-IIPR Kanpur,initial,,wilting_point,NA (not reported),,-,missing,b_initial_soil,
+Ghosh_2017,ICAR-IIPR Kanpur,initial,,sat_hydraulic_conductivity,NA (not reported),,-,missing,b_initial_soil,
+Ghosh_2017,ICAR-IIPR Kanpur,L_RW,0-20,Cfrac1,3.59,g/kg,p5 Table 3,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RW,0-20,Cfrac2,2.98,g/kg,p5 Table 3,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RW,0-20,Cfrac3,5.48,g/kg,p5 Table 3,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RW,0-20,Cfrac4,5.24,g/kg,p5 Table 3,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RW,0-20,TOC,17.29,g/kg,p5 Table 3,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RWRC,0-20,Cfrac1,4.85,g/kg,p5 Table 3,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RWRC,0-20,Cfrac2,3.41,g/kg,p5 Table 3,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RWRC,0-20,Cfrac3,5.37,g/kg,p5 Table 3,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RWRC,0-20,Cfrac4,4.79,g/kg,p5 Table 3,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RWRC,0-20,TOC,18.42,g/kg,p5 Table 3,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_CT,0-20,Cfrac1,3.58,g/kg,p5 Table 3,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_CT,0-20,Cfrac2,2.53,g/kg,p5 Table 3,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_CT,0-20,Cfrac3,5.14,g/kg,p5 Table 3,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_CT,0-20,Cfrac4,4.83,g/kg,p5 Table 3,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_CT,0-20,TOC,16.08,g/kg,p5 Table 3,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RDF,0-20,Cfrac1,4.33,g/kg,p5 Table 3,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RDF,0-20,Cfrac2,3.46,g/kg,p5 Table 3,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RDF,0-20,Cfrac3,5.32,g/kg,p5 Table 3,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RDF,0-20,Cfrac4,4.98,g/kg,p5 Table 3,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RDF,0-20,TOC,18.09,g/kg,p5 Table 3,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_ORG,0-20,Cfrac1,4.94,g/kg,p5 Table 3,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_ORG,0-20,Cfrac2,3.6,g/kg,p5 Table 3,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_ORG,0-20,Cfrac3,5.79,g/kg,p5 Table 3,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_ORG,0-20,Cfrac4,5.24,g/kg,p5 Table 3,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_ORG,0-20,TOC,19.57,g/kg,p5 Table 3,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RW,20-40,Cfrac1,3.89,g/kg,p5 Table 3,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RW,20-40,Cfrac2,3.05,g/kg,p5 Table 3,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RW,20-40,Cfrac3,4.86,g/kg,p5 Table 3,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RW,20-40,Cfrac4,2.93,g/kg,p5 Table 3,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RW,20-40,TOC,14.73,g/kg,p5 Table 3,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RWRC,20-40,Cfrac1,4.08,g/kg,p5 Table 3,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RWRC,20-40,Cfrac2,3.05,g/kg,p5 Table 3,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RWRC,20-40,Cfrac3,4.55,g/kg,p5 Table 3,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RWRC,20-40,Cfrac4,2.79,g/kg,p5 Table 3,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RWRC,20-40,TOC,14.47,g/kg,p5 Table 3,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_CT,20-40,Cfrac1,3.07,g/kg,p5 Table 3,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_CT,20-40,Cfrac2,2.81,g/kg,p5 Table 3,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_CT,20-40,Cfrac3,4.62,g/kg,p5 Table 3,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_CT,20-40,Cfrac4,2.88,g/kg,p5 Table 3,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_CT,20-40,TOC,13.38,g/kg,p5 Table 3,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RDF,20-40,Cfrac1,4.75,g/kg,p5 Table 3,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RDF,20-40,Cfrac2,3.22,g/kg,p5 Table 3,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RDF,20-40,Cfrac3,4.62,g/kg,p5 Table 3,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RDF,20-40,Cfrac4,2.91,g/kg,p5 Table 3,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RDF,20-40,TOC,15.5,g/kg,p5 Table 3,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_ORG,20-40,Cfrac1,5.14,g/kg,p5 Table 3,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_ORG,20-40,Cfrac2,3.12,g/kg,p5 Table 3,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_ORG,20-40,Cfrac3,4.68,g/kg,p5 Table 3,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_ORG,20-40,Cfrac4,2.8,g/kg,p5 Table 3,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_ORG,20-40,TOC,15.74,g/kg,p5 Table 3,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RW,40-60,Cfrac1,1.53,g/kg,p5 Table 3,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RW,40-60,Cfrac2,1.5,g/kg,p5 Table 3,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RW,40-60,Cfrac3,1.43,g/kg,p5 Table 3,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RW,40-60,Cfrac4,1.88,g/kg,p5 Table 3,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RW,40-60,TOC,6.34,g/kg,p5 Table 3,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RWRC,40-60,Cfrac1,1.45,g/kg,p5 Table 3,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RWRC,40-60,Cfrac2,1.49,g/kg,p5 Table 3,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RWRC,40-60,Cfrac3,1.54,g/kg,p5 Table 3,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RWRC,40-60,Cfrac4,1.82,g/kg,p5 Table 3,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RWRC,40-60,TOC,6.3,g/kg,p5 Table 3,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_CT,40-60,Cfrac1,1.54,g/kg,p5 Table 3,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_CT,40-60,Cfrac2,1.55,g/kg,p5 Table 3,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_CT,40-60,Cfrac3,1.44,g/kg,p5 Table 3,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_CT,40-60,Cfrac4,1.76,g/kg,p5 Table 3,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_CT,40-60,TOC,6.29,g/kg,p5 Table 3,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RDF,40-60,Cfrac1,1.55,g/kg,p5 Table 3,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RDF,40-60,Cfrac2,1.45,g/kg,p5 Table 3,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RDF,40-60,Cfrac3,1.47,g/kg,p5 Table 3,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RDF,40-60,Cfrac4,1.86,g/kg,p5 Table 3,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RDF,40-60,TOC,6.33,g/kg,p5 Table 3,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_ORG,40-60,Cfrac1,1.38,g/kg,p5 Table 3,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_ORG,40-60,Cfrac2,1.49,g/kg,p5 Table 3,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_ORG,40-60,Cfrac3,1.55,g/kg,p5 Table 3,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_ORG,40-60,Cfrac4,2.01,g/kg,p5 Table 3,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_ORG,40-60,TOC,6.43,g/kg,p5 Table 3,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_MW,0-20,Cfrac1,5.37,g/kg,p6 Table 4,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_MW,0-20,Cfrac2,3.09,g/kg,p6 Table 4,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_MW,0-20,Cfrac3,2.78,g/kg,p6 Table 4,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_MW,0-20,Cfrac4,3.45,g/kg,p6 Table 4,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_MW,0-20,TOC,14.69,g/kg,p6 Table 4,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_MWMC,0-20,Cfrac1,6.32,g/kg,p6 Table 4,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_MWMC,0-20,Cfrac2,3.49,g/kg,p6 Table 4,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_MWMC,0-20,Cfrac3,3.09,g/kg,p6 Table 4,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_MWMC,0-20,Cfrac4,3.77,g/kg,p6 Table 4,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_MWMC,0-20,TOC,16.67,g/kg,p6 Table 4,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_CT,0-20,Cfrac1,4.36,g/kg,p6 Table 4,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_CT,0-20,Cfrac2,2.97,g/kg,p6 Table 4,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_CT,0-20,Cfrac3,2.64,g/kg,p6 Table 4,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_CT,0-20,Cfrac4,3.35,g/kg,p6 Table 4,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_CT,0-20,TOC,13.32,g/kg,p6 Table 4,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_RDF,0-20,Cfrac1,6.18,g/kg,p6 Table 4,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_RDF,0-20,Cfrac2,3.27,g/kg,p6 Table 4,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_RDF,0-20,Cfrac3,2.97,g/kg,p6 Table 4,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_RDF,0-20,Cfrac4,3.57,g/kg,p6 Table 4,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_RDF,0-20,TOC,15.99,g/kg,p6 Table 4,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_ORG,0-20,Cfrac1,6.98,g/kg,p6 Table 4,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_ORG,0-20,Cfrac2,3.63,g/kg,p6 Table 4,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_ORG,0-20,Cfrac3,3.21,g/kg,p6 Table 4,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_ORG,0-20,Cfrac4,3.91,g/kg,p6 Table 4,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_ORG,0-20,TOC,17.73,g/kg,p6 Table 4,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_MW,20-40,Cfrac1,3.61,g/kg,p6 Table 4,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_MW,20-40,Cfrac2,1.4,g/kg,p6 Table 4,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_MW,20-40,Cfrac3,3.37,g/kg,p6 Table 4,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_MW,20-40,Cfrac4,2.8,g/kg,p6 Table 4,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_MW,20-40,TOC,11.18,g/kg,p6 Table 4,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_MWMC,20-40,Cfrac1,3.55,g/kg,p6 Table 4,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_MWMC,20-40,Cfrac2,1.54,g/kg,p6 Table 4,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_MWMC,20-40,Cfrac3,2.84,g/kg,p6 Table 4,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_MWMC,20-40,Cfrac4,2.85,g/kg,p6 Table 4,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_MWMC,20-40,TOC,10.78,g/kg,p6 Table 4,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_CT,20-40,Cfrac1,3.28,g/kg,p6 Table 4,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_CT,20-40,Cfrac2,1.32,g/kg,p6 Table 4,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_CT,20-40,Cfrac3,2.94,g/kg,p6 Table 4,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_CT,20-40,Cfrac4,2.88,g/kg,p6 Table 4,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_CT,20-40,TOC,10.42,g/kg,p6 Table 4,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_RDF,20-40,Cfrac1,3.59,g/kg,p6 Table 4,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_RDF,20-40,Cfrac2,1.69,g/kg,p6 Table 4,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_RDF,20-40,Cfrac3,3.18,g/kg,p6 Table 4,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_RDF,20-40,Cfrac4,2.71,g/kg,p6 Table 4,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_RDF,20-40,TOC,11.17,g/kg,p6 Table 4,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_ORG,20-40,Cfrac1,3.88,g/kg,p6 Table 4,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_ORG,20-40,Cfrac2,1.56,g/kg,p6 Table 4,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_ORG,20-40,Cfrac3,3.19,g/kg,p6 Table 4,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_ORG,20-40,Cfrac4,2.9,g/kg,p6 Table 4,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_ORG,20-40,TOC,11.53,g/kg,p6 Table 4,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_MW,40-60,Cfrac1,1.65,g/kg,p6 Table 4,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_MW,40-60,Cfrac2,1.88,g/kg,p6 Table 4,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_MW,40-60,Cfrac3,1.02,g/kg,p6 Table 4,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_MW,40-60,Cfrac4,1.5,g/kg,p6 Table 4,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_MW,40-60,TOC,6.05,g/kg,p6 Table 4,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_MWMC,40-60,Cfrac1,1.54,g/kg,p6 Table 4,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_MWMC,40-60,Cfrac2,2.08,g/kg,p6 Table 4,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_MWMC,40-60,Cfrac3,0.99,g/kg,p6 Table 4,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_MWMC,40-60,Cfrac4,1.52,g/kg,p6 Table 4,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_MWMC,40-60,TOC,6.13,g/kg,p6 Table 4,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_CT,40-60,Cfrac1,1.59,g/kg,p6 Table 4,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_CT,40-60,Cfrac2,1.43,g/kg,p6 Table 4,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_CT,40-60,Cfrac3,0.89,g/kg,p6 Table 4,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_CT,40-60,Cfrac4,1.39,g/kg,p6 Table 4,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_CT,40-60,TOC,5.3,g/kg,p6 Table 4,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_RDF,40-60,Cfrac1,1.49,g/kg,p6 Table 4,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_RDF,40-60,Cfrac2,2.34,g/kg,p6 Table 4,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_RDF,40-60,Cfrac3,1.1,g/kg,p6 Table 4,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_RDF,40-60,Cfrac4,1.44,g/kg,p6 Table 4,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_RDF,40-60,TOC,6.37,g/kg,p6 Table 4,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_ORG,40-60,Cfrac1,1.7,g/kg,p6 Table 4,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_ORG,40-60,Cfrac2,2.18,g/kg,p6 Table 4,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_ORG,40-60,Cfrac3,1.03,g/kg,p6 Table 4,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_ORG,40-60,Cfrac4,1.69,g/kg,p6 Table 4,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,U_ORG,40-60,TOC,6.6,g/kg,p6 Table 4,table,g_end_soil,"year~2011 (after 8 yr); marginal mean (cropping system averaged over nutrient mgmt, or nutrient mgmt averaged over systems), NOT full factorial; TOC = Walkley-Black C x 1.33"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RW,0-20,lability_index,1.28,-,p7 Table 5,table,g_end_soil_derived,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RW,0-20,carbon_management_index,105.6,-,p7 Table 5,table,g_end_soil_derived,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RW,20-40,lability_index,1.54,-,p7 Table 5,table,g_end_soil_derived,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RW,20-40,carbon_management_index,111.1,-,p7 Table 5,table,g_end_soil_derived,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RW,40-60,lability_index,1.69,-,p7 Table 5,table,g_end_soil_derived,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RW,40-60,carbon_management_index,77.9,-,p7 Table 5,table,g_end_soil_derived,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RWRC,0-20,lability_index,1.46,-,p7 Table 5,table,g_end_soil_derived,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RWRC,0-20,carbon_management_index,126.0,-,p7 Table 5,table,g_end_soil_derived,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RWRC,20-40,lability_index,1.58,-,p7 Table 5,table,g_end_soil_derived,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RWRC,20-40,carbon_management_index,110.8,-,p7 Table 5,table,g_end_soil_derived,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RWRC,40-60,lability_index,1.68,-,p7 Table 5,table,g_end_soil_derived,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RWRC,40-60,carbon_management_index,135.9,-,p7 Table 5,table,g_end_soil_derived,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,L_CT,0-20,lability_index,1.3,-,p7 Table 5,table,g_end_soil_derived,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,L_CT,0-20,carbon_management_index,100.0,-,p7 Table 5,table,g_end_soil_derived,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,L_CT,20-40,lability_index,1.51,-,p7 Table 5,table,g_end_soil_derived,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,L_CT,20-40,carbon_management_index,100.0,-,p7 Table 5,table,g_end_soil_derived,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,L_CT,40-60,lability_index,1.69,-,p7 Table 5,table,g_end_soil_derived,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,L_CT,40-60,carbon_management_index,100.0,-,p7 Table 5,table,g_end_soil_derived,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RDF,0-20,lability_index,1.4,-,p7 Table 5,table,g_end_soil_derived,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RDF,0-20,carbon_management_index,120.5,-,p7 Table 5,table,g_end_soil_derived,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RDF,20-40,lability_index,1.65,-,p7 Table 5,table,g_end_soil_derived,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RDF,20-40,carbon_management_index,122.8,-,p7 Table 5,table,g_end_soil_derived,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RDF,40-60,lability_index,1.66,-,p7 Table 5,table,g_end_soil_derived,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,L_RDF,40-60,carbon_management_index,112.6,-,p7 Table 5,table,g_end_soil_derived,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,L_ORG,0-20,lability_index,1.4,-,p7 Table 5,table,g_end_soil_derived,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,L_ORG,0-20,carbon_management_index,126.9,-,p7 Table 5,table,g_end_soil_derived,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,L_ORG,20-40,lability_index,1.52,-,p7 Table 5,table,g_end_soil_derived,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,L_ORG,20-40,carbon_management_index,110.0,-,p7 Table 5,table,g_end_soil_derived,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,L_ORG,40-60,lability_index,1.71,-,p7 Table 5,table,g_end_soil_derived,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,L_ORG,40-60,carbon_management_index,108.1,-,p7 Table 5,table,g_end_soil_derived,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,U_MW,0-20,lability_index,1.7,-,p7 Table 5,table,g_end_soil_derived,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,U_MW,0-20,carbon_management_index,120.7,-,p7 Table 5,table,g_end_soil_derived,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,U_MW,20-40,lability_index,1.52,-,p7 Table 5,table,g_end_soil_derived,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,U_MW,20-40,carbon_management_index,109.1,-,p7 Table 5,table,g_end_soil_derived,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,U_MW,40-60,lability_index,1.63,-,p7 Table 5,table,g_end_soil_derived,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,U_MW,40-60,carbon_management_index,111.3,-,p7 Table 5,table,g_end_soil_derived,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,U_MWMC,0-20,lability_index,1.7,-,p7 Table 5,table,g_end_soil_derived,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,U_MWMC,0-20,carbon_management_index,126.1,-,p7 Table 5,table,g_end_soil_derived,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,U_MWMC,20-40,lability_index,1.55,-,p7 Table 5,table,g_end_soil_derived,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,U_MWMC,20-40,carbon_management_index,105.5,-,p7 Table 5,table,g_end_soil_derived,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,U_MWMC,40-60,lability_index,1.67,-,p7 Table 5,table,g_end_soil_derived,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,U_MWMC,40-60,carbon_management_index,112.0,-,p7 Table 5,table,g_end_soil_derived,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,U_CT,0-20,lability_index,1.59,-,p7 Table 5,table,g_end_soil_derived,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,U_CT,0-20,carbon_management_index,100.0,-,p7 Table 5,table,g_end_soil_derived,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,U_CT,20-40,lability_index,1.47,-,p7 Table 5,table,g_end_soil_derived,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,U_CT,20-40,carbon_management_index,100.0,-,p7 Table 5,table,g_end_soil_derived,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,U_CT,40-60,lability_index,1.43,-,p7 Table 5,table,g_end_soil_derived,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,U_CT,40-60,carbon_management_index,100.0,-,p7 Table 5,table,g_end_soil_derived,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,U_RDF,0-20,lability_index,1.75,-,p7 Table 5,table,g_end_soil_derived,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,U_RDF,0-20,carbon_management_index,127.7,-,p7 Table 5,table,g_end_soil_derived,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,U_RDF,20-40,lability_index,1.62,-,p7 Table 5,table,g_end_soil_derived,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,U_RDF,20-40,carbon_management_index,112.5,-,p7 Table 5,table,g_end_soil_derived,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,U_RDF,40-60,lability_index,1.95,-,p7 Table 5,table,g_end_soil_derived,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,U_RDF,40-60,carbon_management_index,117.2,-,p7 Table 5,table,g_end_soil_derived,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,U_ORG,0-20,lability_index,1.77,-,p7 Table 5,table,g_end_soil_derived,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,U_ORG,0-20,carbon_management_index,142.4,-,p7 Table 5,table,g_end_soil_derived,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,U_ORG,20-40,lability_index,1.52,-,p7 Table 5,table,g_end_soil_derived,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,U_ORG,20-40,carbon_management_index,109.3,-,p7 Table 5,table,g_end_soil_derived,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,U_ORG,40-60,lability_index,1.56,-,p7 Table 5,table,g_end_soil_derived,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,U_ORG,40-60,carbon_management_index,117.8,-,p7 Table 5,table,g_end_soil_derived,"derived index, not a DayCent input"
+Ghosh_2017,ICAR-IIPR Kanpur,all,0-20,POC,"NA (bar chart only, Fig 1)",g/kg,p6 Fig 1,figure,g_end_soil,figure-only; not extracted
+Ghosh_2017,ICAR-IIPR Kanpur,all,,end_bulk_density,NA (not reported),,-,missing,g_end_soil,needed for SOC stock (g/kg -> Mg/ha)
+Ghosh_2017,ICAR-IIPR Kanpur,all,,sampling_depths_text,"0-20, 20-40, 40-60, 60-80 cm (4 depths)",cm,p3 s2.3,text,g_end_soil,tables show only 3 depths (to 60 cm) - inconsistency
+Ghosh_2017,ICAR-IIPR Kanpur,all,,SOC_method,Walkley-Black wet oxidation; TOC = oxidizable C x 1.33,,p3 s2.3,text,g_end_soil,"post-hole auger, 4 spots/plot, after harvest of last crop"
+Ghosh_2017,ICAR-IIPR Kanpur,lowland,,rotation_sequence,RW (rice-wheat); RWRC (rice-wheat-rice-chickpea),,p2 s2.2,text,c_crop,chickpea included alternate years
+Ghosh_2017,ICAR-IIPR Kanpur,upland,,rotation_sequence,MW (maize-wheat); MWMC (maize-wheat-maize-chickpea),,p2 s2.2,text,c_crop,chickpea included alternate years
+Ghosh_2017,ICAR-IIPR Kanpur,lowland_rice,,cultivar,Pant Dhan 12,,p3 Table 1,table,c_crop,
+Ghosh_2017,ICAR-IIPR Kanpur,lowland_rice,,seed_rate,40,kg/ha,p3 Table 1,table,c_crop,
+Ghosh_2017,ICAR-IIPR Kanpur,lowland_rice,,spacing,20x20 cm,,p3 Table 1,table,c_crop,PDF text '20 9 20' read as 20x20 (x garbled)
+Ghosh_2017,ICAR-IIPR Kanpur,lowland_rice,,crop_season_seed_to_seed,June wk2 - Oct wk4,month(week),p3 Table 1,table,c_crop,"only month+week, no exact sowing/harvest dates"
+Ghosh_2017,ICAR-IIPR Kanpur,lowland_rice,,NPK_rate,120-60-40,kg/ha (N-P-K),p3 Table 1,table,e_fertiliser,P and K oxide basis not stated
+Ghosh_2017,ICAR-IIPR Kanpur,lowland_rice,,fertiliser_timing,1/3 N+P+K basal; 1/3 N at 25 DAT; 1/3 N at 45 DAT,,p3 Table 1,table,e_fertiliser,"DAT/DAS only, no calendar dates"
+Ghosh_2017,ICAR-IIPR Kanpur,lowland_rice,,n_irrigations,8-10,count/season,p3 Table 1,table,f_irrigation,"need-based, mean of 4 yrs; no dates, depth or method"
+Ghosh_2017,ICAR-IIPR Kanpur,lowland_rice,,grain_yield,NA (only % increase in Fig 4),kg/ha,p10 Fig 4,figure,c_crop,figure-only
+Ghosh_2017,ICAR-IIPR Kanpur,lowland_rice,,straw_yield,NA (not reported),kg/ha,-,missing,c_crop,
+Ghosh_2017,ICAR-IIPR Kanpur,lowland_wheat,,cultivar,PBW 343,,p3 Table 1,table,c_crop,
+Ghosh_2017,ICAR-IIPR Kanpur,lowland_wheat,,seed_rate,100,kg/ha,p3 Table 1,table,c_crop,
+Ghosh_2017,ICAR-IIPR Kanpur,lowland_wheat,,spacing,22.5 cm continuous,,p3 Table 1,table,c_crop,PDF text '20 9 20' read as 20x20 (x garbled)
+Ghosh_2017,ICAR-IIPR Kanpur,lowland_wheat,,crop_season_seed_to_seed,Nov wk3 - Mar wk3,month(week),p3 Table 1,table,c_crop,"only month+week, no exact sowing/harvest dates"
+Ghosh_2017,ICAR-IIPR Kanpur,lowland_wheat,,NPK_rate,120-60-40,kg/ha (N-P-K),p3 Table 1,table,e_fertiliser,P and K oxide basis not stated
+Ghosh_2017,ICAR-IIPR Kanpur,lowland_wheat,,fertiliser_timing,1/3 N+P+K basal; 1/3 N at 21 DAS; 1/3 N at 45 DAS,,p3 Table 1,table,e_fertiliser,"DAT/DAS only, no calendar dates"
+Ghosh_2017,ICAR-IIPR Kanpur,lowland_wheat,,n_irrigations,5,count/season,p3 Table 1,table,f_irrigation,"need-based, mean of 4 yrs; no dates, depth or method"
+Ghosh_2017,ICAR-IIPR Kanpur,lowland_wheat,,grain_yield,NA (only % increase in Fig 4),kg/ha,p10 Fig 4,figure,c_crop,figure-only
+Ghosh_2017,ICAR-IIPR Kanpur,lowland_wheat,,straw_yield,NA (not reported),kg/ha,-,missing,c_crop,
+Ghosh_2017,ICAR-IIPR Kanpur,lowland_chickpea,,cultivar,KWR 108,,p3 Table 1,table,c_crop,
+Ghosh_2017,ICAR-IIPR Kanpur,lowland_chickpea,,seed_rate,70,kg/ha,p3 Table 1,table,c_crop,
+Ghosh_2017,ICAR-IIPR Kanpur,lowland_chickpea,,spacing,30x10 cm,,p3 Table 1,table,c_crop,PDF text '20 9 20' read as 20x20 (x garbled)
+Ghosh_2017,ICAR-IIPR Kanpur,lowland_chickpea,,crop_season_seed_to_seed,Apr wk1 - Jun wk1,month(week),p3 Table 1,table,c_crop,"only month+week, no exact sowing/harvest dates; chickpea Apr-Jun implausible for a winter crop - FLAG"
+Ghosh_2017,ICAR-IIPR Kanpur,lowland_chickpea,,NPK_rate,20-60-40,kg/ha (N-P-K),p3 Table 1,table,e_fertiliser,P and K oxide basis not stated
+Ghosh_2017,ICAR-IIPR Kanpur,lowland_chickpea,,fertiliser_timing,N+P+K all basal,,p3 Table 1,table,e_fertiliser,"DAT/DAS only, no calendar dates"
+Ghosh_2017,ICAR-IIPR Kanpur,lowland_chickpea,,n_irrigations,2,count/season,p3 Table 1,table,f_irrigation,"need-based, mean of 4 yrs; no dates, depth or method"
+Ghosh_2017,ICAR-IIPR Kanpur,lowland_chickpea,,grain_yield,NA (only % increase in Fig 4),kg/ha,p10 Fig 4,figure,c_crop,figure-only
+Ghosh_2017,ICAR-IIPR Kanpur,lowland_chickpea,,straw_yield,NA (not reported),kg/ha,-,missing,c_crop,
+Ghosh_2017,ICAR-IIPR Kanpur,upland_maize,,cultivar,Azad Uttam,,p3 Table 1,table,c_crop,
+Ghosh_2017,ICAR-IIPR Kanpur,upland_maize,,seed_rate,18-20,kg/ha,p3 Table 1,table,c_crop,
+Ghosh_2017,ICAR-IIPR Kanpur,upland_maize,,spacing,50x20 cm,,p3 Table 1,table,c_crop,PDF text '20 9 20' read as 20x20 (x garbled)
+Ghosh_2017,ICAR-IIPR Kanpur,upland_maize,,crop_season_seed_to_seed,June wk3 - Oct wk3,month(week),p3 Table 1,table,c_crop,"only month+week, no exact sowing/harvest dates"
+Ghosh_2017,ICAR-IIPR Kanpur,upland_maize,,NPK_rate,120-60-40,kg/ha (N-P-K),p3 Table 1,table,e_fertiliser,P and K oxide basis not stated
+Ghosh_2017,ICAR-IIPR Kanpur,upland_maize,,fertiliser_timing,1/3 N+P+K basal; 1/3 N at 25 DAS; 1/3 N at 45 DAS,,p3 Table 1,table,e_fertiliser,"DAT/DAS only, no calendar dates"
+Ghosh_2017,ICAR-IIPR Kanpur,upland_maize,,n_irrigations,2,count/season,p3 Table 1,table,f_irrigation,"need-based, mean of 4 yrs; no dates, depth or method"
+Ghosh_2017,ICAR-IIPR Kanpur,upland_maize,,grain_yield,NA (only % increase in Fig 4),kg/ha,p10 Fig 4,figure,c_crop,figure-only
+Ghosh_2017,ICAR-IIPR Kanpur,upland_maize,,straw_yield,NA (not reported),kg/ha,-,missing,c_crop,
+Ghosh_2017,ICAR-IIPR Kanpur,upland_wheat,,cultivar,PBW 343,,p3 Table 1,table,c_crop,
+Ghosh_2017,ICAR-IIPR Kanpur,upland_wheat,,seed_rate,100,kg/ha,p3 Table 1,table,c_crop,
+Ghosh_2017,ICAR-IIPR Kanpur,upland_wheat,,spacing,22.5 cm continuous,,p3 Table 1,table,c_crop,PDF text '20 9 20' read as 20x20 (x garbled)
+Ghosh_2017,ICAR-IIPR Kanpur,upland_wheat,,crop_season_seed_to_seed,Nov wk3 - Mar wk3,month(week),p3 Table 1,table,c_crop,"only month+week, no exact sowing/harvest dates"
+Ghosh_2017,ICAR-IIPR Kanpur,upland_wheat,,NPK_rate,120-60-40,kg/ha (N-P-K),p3 Table 1,table,e_fertiliser,P and K oxide basis not stated
+Ghosh_2017,ICAR-IIPR Kanpur,upland_wheat,,fertiliser_timing,1/3 N+P+K basal; 1/3 N at 21 DAS; 1/3 N at 45 DAS,,p3 Table 1,table,e_fertiliser,"DAT/DAS only, no calendar dates"
+Ghosh_2017,ICAR-IIPR Kanpur,upland_wheat,,n_irrigations,5,count/season,p3 Table 1,table,f_irrigation,"need-based, mean of 4 yrs; no dates, depth or method"
+Ghosh_2017,ICAR-IIPR Kanpur,upland_wheat,,grain_yield,NA (only % increase in Fig 4),kg/ha,p10 Fig 4,figure,c_crop,figure-only
+Ghosh_2017,ICAR-IIPR Kanpur,upland_wheat,,straw_yield,NA (not reported),kg/ha,-,missing,c_crop,
+Ghosh_2017,ICAR-IIPR Kanpur,upland_chickpea,,cultivar,DCP-92-3,,p3 Table 1,table,c_crop,
+Ghosh_2017,ICAR-IIPR Kanpur,upland_chickpea,,seed_rate,70,kg/ha,p3 Table 1,table,c_crop,
+Ghosh_2017,ICAR-IIPR Kanpur,upland_chickpea,,spacing,30x10 cm,,p3 Table 1,table,c_crop,PDF text '20 9 20' read as 20x20 (x garbled)
+Ghosh_2017,ICAR-IIPR Kanpur,upland_chickpea,,crop_season_seed_to_seed,Apr wk1 - Jun wk1,month(week),p3 Table 1,table,c_crop,"only month+week, no exact sowing/harvest dates; chickpea Apr-Jun implausible for a winter crop - FLAG"
+Ghosh_2017,ICAR-IIPR Kanpur,upland_chickpea,,NPK_rate,20-60-40,kg/ha (N-P-K),p3 Table 1,table,e_fertiliser,P and K oxide basis not stated
+Ghosh_2017,ICAR-IIPR Kanpur,upland_chickpea,,fertiliser_timing,N+P+K all basal,,p3 Table 1,table,e_fertiliser,"DAT/DAS only, no calendar dates"
+Ghosh_2017,ICAR-IIPR Kanpur,upland_chickpea,,n_irrigations,2,count/season,p3 Table 1,table,f_irrigation,"need-based, mean of 4 yrs; no dates, depth or method"
+Ghosh_2017,ICAR-IIPR Kanpur,upland_chickpea,,grain_yield,NA (only % increase in Fig 4),kg/ha,p10 Fig 4,figure,c_crop,figure-only
+Ghosh_2017,ICAR-IIPR Kanpur,upland_chickpea,,straw_yield,NA (not reported),kg/ha,-,missing,c_crop,
+Ghosh_2017,ICAR-IIPR Kanpur,all,,tillage,"NA (machine, depth and timing not reported)",,-,missing,d_tillage,only crop-residue chopping by rotary machine mentioned
+Ghosh_2017,ICAR-IIPR Kanpur,ORG,,FYM_rate,5,Mg/ha,p3 s2.2,text,e_fertiliser,applied before rainy-season crops
+Ghosh_2017,ICAR-IIPR Kanpur,ORG,,FYM_N,28,kg/ha,p3 s2.2,text,e_fertiliser,applied before rainy-season crops
+Ghosh_2017,ICAR-IIPR Kanpur,ORG,,FYM_P,9,kg/ha,p3 s2.2,text,e_fertiliser,applied before rainy-season crops
+Ghosh_2017,ICAR-IIPR Kanpur,ORG,,FYM_K,26,kg/ha,p3 s2.2,text,e_fertiliser,applied before rainy-season crops
+Ghosh_2017,ICAR-IIPR Kanpur,ORG,,FYM_C,448,kg/ha,p3 s2.2,text,e_fertiliser,applied before rainy-season crops; per application (per year assumed) - human review
+Ghosh_2017,ICAR-IIPR Kanpur,ORG,,residue_management,"all crop residue chopped by rotary machine, spread and mixed in before next crop",,p3 s2.2,text,e_fertiliser,amount (t/ha) only as C in Table 2
+Ghosh_2017,ICAR-IIPR Kanpur,ORG,,biofertiliser,"Azotobacter (cereals), Rhizobium (pulses), PSB; 20 g/kg seed",,p3 s2.2,text,e_fertiliser,
+Ghosh_2017,ICAR-IIPR Kanpur,RDF,,S_gypsum,20,kg S/ha,p2-3 s2.2,text,e_fertiliser,
+Ghosh_2017,ICAR-IIPR Kanpur,RDF,,Zn_as_ZnSO4,25,kg/ha,p2-3 s2.2,text,e_fertiliser,
+Ghosh_2017,ICAR-IIPR Kanpur,RDF,,B_as_borax,10,kg/ha,p3 s2.2,text,e_fertiliser,
+Ghosh_2017,ICAR-IIPR Kanpur,RDF,,N_P_K_sources,"urea, DAP, muriate of potash",,p2 s2.2,text,e_fertiliser,
+Ghosh_2017,ICAR-IIPR Kanpur,CT,,fertiliser,none (control),,p2 s2.2,text,e_fertiliser,
+Ghosh_2017,ICAR-IIPR Kanpur,L_RW_RDF,,annual_N,240.0,kg/ha/yr,p4 Table 2,table,e_fertiliser,mean of last 2 yrs (2009-11)
+Ghosh_2017,ICAR-IIPR Kanpur,L_RW_RDF,,annual_P,52.4,kg/ha/yr,p4 Table 2,table,e_fertiliser,mean of last 2 yrs (2009-11)
+Ghosh_2017,ICAR-IIPR Kanpur,L_RW_RDF,,annual_K,43.7,kg/ha/yr,p4 Table 2,table,e_fertiliser,mean of last 2 yrs (2009-11)
+Ghosh_2017,ICAR-IIPR Kanpur,L_RW_RDF,,annual_S,20.0,kg/ha/yr,p4 Table 2,table,e_fertiliser,mean of last 2 yrs (2009-11)
+Ghosh_2017,ICAR-IIPR Kanpur,L_RW_RDF,,annual_Zn,4.2,kg/ha/yr,p4 Table 2,table,e_fertiliser,mean of last 2 yrs (2009-11)
+Ghosh_2017,ICAR-IIPR Kanpur,L_RW_ORG,,annual_N,103.6,kg/ha/yr,p4 Table 2,table,e_fertiliser,mean of last 2 yrs (2009-11)
+Ghosh_2017,ICAR-IIPR Kanpur,L_RW_ORG,,annual_P,25.9,kg/ha/yr,p4 Table 2,table,e_fertiliser,mean of last 2 yrs (2009-11)
+Ghosh_2017,ICAR-IIPR Kanpur,L_RW_ORG,,annual_K,142.5,kg/ha/yr,p4 Table 2,table,e_fertiliser,mean of last 2 yrs (2009-11)
+Ghosh_2017,ICAR-IIPR Kanpur,L_RW_ORG,,annual_S,24.4,kg/ha/yr,p4 Table 2,table,e_fertiliser,mean of last 2 yrs (2009-11)
+Ghosh_2017,ICAR-IIPR Kanpur,L_RW_ORG,,annual_Zn,0.29,kg/ha/yr,p4 Table 2,table,e_fertiliser,mean of last 2 yrs (2009-11)
+Ghosh_2017,ICAR-IIPR Kanpur,L_RW_ORG,,cumC_FYM,6.5,Mg C/ha,p4 Table 2,table,e_fertiliser,cumulative 8 yrs
+Ghosh_2017,ICAR-IIPR Kanpur,L_RW_ORG,,cumC_residue,36.8,Mg C/ha,p4 Table 2,table,e_fertiliser,cumulative 8 yrs
+Ghosh_2017,ICAR-IIPR Kanpur,L_RW_ORG,,cumC_total,43.3,Mg C/ha,p4 Table 2,table,e_fertiliser,cumulative 8 yrs
+Ghosh_2017,ICAR-IIPR Kanpur,L_RW_CT,,annual_nutrient_input,none (dash in table),,p4 Table 2,table,e_fertiliser,
+Ghosh_2017,ICAR-IIPR Kanpur,L_RWRC_RDF,,annual_N,190.0,kg/ha/yr,p4 Table 2,table,e_fertiliser,mean of last 2 yrs (2009-11)
+Ghosh_2017,ICAR-IIPR Kanpur,L_RWRC_RDF,,annual_P,52.4,kg/ha/yr,p4 Table 2,table,e_fertiliser,mean of last 2 yrs (2009-11)
+Ghosh_2017,ICAR-IIPR Kanpur,L_RWRC_RDF,,annual_K,43.7,kg/ha/yr,p4 Table 2,table,e_fertiliser,mean of last 2 yrs (2009-11)
+Ghosh_2017,ICAR-IIPR Kanpur,L_RWRC_RDF,,annual_S,20.0,kg/ha/yr,p4 Table 2,table,e_fertiliser,mean of last 2 yrs (2009-11)
+Ghosh_2017,ICAR-IIPR Kanpur,L_RWRC_RDF,,annual_Zn,4.2,kg/ha/yr,p4 Table 2,table,e_fertiliser,mean of last 2 yrs (2009-11)
+Ghosh_2017,ICAR-IIPR Kanpur,L_RWRC_ORG,,annual_N,107.0,kg/ha/yr,p4 Table 2,table,e_fertiliser,mean of last 2 yrs (2009-11)
+Ghosh_2017,ICAR-IIPR Kanpur,L_RWRC_ORG,,annual_P,26.8,kg/ha/yr,p4 Table 2,table,e_fertiliser,mean of last 2 yrs (2009-11)
+Ghosh_2017,ICAR-IIPR Kanpur,L_RWRC_ORG,,annual_K,146.0,kg/ha/yr,p4 Table 2,table,e_fertiliser,mean of last 2 yrs (2009-11)
+Ghosh_2017,ICAR-IIPR Kanpur,L_RWRC_ORG,,annual_S,28.2,kg/ha/yr,p4 Table 2,table,e_fertiliser,mean of last 2 yrs (2009-11)
+Ghosh_2017,ICAR-IIPR Kanpur,L_RWRC_ORG,,annual_Zn,0.4,kg/ha/yr,p4 Table 2,table,e_fertiliser,mean of last 2 yrs (2009-11)
+Ghosh_2017,ICAR-IIPR Kanpur,L_RWRC_ORG,,cumC_FYM,6.5,Mg C/ha,p4 Table 2,table,e_fertiliser,cumulative 8 yrs
+Ghosh_2017,ICAR-IIPR Kanpur,L_RWRC_ORG,,cumC_residue,43.0,Mg C/ha,p4 Table 2,table,e_fertiliser,cumulative 8 yrs
+Ghosh_2017,ICAR-IIPR Kanpur,L_RWRC_ORG,,cumC_total,49.5,Mg C/ha,p4 Table 2,table,e_fertiliser,cumulative 8 yrs
+Ghosh_2017,ICAR-IIPR Kanpur,L_RWRC_CT,,annual_nutrient_input,none (dash in table),,p4 Table 2,table,e_fertiliser,
+Ghosh_2017,ICAR-IIPR Kanpur,U_MW_RDF,,annual_N,240,kg/ha/yr,p4 Table 2,table,e_fertiliser,mean of last 2 yrs (2009-11)
+Ghosh_2017,ICAR-IIPR Kanpur,U_MW_RDF,,annual_P,52.4,kg/ha/yr,p4 Table 2,table,e_fertiliser,mean of last 2 yrs (2009-11)
+Ghosh_2017,ICAR-IIPR Kanpur,U_MW_RDF,,annual_K,43.7,kg/ha/yr,p4 Table 2,table,e_fertiliser,mean of last 2 yrs (2009-11)
+Ghosh_2017,ICAR-IIPR Kanpur,U_MW_RDF,,annual_S,20,kg/ha/yr,p4 Table 2,table,e_fertiliser,mean of last 2 yrs (2009-11)
+Ghosh_2017,ICAR-IIPR Kanpur,U_MW_RDF,,annual_Zn,4.2,kg/ha/yr,p4 Table 2,table,e_fertiliser,mean of last 2 yrs (2009-11)
+Ghosh_2017,ICAR-IIPR Kanpur,U_MW_ORG,,annual_N,91.6,kg/ha/yr,p4 Table 2,table,e_fertiliser,mean of last 2 yrs (2009-11)
+Ghosh_2017,ICAR-IIPR Kanpur,U_MW_ORG,,annual_P,18.9,kg/ha/yr,p4 Table 2,table,e_fertiliser,mean of last 2 yrs (2009-11)
+Ghosh_2017,ICAR-IIPR Kanpur,U_MW_ORG,,annual_K,122.3,kg/ha/yr,p4 Table 2,table,e_fertiliser,mean of last 2 yrs (2009-11)
+Ghosh_2017,ICAR-IIPR Kanpur,U_MW_ORG,,annual_S,10.8,kg/ha/yr,p4 Table 2,table,e_fertiliser,mean of last 2 yrs (2009-11)
+Ghosh_2017,ICAR-IIPR Kanpur,U_MW_ORG,,annual_Zn,0.42,kg/ha/yr,p4 Table 2,table,e_fertiliser,mean of last 2 yrs (2009-11)
+Ghosh_2017,ICAR-IIPR Kanpur,U_MW_ORG,,cumC_FYM,6.5,Mg C/ha,p4 Table 2,table,e_fertiliser,cumulative 8 yrs
+Ghosh_2017,ICAR-IIPR Kanpur,U_MW_ORG,,cumC_residue,36.2,Mg C/ha,p4 Table 2,table,e_fertiliser,cumulative 8 yrs
+Ghosh_2017,ICAR-IIPR Kanpur,U_MW_ORG,,cumC_total,42.7,Mg C/ha,p4 Table 2,table,e_fertiliser,cumulative 8 yrs
+Ghosh_2017,ICAR-IIPR Kanpur,U_MW_CT,,annual_nutrient_input,none (dash in table),,p4 Table 2,table,e_fertiliser,
+Ghosh_2017,ICAR-IIPR Kanpur,U_MWMC_RDF,,annual_N,190,kg/ha/yr,p4 Table 2,table,e_fertiliser,mean of last 2 yrs (2009-11)
+Ghosh_2017,ICAR-IIPR Kanpur,U_MWMC_RDF,,annual_P,52.4,kg/ha/yr,p4 Table 2,table,e_fertiliser,mean of last 2 yrs (2009-11)
+Ghosh_2017,ICAR-IIPR Kanpur,U_MWMC_RDF,,annual_K,43.7,kg/ha/yr,p4 Table 2,table,e_fertiliser,mean of last 2 yrs (2009-11)
+Ghosh_2017,ICAR-IIPR Kanpur,U_MWMC_RDF,,annual_S,20,kg/ha/yr,p4 Table 2,table,e_fertiliser,mean of last 2 yrs (2009-11)
+Ghosh_2017,ICAR-IIPR Kanpur,U_MWMC_RDF,,annual_Zn,4.2,kg/ha/yr,p4 Table 2,table,e_fertiliser,mean of last 2 yrs (2009-11)
+Ghosh_2017,ICAR-IIPR Kanpur,U_MWMC_ORG,,annual_N,109.9,kg/ha/yr,p4 Table 2,table,e_fertiliser,mean of last 2 yrs (2009-11)
+Ghosh_2017,ICAR-IIPR Kanpur,U_MWMC_ORG,,annual_P,22.3,kg/ha/yr,p4 Table 2,table,e_fertiliser,mean of last 2 yrs (2009-11)
+Ghosh_2017,ICAR-IIPR Kanpur,U_MWMC_ORG,,annual_K,142.5,kg/ha/yr,p4 Table 2,table,e_fertiliser,mean of last 2 yrs (2009-11)
+Ghosh_2017,ICAR-IIPR Kanpur,U_MWMC_ORG,,annual_S,16.1,kg/ha/yr,p4 Table 2,table,e_fertiliser,mean of last 2 yrs (2009-11)
+Ghosh_2017,ICAR-IIPR Kanpur,U_MWMC_ORG,,annual_Zn,0.5,kg/ha/yr,p4 Table 2,table,e_fertiliser,mean of last 2 yrs (2009-11)
+Ghosh_2017,ICAR-IIPR Kanpur,U_MWMC_ORG,,cumC_FYM,6.5,Mg C/ha,p4 Table 2,table,e_fertiliser,cumulative 8 yrs
+Ghosh_2017,ICAR-IIPR Kanpur,U_MWMC_ORG,,cumC_residue,43.8,Mg C/ha,p4 Table 2,table,e_fertiliser,cumulative 8 yrs
+Ghosh_2017,ICAR-IIPR Kanpur,U_MWMC_ORG,,cumC_total,50.31,Mg C/ha,p4 Table 2,table,e_fertiliser,"cumulative 8 yrs; 50.31 has 2 decimals, likely typo for 50.3"
+Ghosh_2017,ICAR-IIPR Kanpur,U_MWMC_CT,,annual_nutrient_input,none (dash in table),,p4 Table 2,table,e_fertiliser,
+Ghosh_2017,ICAR-IIPR Kanpur,all,,irrigation_method_dates_amounts,NA (not reported; wheat 'assured irrigated' only),,-,missing,f_irrigation,
